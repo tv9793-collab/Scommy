@@ -1,0 +1,173 @@
+{
+  "8ee537864f2ac5e457bb4b4f49d5521e": {
+    "nome": "Empoli vs Avellino",
+    "data": "2026-05-01",
+    "quote": {
+      "Avellino": 3.26,
+      "Empoli": 2.15,
+      "Draw": 3.11
+    }
+  },
+  "6dd79f418a5db4c5846c048278e5bdda": {
+    "nome": "Bari vs Virtus Entella",
+    "data": "2026-05-01",
+    "quote": {
+      "Bari": 2.83,
+      "Virtus Entella": 2.47,
+      "Draw": 3.0
+    }
+  },
+  "0adb3d18d1f838c4d3164f6f7be6f3b7": {
+    "nome": "Carrarese vs Cesena FC",
+    "data": "2026-05-01",
+    "quote": {
+      "Carrarese": 2.22,
+      "Cesena FC": 3.1,
+      "Draw": 3.11
+    }
+  },
+  "624fa90acfe3c8c4b2d5dabc12168d5a": {
+    "nome": "Juve Stabia vs Frosinone",
+    "data": "2026-05-01",
+    "quote": {
+      "Frosinone": 2.06,
+      "Juve Stabia": 3.21,
+      "Draw": 3.41
+    }
+  },
+  "4953b731b432e4f559878d7fef423434": {
+    "nome": "Mantova vs Monza",
+    "data": "2026-05-01",
+    "quote": {
+      "Mantova": 3.86,
+      "Monza": 1.83,
+      "Draw": 3.51
+    }
+  },
+  "63f72a0d9cf537616620b5b13fe7c135": {
+    "nome": "Modena vs Reggiana",
+    "data": "2026-05-01",
+    "quote": {
+      "Modena": 1.59,
+      "Reggiana": 5.1,
+      "Draw": 3.71
+    }
+  },
+  "35dcb81bb69c20b6d68166e00df1ca95": {
+    "nome": "Padova vs Pescara",
+    "data": "2026-05-01",
+    "quote": {
+      "Padova": 2.69,
+      "Pescara": 2.48,
+      "Draw": 3.17
+    }
+  },
+  "6ce8373732cbf37ad09374cfe1853848": {
+    "nome": "Palermo vs US Catanzaro 1929",
+    "data": "2026-05-01",
+    "quote": {
+      "Palermo": 1.63,
+      "US Catanzaro 1929": 4.62,
+      "Draw": 3.83
+    }
+  },
+  "3bb604a769e81e58aba3e1f1eb7772ba": {
+    "nome": "Sampdoria vs Südtirol",
+    "data": "2026-05-01",
+    "quote": {
+      "Sampdoria": 2.17,
+      "Südtirol": 3.28,
+      "Draw": 3.07
+    }
+  },
+  "bf3be2ee20a7914df76fde4bee1144bc": {
+    "nome": "Spezia vs Venezia",
+    "data": "2026-05-01",
+    "quote": {
+      "Spezia": 4.04,
+      "Venezia": 1.76,
+      "Draw": 3.63
+    }
+  },
+  "84cbc0fa63fa5a2ae56174843f39226e": {
+    "nome": "Galatasaray vs Fenerbahce",
+    "data": "2026-04-26",
+    "quote": {
+      "Fenerbahce": 3.21,
+      "Galatasaray": 2.22,
+      "Draw": 3.32
+    }
+  },
+  "1f183d84ad116e943fc989a98d995aea": {
+    "nome": "Alanyaspor vs Samsunspor",
+    "data": "2026-04-27",
+    "quote": {
+      "Alanyaspor": 2.29,
+      "Samsunspor": 3.22,
+      "Draw": 3.05
+    }
+  },
+  "59231d178a3d5c2559f535f9c3402a36": {
+    "nome": "Besiktas JK vs Fatih Karagümrük",
+    "data": "2026-04-27",
+    "quote": {
+      "Besiktas JK": 1.31,
+      "Fatih Karagümrük": 8.06,
+      "Draw": 5.24
+    }
+  },
+  "256baa4775112a945d76ee3a64ec1899": {
+    "nome": "Torku Konyaspor vs Trabzonspor",
+    "data": "2026-04-27",
+    "quote": {
+      "Torku Konyaspor": 2.96,
+      "Trabzonspor": 2.23,
+      "Draw": 3.43
+    }
+  },
+  "6583a39af62883a34514601d9212cc63": {
+    "nome": "Çaykur Rizespor vs Torku Konyaspor",
+    "data": "2026-05-01",
+    "quote": {
+      "Torku Konyaspor": 2.84,
+      "Çaykur Rizespor": 2.11,
+      "Draw": 3.26
+    }
+  },
+  "3bc21d93fc7783ab5ccc8dc9af236a01": {
+    "nome": "Gazişehir Gaziantep vs Besiktas JK",
+    "data": "2026-05-01",
+    "quote": {
+      "Besiktas JK": 1.59,
+      "Gazişehir Gaziantep": 4.13,
+      "Draw": 3.8
+    }
+  },
+  "225220544e8645beb18154def1347c60": {
+    "nome": "Fenerbahce vs Basaksehir",
+    "data": "2026-05-02",
+    "quote": {
+      "Basaksehir": 5.99,
+      "Fenerbahce": 1.42,
+      "Draw": 4.47
+    }
+  },
+  "bcde3deb47e9ff2504b8965a2466c7d2": {
+    "nome": "Samsunspor vs Galatasaray",
+    "data": "2026-05-02",
+    "quote": {
+      "Galatasaray": 1.64,
+      "Samsunspor": 4.54,
+      "Draw": 3.82
+    }
+  },
+  "ce25d63b88359fc90e1ba20d4b9ff8e7": {
+    "nome": "Trabzonspor vs Goztepe",
+    "data": "2026-05-02",
+    "quote": {
+      "Goztepe": 3.56,
+      "Trabzonspor": 1.91,
+      "Draw": 3.48
+    }
+  }
+}
