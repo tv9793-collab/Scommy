@@ -28,7 +28,7 @@ SOGLIA = float(os.environ.get("SOGLIA_OSCILLAZIONE", "1.5"))
 # Serie A e top leagues escluse: troppo seguite dai trader sharp, poche sorprese
 SPORT = [
     "soccer_italy_serie_b",        # Serie B: meno trader sharp, più errori quota
-    "soccer_turkey_super_league",  # Super Lig: mercato sottile, ritardi frequenti
+    "soccer_portugal_primeira_liga",  # Super Lig: mercato sottile, ritardi frequenti
 ]
 
 # Finestra oraria (ora italiana) in cui ha senso monitorare
