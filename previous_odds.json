@@ -23,7 +23,7 @@
     "quote": {
       "Carrarese": 2.22,
       "Cesena FC": 3.1,
-      "Draw": 3.11
+      "Draw": 3.1
     }
   },
   "624fa90acfe3c8c4b2d5dabc12168d5a": {
@@ -39,9 +39,9 @@
     "nome": "Mantova vs Monza",
     "data": "2026-05-01",
     "quote": {
-      "Mantova": 3.86,
-      "Monza": 1.83,
-      "Draw": 3.51
+      "Mantova": 3.96,
+      "Monza": 1.79,
+      "Draw": 3.55
     }
   },
   "63f72a0d9cf537616620b5b13fe7c135": {
@@ -66,9 +66,9 @@
     "nome": "Palermo vs US Catanzaro 1929",
     "data": "2026-05-01",
     "quote": {
-      "Palermo": 1.63,
-      "US Catanzaro 1929": 4.62,
-      "Draw": 3.83
+      "Palermo": 1.59,
+      "US Catanzaro 1929": 4.85,
+      "Draw": 3.93
     }
   },
   "3bb604a769e81e58aba3e1f1eb7772ba": {
@@ -84,90 +84,90 @@
     "nome": "Spezia vs Venezia",
     "data": "2026-05-01",
     "quote": {
-      "Spezia": 4.04,
-      "Venezia": 1.76,
-      "Draw": 3.63
+      "Spezia": 4.03,
+      "Venezia": 1.75,
+      "Draw": 3.67
     }
   },
-  "84cbc0fa63fa5a2ae56174843f39226e": {
-    "nome": "Galatasaray vs Fenerbahce",
+  "f05fa77023dd5a6280df5da035a39622": {
+    "nome": "AVS Futebol SAD vs Sporting Lisbon",
     "data": "2026-04-26",
     "quote": {
-      "Fenerbahce": 3.21,
-      "Galatasaray": 2.22,
-      "Draw": 3.32
+      "AVS Futebol SAD": 19.69,
+      "Sporting Lisbon": 1.09,
+      "Draw": 10.68
     }
   },
-  "1f183d84ad116e943fc989a98d995aea": {
-    "nome": "Alanyaspor vs Samsunspor",
+  "c35cec8c25a5e2bc1ca9bfa3b870c161": {
+    "nome": "Gil Vicente vs Casa Pia",
     "data": "2026-04-27",
     "quote": {
-      "Alanyaspor": 2.29,
-      "Samsunspor": 3.22,
-      "Draw": 3.05
+      "Casa Pia": 5.59,
+      "Gil Vicente": 1.59,
+      "Draw": 3.78
     }
   },
-  "59231d178a3d5c2559f535f9c3402a36": {
-    "nome": "Besiktas JK vs Fatih Karagümrük",
-    "data": "2026-04-27",
-    "quote": {
-      "Besiktas JK": 1.31,
-      "Fatih Karagümrük": 8.06,
-      "Draw": 5.24
-    }
-  },
-  "256baa4775112a945d76ee3a64ec1899": {
-    "nome": "Torku Konyaspor vs Trabzonspor",
-    "data": "2026-04-27",
-    "quote": {
-      "Torku Konyaspor": 2.96,
-      "Trabzonspor": 2.23,
-      "Draw": 3.43
-    }
-  },
-  "6583a39af62883a34514601d9212cc63": {
-    "nome": "Çaykur Rizespor vs Torku Konyaspor",
-    "data": "2026-05-01",
-    "quote": {
-      "Torku Konyaspor": 2.84,
-      "Çaykur Rizespor": 2.11,
-      "Draw": 3.26
-    }
-  },
-  "3bc21d93fc7783ab5ccc8dc9af236a01": {
-    "nome": "Gazişehir Gaziantep vs Besiktas JK",
-    "data": "2026-05-01",
-    "quote": {
-      "Besiktas JK": 1.59,
-      "Gazişehir Gaziantep": 4.13,
-      "Draw": 3.8
-    }
-  },
-  "225220544e8645beb18154def1347c60": {
-    "nome": "Fenerbahce vs Basaksehir",
+  "1924bb4b78bd3bb972a104695e5fddf9": {
+    "nome": "Nacional vs AVS Futebol SAD",
     "data": "2026-05-02",
     "quote": {
-      "Basaksehir": 5.99,
-      "Fenerbahce": 1.42,
-      "Draw": 4.47
+      "AVS Futebol SAD": 5.33,
+      "Nacional": 1.5,
+      "Draw": 4.03
     }
   },
-  "bcde3deb47e9ff2504b8965a2466c7d2": {
-    "nome": "Samsunspor vs Galatasaray",
+  "a52bb76846fd626ae32564f7be3550ec": {
+    "nome": "Arouca vs Santa Clara",
     "data": "2026-05-02",
     "quote": {
-      "Galatasaray": 1.64,
-      "Samsunspor": 4.54,
-      "Draw": 3.82
+      "Arouca": 2.93,
+      "Santa Clara": 2.48,
+      "Draw": 2.98
     }
   },
-  "ce25d63b88359fc90e1ba20d4b9ff8e7": {
-    "nome": "Trabzonspor vs Goztepe",
+  "7702df55186f99ff06dd572038fd516c": {
+    "nome": "Moreirense FC vs CF Estrela",
     "data": "2026-05-02",
     "quote": {
-      "Goztepe": 3.56,
-      "Trabzonspor": 1.91,
-      "Draw": 3.48
+      "CF Estrela": 2.95,
+      "Moreirense FC": 2.2,
+      "Draw": 3.04
+    }
+  },
+  "bbd24eddb4105dee6cae67d3332cd143": {
+    "nome": "Famalicão vs Benfica",
+    "data": "2026-05-02",
+    "quote": {
+      "Benfica": 1.56,
+      "Famalicão": 5.15,
+      "Draw": 3.96
+    }
+  },
+  "110926424fe87203e3a5ce0c3bd24ef1": {
+    "nome": "FC Porto vs Alverca",
+    "data": "2026-05-02",
+    "quote": {
+      "Alverca": 12.13,
+      "FC Porto": 1.2,
+      "Draw": 5.91
+    }
+  },
+  "ea661caafc4c8c1b1bf5c2ccef1e8e25": {
+    "nome": "Casa Pia vs Tondela",
+    "data": "2026-05-03",
+    "quote": {
+      "Casa Pia": 2.3,
+      "Tondela": 2.92,
+      "Draw": 3.08
+    }
+  },
+  "6da09dc28351a7ea21f7e46846c50db8": {
+    "nome": "Braga vs Estoril",
+    "data": "2026-05-03",
+    "quote": {
+      "Braga": 1.44,
+      "Estoril": 5.81,
+      "Draw": 4.33
     }
   }
 }
