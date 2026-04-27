@@ -12,7 +12,7 @@
     "nome": "Bari vs Virtus Entella",
     "data": "2026-05-01",
     "quote": {
-      "Bari": 2.78,
+      "Bari": 2.79,
       "Virtus Entella": 2.45,
       "Draw": 3.05
     }
@@ -39,9 +39,9 @@
     "nome": "Mantova vs Monza",
     "data": "2026-05-01",
     "quote": {
-      "Mantova": 4.15,
-      "Monza": 1.76,
-      "Draw": 3.49
+      "Mantova": 4.33,
+      "Monza": 1.73,
+      "Draw": 3.52
     }
   },
   "63f72a0d9cf537616620b5b13fe7c135": {
@@ -49,17 +49,17 @@
     "data": "2026-05-01",
     "quote": {
       "Modena": 1.6,
-      "Reggiana": 5.12,
-      "Draw": 3.65
+      "Reggiana": 5.08,
+      "Draw": 3.66
     }
   },
   "35dcb81bb69c20b6d68166e00df1ca95": {
     "nome": "Padova vs Pescara",
     "data": "2026-05-01",
     "quote": {
-      "Padova": 2.68,
-      "Pescara": 2.42,
-      "Draw": 3.24
+      "Padova": 2.75,
+      "Pescara": 2.36,
+      "Draw": 3.25
     }
   },
   "6ce8373732cbf37ad09374cfe1853848": {
@@ -75,26 +75,26 @@
     "nome": "Sampdoria vs Südtirol",
     "data": "2026-05-01",
     "quote": {
-      "Sampdoria": 2.13,
+      "Sampdoria": 2.14,
       "Südtirol": 3.34,
-      "Draw": 3.07
+      "Draw": 3.06
     }
   },
   "bf3be2ee20a7914df76fde4bee1144bc": {
     "nome": "Spezia vs Venezia",
     "data": "2026-05-01",
     "quote": {
-      "Spezia": 4.04,
-      "Venezia": 1.74,
-      "Draw": 3.68
+      "Spezia": 4.05,
+      "Venezia": 1.73,
+      "Draw": 3.7
     }
   },
   "c35cec8c25a5e2bc1ca9bfa3b870c161": {
     "nome": "Gil Vicente vs Casa Pia",
     "data": "2026-04-27",
     "quote": {
-      "Casa Pia": 5.57,
-      "Gil Vicente": 1.6,
+      "Casa Pia": 5.63,
+      "Gil Vicente": 1.61,
       "Draw": 3.76
     }
   },
@@ -103,7 +103,7 @@
     "data": "2026-04-29",
     "quote": {
       "Sporting Lisbon": 1.13,
-      "Tondela": 13.61,
+      "Tondela": 14.04,
       "Draw": 8.16
     }
   },
@@ -111,9 +111,9 @@
     "nome": "Nacional vs AVS Futebol SAD",
     "data": "2026-05-02",
     "quote": {
-      "AVS Futebol SAD": 5.64,
+      "AVS Futebol SAD": 5.66,
       "Nacional": 1.5,
-      "Draw": 4.17
+      "Draw": 4.2
     }
   },
   "a52bb76846fd626ae32564f7be3550ec": {
@@ -129,8 +129,8 @@
     "nome": "Moreirense FC vs CF Estrela",
     "data": "2026-05-02",
     "quote": {
-      "CF Estrela": 3.1,
-      "Moreirense FC": 2.27,
+      "CF Estrela": 3.05,
+      "Moreirense FC": 2.29,
       "Draw": 3.16
     }
   },
@@ -149,16 +149,16 @@
     "quote": {
       "Alverca": 12.06,
       "FC Porto": 1.2,
-      "Draw": 6.13
+      "Draw": 6.15
     }
   },
   "ea661caafc4c8c1b1bf5c2ccef1e8e25": {
     "nome": "Casa Pia vs Tondela",
     "data": "2026-05-03",
     "quote": {
-      "Casa Pia": 2.3,
-      "Tondela": 2.94,
-      "Draw": 3.1
+      "Casa Pia": 2.31,
+      "Tondela": 2.97,
+      "Draw": 3.12
     }
   },
   "6da09dc28351a7ea21f7e46846c50db8": {
@@ -166,7 +166,7 @@
     "data": "2026-05-03",
     "quote": {
       "Braga": 1.41,
-      "Estoril": 6.31,
+      "Estoril": 6.27,
       "Draw": 4.61
     }
   },
