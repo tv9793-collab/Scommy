@@ -14,7 +14,7 @@
     "quote": {
       "Bari": 2.79,
       "Virtus Entella": 2.45,
-      "Draw": 3.05
+      "Draw": 3.04
     }
   },
   "0adb3d18d1f838c4d3164f6f7be6f3b7": {
@@ -22,8 +22,8 @@
     "data": "2026-05-01",
     "quote": {
       "Carrarese": 2.22,
-      "Cesena FC": 3.03,
-      "Draw": 3.17
+      "Cesena FC": 3.05,
+      "Draw": 3.15
     }
   },
   "624fa90acfe3c8c4b2d5dabc12168d5a": {
@@ -31,7 +31,7 @@
     "data": "2026-05-01",
     "quote": {
       "Frosinone": 2.08,
-      "Juve Stabia": 3.15,
+      "Juve Stabia": 3.17,
       "Draw": 3.37
     }
   },
@@ -39,8 +39,8 @@
     "nome": "Mantova vs Monza",
     "data": "2026-05-01",
     "quote": {
-      "Mantova": 4.33,
-      "Monza": 1.73,
+      "Mantova": 4.35,
+      "Monza": 1.72,
       "Draw": 3.52
     }
   },
@@ -50,16 +50,16 @@
     "quote": {
       "Modena": 1.6,
       "Reggiana": 5.08,
-      "Draw": 3.66
+      "Draw": 3.67
     }
   },
   "35dcb81bb69c20b6d68166e00df1ca95": {
     "nome": "Padova vs Pescara",
     "data": "2026-05-01",
     "quote": {
-      "Padova": 2.75,
-      "Pescara": 2.36,
-      "Draw": 3.25
+      "Padova": 2.76,
+      "Pescara": 2.37,
+      "Draw": 3.23
     }
   },
   "6ce8373732cbf37ad09374cfe1853848": {
@@ -84,53 +84,53 @@
     "nome": "Spezia vs Venezia",
     "data": "2026-05-01",
     "quote": {
-      "Spezia": 4.05,
+      "Spezia": 4.07,
       "Venezia": 1.73,
-      "Draw": 3.7
+      "Draw": 3.69
     }
   },
   "c35cec8c25a5e2bc1ca9bfa3b870c161": {
     "nome": "Gil Vicente vs Casa Pia",
     "data": "2026-04-27",
     "quote": {
-      "Casa Pia": 5.63,
-      "Gil Vicente": 1.61,
-      "Draw": 3.76
+      "Casa Pia": 5.19,
+      "Gil Vicente": 1.67,
+      "Draw": 3.64
     }
   },
   "6d093ca5250b051f120c9659c81484e9": {
     "nome": "Sporting Lisbon vs Tondela",
     "data": "2026-04-29",
     "quote": {
-      "Sporting Lisbon": 1.13,
-      "Tondela": 14.04,
-      "Draw": 8.16
+      "Sporting Lisbon": 1.12,
+      "Tondela": 16.78,
+      "Draw": 8.62
     }
   },
   "1924bb4b78bd3bb972a104695e5fddf9": {
     "nome": "Nacional vs AVS Futebol SAD",
     "data": "2026-05-02",
     "quote": {
-      "AVS Futebol SAD": 5.66,
-      "Nacional": 1.5,
-      "Draw": 4.2
+      "AVS Futebol SAD": 6.3,
+      "Nacional": 1.44,
+      "Draw": 4.41
     }
   },
   "a52bb76846fd626ae32564f7be3550ec": {
     "nome": "Arouca vs Santa Clara",
     "data": "2026-05-02",
     "quote": {
-      "Arouca": 2.92,
-      "Santa Clara": 2.48,
-      "Draw": 2.99
+      "Arouca": 2.99,
+      "Santa Clara": 2.44,
+      "Draw": 3.0
     }
   },
   "7702df55186f99ff06dd572038fd516c": {
     "nome": "Moreirense FC vs CF Estrela",
     "data": "2026-05-02",
     "quote": {
-      "CF Estrela": 3.05,
-      "Moreirense FC": 2.29,
+      "CF Estrela": 2.92,
+      "Moreirense FC": 2.38,
       "Draw": 3.16
     }
   },
@@ -140,43 +140,43 @@
     "quote": {
       "Benfica": 1.56,
       "Famalicão": 5.26,
-      "Draw": 4.02
+      "Draw": 4.03
     }
   },
   "110926424fe87203e3a5ce0c3bd24ef1": {
     "nome": "FC Porto vs Alverca",
     "data": "2026-05-02",
     "quote": {
-      "Alverca": 12.06,
+      "Alverca": 12.26,
       "FC Porto": 1.2,
-      "Draw": 6.15
+      "Draw": 6.19
     }
   },
   "ea661caafc4c8c1b1bf5c2ccef1e8e25": {
     "nome": "Casa Pia vs Tondela",
     "data": "2026-05-03",
     "quote": {
-      "Casa Pia": 2.31,
-      "Tondela": 2.97,
-      "Draw": 3.12
+      "Casa Pia": 2.32,
+      "Tondela": 2.98,
+      "Draw": 3.14
     }
   },
   "6da09dc28351a7ea21f7e46846c50db8": {
     "nome": "Braga vs Estoril",
     "data": "2026-05-03",
     "quote": {
-      "Braga": 1.41,
-      "Estoril": 6.27,
-      "Draw": 4.61
+      "Braga": 1.44,
+      "Estoril": 5.56,
+      "Draw": 4.24
     }
   },
   "c564a20fa6a716e013956c8958a79ca9": {
     "nome": "Rio Ave FC vs Gil Vicente",
     "data": "2026-05-03",
     "quote": {
-      "Gil Vicente": 1.98,
-      "Rio Ave FC": 3.46,
-      "Draw": 3.31
+      "Gil Vicente": 1.94,
+      "Rio Ave FC": 3.51,
+      "Draw": 3.43
     }
   }
 }
