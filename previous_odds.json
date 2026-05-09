@@ -1,27 +1,36 @@
 {
+  "e2bda399d28197eb99136e5c59cfdc41": {
+    "nome": "Bari vs Südtirol",
+    "data": "2026-05-15",
+    "quote": {
+      "Bari": 2.31,
+      "Südtirol": 2.85,
+      "Draw": 3.08
+    }
+  },
   "eba1ce095fae24f9ab35b7b20e84d9a5": {
     "nome": "AVS Futebol SAD vs FC Porto",
     "data": "2026-05-10",
     "quote": {
-      "AVS Futebol SAD": 12.15,
+      "AVS Futebol SAD": 12.45,
       "FC Porto": 1.19,
-      "Draw": 6.43
+      "Draw": 6.5
     }
   },
   "985a16928786a9e30ad8c3af863239cb": {
     "nome": "Alverca vs Estoril",
     "data": "2026-05-10",
     "quote": {
-      "Alverca": 2.38,
-      "Estoril": 2.75,
-      "Draw": 3.41
+      "Alverca": 2.39,
+      "Estoril": 2.76,
+      "Draw": 3.42
     }
   },
   "a791d6e0ffc153a41d1246d3c5de9c87": {
     "nome": "Gil Vicente vs Arouca",
     "data": "2026-05-11",
     "quote": {
-      "Arouca": 4.62,
+      "Arouca": 4.63,
       "Gil Vicente": 1.68,
       "Draw": 3.72
     }
@@ -31,8 +40,8 @@
     "data": "2026-05-11",
     "quote": {
       "Benfica": 1.4,
-      "Braga": 6.87,
-      "Draw": 4.55
+      "Braga": 6.84,
+      "Draw": 4.57
     }
   },
   "fdd292174c39899f82a32ef5e37dabb0": {
@@ -48,18 +57,18 @@
     "nome": "Vitória SC vs Casa Pia",
     "data": "2026-05-11",
     "quote": {
-      "Casa Pia": 4.42,
+      "Casa Pia": 4.43,
       "Vitória SC": 1.69,
-      "Draw": 3.82
+      "Draw": 3.81
     }
   },
   "1cbaa229f9f455006f3770480bbb761c": {
     "nome": "Tondela vs Moreirense FC",
     "data": "2026-05-11",
     "quote": {
-      "Moreirense FC": 3.73,
+      "Moreirense FC": 3.72,
       "Tondela": 1.92,
-      "Draw": 3.44
+      "Draw": 3.45
     }
   },
   "7e774629221744a7ca06e77d502f48ce": {
@@ -75,9 +84,9 @@
     "nome": "Rio Ave FC vs Sporting Lisbon",
     "data": "2026-05-11",
     "quote": {
-      "Rio Ave FC": 9.53,
+      "Rio Ave FC": 9.72,
       "Sporting Lisbon": 1.23,
-      "Draw": 6.1
+      "Draw": 6.13
     }
   }
 }
