@@ -3,18 +3,18 @@
     "nome": "Modena vs Juve Stabia",
     "data": "2026-05-12",
     "quote": {
-      "Juve Stabia": 3.53,
-      "Modena": 2.14,
-      "Draw": 2.92
+      "Juve Stabia": 3.52,
+      "Modena": 2.15,
+      "Draw": 2.95
     }
   },
   "f7eedbe6c9a73d4162e0547452991289": {
     "nome": "US Catanzaro 1929 vs Avellino",
     "data": "2026-05-12",
     "quote": {
-      "Avellino": 3.32,
-      "US Catanzaro 1929": 2.08,
-      "Draw": 3.16
+      "Avellino": 3.31,
+      "US Catanzaro 1929": 2.07,
+      "Draw": 3.2
     }
   },
   "e2bda399d28197eb99136e5c59cfdc41": {
@@ -22,24 +22,24 @@
     "data": "2026-05-15",
     "quote": {
       "Bari": 2.35,
-      "Südtirol": 2.92,
-      "Draw": 2.98
+      "Südtirol": 2.91,
+      "Draw": 2.99
     }
   },
   "eba1ce095fae24f9ab35b7b20e84d9a5": {
     "nome": "AVS Futebol SAD vs FC Porto",
     "data": "2026-05-10",
     "quote": {
-      "AVS Futebol SAD": 12.59,
+      "AVS Futebol SAD": 12.68,
       "FC Porto": 1.19,
-      "Draw": 6.57
+      "Draw": 6.65
     }
   },
   "985a16928786a9e30ad8c3af863239cb": {
     "nome": "Alverca vs Estoril",
     "data": "2026-05-10",
     "quote": {
-      "Alverca": 2.39,
+      "Alverca": 2.4,
       "Estoril": 2.76,
       "Draw": 3.43
     }
@@ -48,9 +48,9 @@
     "nome": "Gil Vicente vs Arouca",
     "data": "2026-05-11",
     "quote": {
-      "Arouca": 4.65,
+      "Arouca": 4.63,
       "Gil Vicente": 1.69,
-      "Draw": 3.71
+      "Draw": 3.72
     }
   },
   "c4c2cc3d1ae4772d9d61af6418129658": {
@@ -59,7 +59,7 @@
     "quote": {
       "Benfica": 1.4,
       "Braga": 6.85,
-      "Draw": 4.56
+      "Draw": 4.59
     }
   },
   "fdd292174c39899f82a32ef5e37dabb0": {
@@ -102,9 +102,9 @@
     "nome": "Rio Ave FC vs Sporting Lisbon",
     "data": "2026-05-11",
     "quote": {
-      "Rio Ave FC": 9.9,
-      "Sporting Lisbon": 1.23,
-      "Draw": 6.18
+      "Rio Ave FC": 9.91,
+      "Sporting Lisbon": 1.22,
+      "Draw": 6.21
     }
   }
 }
