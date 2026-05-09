@@ -1,20 +1,38 @@
 {
+  "910b1ed52e440738b08c80de8aca491c": {
+    "nome": "Modena vs Juve Stabia",
+    "data": "2026-05-12",
+    "quote": {
+      "Juve Stabia": 3.53,
+      "Modena": 2.14,
+      "Draw": 2.92
+    }
+  },
+  "f7eedbe6c9a73d4162e0547452991289": {
+    "nome": "US Catanzaro 1929 vs Avellino",
+    "data": "2026-05-12",
+    "quote": {
+      "Avellino": 3.32,
+      "US Catanzaro 1929": 2.08,
+      "Draw": 3.16
+    }
+  },
   "e2bda399d28197eb99136e5c59cfdc41": {
     "nome": "Bari vs Südtirol",
     "data": "2026-05-15",
     "quote": {
-      "Bari": 2.31,
-      "Südtirol": 2.85,
-      "Draw": 3.08
+      "Bari": 2.35,
+      "Südtirol": 2.92,
+      "Draw": 2.98
     }
   },
   "eba1ce095fae24f9ab35b7b20e84d9a5": {
     "nome": "AVS Futebol SAD vs FC Porto",
     "data": "2026-05-10",
     "quote": {
-      "AVS Futebol SAD": 12.45,
+      "AVS Futebol SAD": 12.59,
       "FC Porto": 1.19,
-      "Draw": 6.5
+      "Draw": 6.57
     }
   },
   "985a16928786a9e30ad8c3af863239cb": {
@@ -23,16 +41,16 @@
     "quote": {
       "Alverca": 2.39,
       "Estoril": 2.76,
-      "Draw": 3.42
+      "Draw": 3.43
     }
   },
   "a791d6e0ffc153a41d1246d3c5de9c87": {
     "nome": "Gil Vicente vs Arouca",
     "data": "2026-05-11",
     "quote": {
-      "Arouca": 4.63,
-      "Gil Vicente": 1.68,
-      "Draw": 3.72
+      "Arouca": 4.65,
+      "Gil Vicente": 1.69,
+      "Draw": 3.71
     }
   },
   "c4c2cc3d1ae4772d9d61af6418129658": {
@@ -40,8 +58,8 @@
     "data": "2026-05-11",
     "quote": {
       "Benfica": 1.4,
-      "Braga": 6.84,
-      "Draw": 4.57
+      "Braga": 6.85,
+      "Draw": 4.56
     }
   },
   "fdd292174c39899f82a32ef5e37dabb0": {
@@ -59,16 +77,16 @@
     "quote": {
       "Casa Pia": 4.43,
       "Vitória SC": 1.69,
-      "Draw": 3.81
+      "Draw": 3.82
     }
   },
   "1cbaa229f9f455006f3770480bbb761c": {
     "nome": "Tondela vs Moreirense FC",
     "data": "2026-05-11",
     "quote": {
-      "Moreirense FC": 3.72,
+      "Moreirense FC": 3.73,
       "Tondela": 1.92,
-      "Draw": 3.45
+      "Draw": 3.44
     }
   },
   "7e774629221744a7ca06e77d502f48ce": {
@@ -84,9 +102,9 @@
     "nome": "Rio Ave FC vs Sporting Lisbon",
     "data": "2026-05-11",
     "quote": {
-      "Rio Ave FC": 9.72,
+      "Rio Ave FC": 9.9,
       "Sporting Lisbon": 1.23,
-      "Draw": 6.13
+      "Draw": 6.18
     }
   }
 }
