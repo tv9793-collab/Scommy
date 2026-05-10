@@ -3,17 +3,17 @@
     "nome": "Modena vs Juve Stabia",
     "data": "2026-05-12",
     "quote": {
-      "Juve Stabia": 3.55,
-      "Modena": 2.12,
-      "Draw": 2.98
+      "Juve Stabia": 3.52,
+      "Modena": 2.13,
+      "Draw": 2.99
     }
   },
   "f7eedbe6c9a73d4162e0547452991289": {
     "nome": "US Catanzaro 1929 vs Avellino",
     "data": "2026-05-12",
     "quote": {
-      "Avellino": 3.37,
-      "US Catanzaro 1929": 2.06,
+      "Avellino": 3.34,
+      "US Catanzaro 1929": 2.07,
       "Draw": 3.22
     }
   },
@@ -22,7 +22,7 @@
     "data": "2026-05-15",
     "quote": {
       "Bari": 2.43,
-      "Südtirol": 2.81,
+      "Südtirol": 2.82,
       "Draw": 2.99
     }
   },
@@ -30,17 +30,17 @@
     "nome": "AVS Futebol SAD vs FC Porto",
     "data": "2026-05-10",
     "quote": {
-      "AVS Futebol SAD": 12.24,
+      "AVS Futebol SAD": 12.69,
       "FC Porto": 1.2,
-      "Draw": 6.38
+      "Draw": 6.46
     }
   },
   "985a16928786a9e30ad8c3af863239cb": {
     "nome": "Alverca vs Estoril",
     "data": "2026-05-10",
     "quote": {
-      "Alverca": 2.43,
-      "Estoril": 2.7,
+      "Alverca": 2.4,
+      "Estoril": 2.74,
       "Draw": 3.52
     }
   },
@@ -58,17 +58,17 @@
     "data": "2026-05-11",
     "quote": {
       "Benfica": 1.4,
-      "Braga": 6.87,
-      "Draw": 4.61
+      "Braga": 6.92,
+      "Draw": 4.6
     }
   },
   "fdd292174c39899f82a32ef5e37dabb0": {
     "nome": "CF Estrela vs Famalicão",
     "data": "2026-05-11",
     "quote": {
-      "CF Estrela": 3.63,
-      "Famalicão": 1.95,
-      "Draw": 3.48
+      "CF Estrela": 3.65,
+      "Famalicão": 1.94,
+      "Draw": 3.49
     }
   },
   "610cd0b06ffa01a0a75e420807bf0b78": {
@@ -86,7 +86,7 @@
     "quote": {
       "Moreirense FC": 3.78,
       "Tondela": 1.93,
-      "Draw": 3.44
+      "Draw": 3.46
     }
   },
   "7e774629221744a7ca06e77d502f48ce": {
@@ -95,16 +95,16 @@
     "quote": {
       "Nacional": 3.5,
       "Santa Clara": 2.08,
-      "Draw": 3.23
+      "Draw": 3.24
     }
   },
   "f8415dfe9cb2bcb93714367c35c3e54c": {
     "nome": "Rio Ave FC vs Sporting Lisbon",
     "data": "2026-05-11",
     "quote": {
-      "Rio Ave FC": 9.96,
+      "Rio Ave FC": 10.0,
       "Sporting Lisbon": 1.23,
-      "Draw": 6.28
+      "Draw": 6.31
     }
   }
 }
