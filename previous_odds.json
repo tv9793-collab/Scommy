@@ -1,92 +1,20 @@
 {
-  "21b10c43e98b3a18f6c1c054e611764a": {
-    "nome": "Juve Stabia vs Monza",
-    "data": "2026-05-16",
-    "quote": {
-      "Juve Stabia": 3.19,
-      "Monza": 2.41,
-      "Draw": 2.9
-    }
-  },
   "db2a299244574ce32e2720a1bba5dfee": {
     "nome": "US Catanzaro 1929 vs Palermo",
     "data": "2026-05-17",
     "quote": {
-      "Palermo": 2.24,
-      "US Catanzaro 1929": 2.96,
-      "Draw": 3.33
+      "Palermo": 2.25,
+      "US Catanzaro 1929": 2.98,
+      "Draw": 3.35
     }
   },
   "a5520c93813773b14094f7d7811ae85c": {
     "nome": "Südtirol vs Bari",
     "data": "2026-05-22",
     "quote": {
-      "Bari": 3.8,
+      "Bari": 3.81,
       "Südtirol": 1.87,
       "Draw": 3.34
-    }
-  },
-  "1869ae3aaf9ebb7608deb91338096837": {
-    "nome": "Arouca vs Tondela",
-    "data": "2026-05-16",
-    "quote": {
-      "Arouca": 3.26,
-      "Tondela": 2.1,
-      "Draw": 3.52
-    }
-  },
-  "4086f2714a447fa2e84b4ccdce012f1a": {
-    "nome": "Braga vs CF Estrela",
-    "data": "2026-05-16",
-    "quote": {
-      "Braga": 1.71,
-      "CF Estrela": 4.45,
-      "Draw": 3.91
-    }
-  },
-  "df3f6c4334a99c039bdc83306cbfff49": {
-    "nome": "Casa Pia vs Rio Ave FC",
-    "data": "2026-05-16",
-    "quote": {
-      "Casa Pia": 1.69,
-      "Rio Ave FC": 4.73,
-      "Draw": 3.78
-    }
-  },
-  "5e0acb653e99a922faa79ba144be588c": {
-    "nome": "Nacional vs Vitória SC",
-    "data": "2026-05-16",
-    "quote": {
-      "Nacional": 2.22,
-      "Vitória SC": 3.17,
-      "Draw": 3.3
-    }
-  },
-  "2646db891b7908c461ba03b23be91ba8": {
-    "nome": "Famalicão vs Alverca",
-    "data": "2026-05-16",
-    "quote": {
-      "Alverca": 5.28,
-      "Famalicão": 1.6,
-      "Draw": 3.96
-    }
-  },
-  "529f9c1efb36275971446fc4831e4e06": {
-    "nome": "Estoril vs Benfica",
-    "data": "2026-05-16",
-    "quote": {
-      "Benfica": 1.25,
-      "Estoril": 9.88,
-      "Draw": 6.2
-    }
-  },
-  "1d447f12c1599ee52946e5014c21d0a1": {
-    "nome": "Sporting Lisbon vs Gil Vicente",
-    "data": "2026-05-16",
-    "quote": {
-      "Gil Vicente": 12.77,
-      "Sporting Lisbon": 1.18,
-      "Draw": 7.22
     }
   }
 }
