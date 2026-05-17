@@ -1,20 +1,11 @@
 {
-  "db2a299244574ce32e2720a1bba5dfee": {
-    "nome": "US Catanzaro 1929 vs Palermo",
-    "data": "2026-05-17",
-    "quote": {
-      "Palermo": 3.16,
-      "US Catanzaro 1929": 2.3,
-      "Draw": 3.09
-    }
-  },
   "e33eaf15d9e9b898342f76cd88b063d9": {
     "nome": "Monza vs Juve Stabia",
     "data": "2026-05-19",
     "quote": {
-      "Juve Stabia": 4.95,
+      "Juve Stabia": 5.04,
       "Monza": 1.6,
-      "Draw": 3.82
+      "Draw": 3.83
     }
   },
   "a5520c93813773b14094f7d7811ae85c": {
