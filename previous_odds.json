@@ -3,27 +3,27 @@
     "nome": "Monza vs Juve Stabia",
     "data": "2026-05-19",
     "quote": {
-      "Juve Stabia": 5.08,
-      "Monza": 1.6,
-      "Draw": 3.84
+      "Juve Stabia": 4.76,
+      "Monza": 1.7,
+      "Draw": 3.62
     }
   },
   "6859ea3003be57d67ef1d39ca08cfee2": {
     "nome": "Palermo vs US Catanzaro 1929",
     "data": "2026-05-20",
     "quote": {
-      "Palermo": 1.72,
-      "US Catanzaro 1929": 4.08,
-      "Draw": 3.85
+      "Palermo": 1.78,
+      "US Catanzaro 1929": 3.93,
+      "Draw": 3.78
     }
   },
   "a5520c93813773b14094f7d7811ae85c": {
     "nome": "Südtirol vs Bari",
     "data": "2026-05-22",
     "quote": {
-      "Bari": 3.83,
-      "Südtirol": 1.87,
-      "Draw": 3.31
+      "Bari": 3.81,
+      "Südtirol": 1.88,
+      "Draw": 3.32
     }
   }
 }
