@@ -1,1 +1,74 @@
-{}
+{
+  "30d393fe018a1d7a448324ddd70671bb": {
+    "nome": "Hellas Verona vs Ascoli",
+    "data": "2026-08-22",
+    "quote": {
+      "Ascoli": 5.79,
+      "Hellas Verona": 1.47,
+      "Draw": 3.31
+    }
+  },
+  "11308436676766036274329ed46852df": {
+    "nome": "Benevento vs Modena",
+    "data": "2026-08-22",
+    "quote": {
+      "Benevento": 2.37,
+      "Modena": 2.5,
+      "Draw": 2.93
+    }
+  },
+  "84204438a9c908db850d8a6a3a142aff": {
+    "nome": "Carrarese vs Mantova",
+    "data": "2026-08-22",
+    "quote": {
+      "Carrarese": 2.15,
+      "Mantova": 3.08,
+      "Draw": 2.9
+    }
+  },
+  "abe56bc0b2d79990d7ebc1edbc6bb3a3": {
+    "nome": "Cesena FC vs Sampdoria",
+    "data": "2026-08-22",
+    "quote": {
+      "Cesena FC": 2.55,
+      "Sampdoria": 2.43,
+      "Draw": 2.99
+    }
+  },
+  "302341207055a2bd67abdf33940d24c3": {
+    "nome": "Empoli vs Cremonese",
+    "data": "2026-08-22",
+    "quote": {
+      "Cremonese": 2.38,
+      "Empoli": 2.69,
+      "Draw": 2.9
+    }
+  },
+  "ae903e7535b92478914fb58ab506e008": {
+    "nome": "Palermo vs Juve Stabia",
+    "data": "2026-08-22",
+    "quote": {
+      "Juve Stabia": 6.33,
+      "Palermo": 1.47,
+      "Draw": 3.42
+    }
+  },
+  "3c26a73bb65d66235126be3471aeeac9": {
+    "nome": "Pisa vs Padova",
+    "data": "2026-08-22",
+    "quote": {
+      "Padova": 4.8,
+      "Pisa": 1.66,
+      "Draw": 3.08
+    }
+  },
+  "9bd50a8dece569c151e7aaa01d978f02": {
+    "nome": "Südtirol vs Virtus Entella",
+    "data": "2026-08-22",
+    "quote": {
+      "Südtirol": 1.92,
+      "Virtus Entella": 3.43,
+      "Draw": 3.08
+    }
+  }
+}
