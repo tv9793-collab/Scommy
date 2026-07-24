@@ -1,4 +1,13 @@
 {
+  "440a7702ee234fe9e1f58d697130b0d1": {
+    "nome": "Avellino vs Arezzo",
+    "data": "2026-08-22",
+    "quote": {
+      "Arezzo": 3.2,
+      "Avellino": 2.03,
+      "Draw": 3.11
+    }
+  },
   "30d393fe018a1d7a448324ddd70671bb": {
     "nome": "Hellas Verona vs Ascoli",
     "data": "2026-08-22",
@@ -69,6 +78,15 @@
       "Südtirol": 1.94,
       "Virtus Entella": 3.47,
       "Draw": 3.11
+    }
+  },
+  "6c4e291875a301113d20658a1d6d345b": {
+    "nome": "Vicenza vs US Catanzaro 1929",
+    "data": "2026-08-22",
+    "quote": {
+      "US Catanzaro 1929": 2.66,
+      "Vicenza": 2.58,
+      "Draw": 3.02
     }
   }
 }
