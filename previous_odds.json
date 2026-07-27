@@ -93,9 +93,9 @@
     "nome": "Estoril vs Famalicão",
     "data": "2026-08-07",
     "quote": {
-      "Estoril": 3.17,
-      "Famalicão": 2.06,
-      "Draw": 3.36
+      "Estoril": 3.18,
+      "Famalicão": 2.05,
+      "Draw": 3.38
     }
   },
   "75e8cad886f551dfae05b68a9de06e10": {
@@ -165,9 +165,9 @@
     "nome": "Santa Clara vs Nacional",
     "data": "2026-08-10",
     "quote": {
-      "Nacional": 3.34,
-      "Santa Clara": 2.07,
-      "Draw": 3.17
+      "Nacional": 3.36,
+      "Santa Clara": 2.05,
+      "Draw": 3.18
     }
   }
 }
