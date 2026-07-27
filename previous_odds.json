@@ -89,22 +89,85 @@
       "Draw": 3.02
     }
   },
+  "fe01f0849f3af49029c2faf03f09bc62": {
+    "nome": "Estoril vs Famalicão",
+    "data": "2026-08-07",
+    "quote": {
+      "Estoril": 3.07,
+      "Famalicão": 2.03,
+      "Draw": 3.35
+    }
+  },
   "75e8cad886f551dfae05b68a9de06e10": {
     "nome": "CS Maritimo vs Casa Pia",
     "data": "2026-08-08",
     "quote": {
-      "Casa Pia": 2.03,
-      "CS Maritimo": 2.23,
-      "Draw": 2.86
+      "Casa Pia": 2.1,
+      "CS Maritimo": 2.29,
+      "Draw": 2.95
+    }
+  },
+  "1bb1dc592ae4f1017aae3a36901b536b": {
+    "nome": "Vitória SC vs Arouca",
+    "data": "2026-08-08",
+    "quote": {
+      "Arouca": 3.44,
+      "Vitória SC": 1.89,
+      "Draw": 3.36
+    }
+  },
+  "29e2af26e987b4ad178bc40529b3ab80": {
+    "nome": "CF Estrela vs Sporting Lisbon",
+    "data": "2026-08-08",
+    "quote": {
+      "CF Estrela": 10.17,
+      "Sporting Lisbon": 1.2,
+      "Draw": 5.63
+    }
+  },
+  "a22463fa1e60fc06243141f286915661": {
+    "nome": "FC Porto vs Alverca",
+    "data": "2026-08-09",
+    "quote": {
+      "Alverca": 12.46,
+      "FC Porto": 1.16,
+      "Draw": 6.05
     }
   },
   "c0489e522f3d367b4f085ef1e1daaed9": {
     "nome": "Benfica vs Académico de Viseu",
     "data": "2026-08-09",
     "quote": {
-      "Académico de Viseu": 20.5,
+      "Académico de Viseu": 19.9,
       "Benfica": 1.06,
       "Draw": 7.41
+    }
+  },
+  "7bfe542ebd029ecc7c4a0ffc7a6fb292": {
+    "nome": "Moreirense FC vs Braga",
+    "data": "2026-08-09",
+    "quote": {
+      "Braga": 1.57,
+      "Moreirense FC": 4.77,
+      "Draw": 3.7
+    }
+  },
+  "9e4982aee8921f2f7854b2fa9f69ac2a": {
+    "nome": "Gil Vicente vs Rio Ave FC",
+    "data": "2026-08-09",
+    "quote": {
+      "Gil Vicente": 1.51,
+      "Rio Ave FC": 3.82,
+      "Draw": 3.12
+    }
+  },
+  "abbf3c5f0a0beb14f04044e30eca207a": {
+    "nome": "Santa Clara vs Nacional",
+    "data": "2026-08-10",
+    "quote": {
+      "Nacional": 3.32,
+      "Santa Clara": 2.02,
+      "Draw": 3.14
     }
   }
 }
