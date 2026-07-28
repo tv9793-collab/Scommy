@@ -94,17 +94,17 @@
     "data": "2026-08-07",
     "quote": {
       "Estoril": 3.18,
-      "Famalicão": 2.05,
-      "Draw": 3.38
+      "Famalicão": 2.06,
+      "Draw": 3.41
     }
   },
   "75e8cad886f551dfae05b68a9de06e10": {
     "nome": "CS Maritimo vs Casa Pia",
     "data": "2026-08-08",
     "quote": {
-      "Casa Pia": 2.2,
-      "CS Maritimo": 2.51,
-      "Draw": 3.05
+      "Casa Pia": 2.22,
+      "CS Maritimo": 2.57,
+      "Draw": 3.12
     }
   },
   "1bb1dc592ae4f1017aae3a36901b536b": {
@@ -112,43 +112,43 @@
     "data": "2026-08-08",
     "quote": {
       "Arouca": 3.66,
-      "Vitória SC": 1.89,
-      "Draw": 3.36
+      "Vitória SC": 1.9,
+      "Draw": 3.39
     }
   },
   "29e2af26e987b4ad178bc40529b3ab80": {
     "nome": "CF Estrela vs Sporting Lisbon",
     "data": "2026-08-08",
     "quote": {
-      "CF Estrela": 10.36,
-      "Sporting Lisbon": 1.22,
-      "Draw": 5.67
+      "CF Estrela": 10.75,
+      "Sporting Lisbon": 1.23,
+      "Draw": 5.54
     }
   },
   "a22463fa1e60fc06243141f286915661": {
     "nome": "FC Porto vs Alverca",
     "data": "2026-08-09",
     "quote": {
-      "Alverca": 12.81,
-      "FC Porto": 1.17,
-      "Draw": 6.31
+      "Alverca": 12.75,
+      "FC Porto": 1.18,
+      "Draw": 6.23
     }
   },
   "c0489e522f3d367b4f085ef1e1daaed9": {
     "nome": "Benfica vs Académico de Viseu",
     "data": "2026-08-09",
     "quote": {
-      "Académico de Viseu": 22.21,
-      "Benfica": 1.06,
-      "Draw": 8.59
+      "Académico de Viseu": 22.83,
+      "Benfica": 1.07,
+      "Draw": 8.64
     }
   },
   "7bfe542ebd029ecc7c4a0ffc7a6fb292": {
     "nome": "Moreirense FC vs Braga",
     "data": "2026-08-09",
     "quote": {
-      "Braga": 1.59,
-      "Moreirense FC": 5.0,
+      "Braga": 1.61,
+      "Moreirense FC": 4.95,
       "Draw": 3.7
     }
   },
@@ -156,9 +156,9 @@
     "nome": "Gil Vicente vs Rio Ave FC",
     "data": "2026-08-09",
     "quote": {
-      "Gil Vicente": 1.58,
-      "Rio Ave FC": 4.13,
-      "Draw": 3.33
+      "Gil Vicente": 1.6,
+      "Rio Ave FC": 4.28,
+      "Draw": 3.4
     }
   },
   "abbf3c5f0a0beb14f04044e30eca207a": {
@@ -166,8 +166,8 @@
     "data": "2026-08-10",
     "quote": {
       "Nacional": 3.36,
-      "Santa Clara": 2.05,
-      "Draw": 3.18
+      "Santa Clara": 2.07,
+      "Draw": 3.2
     }
   }
 }
