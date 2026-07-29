@@ -12,9 +12,9 @@
     "nome": "Hellas Verona vs Ascoli",
     "data": "2026-08-22",
     "quote": {
-      "Ascoli": 6.5,
-      "Hellas Verona": 1.53,
-      "Draw": 3.75
+      "Ascoli": 6.75,
+      "Hellas Verona": 1.51,
+      "Draw": 3.5
     }
   },
   "11308436676766036274329ed46852df": {
@@ -39,9 +39,9 @@
     "nome": "Cesena FC vs Sampdoria",
     "data": "2026-08-22",
     "quote": {
-      "Cesena FC": 2.71,
+      "Cesena FC": 2.62,
       "Sampdoria": 2.5,
-      "Draw": 3.2
+      "Draw": 3.0
     }
   },
   "302341207055a2bd67abdf33940d24c3": {
@@ -57,26 +57,26 @@
     "nome": "Palermo vs Juve Stabia",
     "data": "2026-08-22",
     "quote": {
-      "Juve Stabia": 6.6,
-      "Palermo": 1.53,
-      "Draw": 3.8
+      "Juve Stabia": 6.69,
+      "Palermo": 1.51,
+      "Draw": 3.6
     }
   },
   "3c26a73bb65d66235126be3471aeeac9": {
     "nome": "Pisa vs Padova",
     "data": "2026-08-22",
     "quote": {
-      "Padova": 5.17,
-      "Pisa": 1.71,
-      "Draw": 3.4
+      "Padova": 5.1,
+      "Pisa": 1.69,
+      "Draw": 3.2
     }
   },
   "9bd50a8dece569c151e7aaa01d978f02": {
     "nome": "Südtirol vs Virtus Entella",
     "data": "2026-08-22",
     "quote": {
-      "Südtirol": 1.95,
-      "Virtus Entella": 3.5,
+      "Südtirol": 1.96,
+      "Virtus Entella": 3.49,
       "Draw": 3.12
     }
   },
