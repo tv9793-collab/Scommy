@@ -48,8 +48,8 @@
     "nome": "Empoli vs Cremonese",
     "data": "2026-08-22",
     "quote": {
-      "Cremonese": 2.41,
-      "Empoli": 2.73,
+      "Cremonese": 2.42,
+      "Empoli": 2.72,
       "Draw": 2.97
     }
   },
@@ -75,9 +75,9 @@
     "nome": "Südtirol vs Virtus Entella",
     "data": "2026-08-22",
     "quote": {
-      "Südtirol": 1.96,
+      "Südtirol": 1.95,
       "Virtus Entella": 3.49,
-      "Draw": 3.12
+      "Draw": 3.14
     }
   },
   "6c4e291875a301113d20658a1d6d345b": {
@@ -93,9 +93,9 @@
     "nome": "Estoril vs Famalicão",
     "data": "2026-08-07",
     "quote": {
-      "Estoril": 3.22,
-      "Famalicão": 2.17,
-      "Draw": 3.15
+      "Estoril": 3.19,
+      "Famalicão": 2.16,
+      "Draw": 3.18
     }
   },
   "75e8cad886f551dfae05b68a9de06e10": {
@@ -111,27 +111,27 @@
     "nome": "Vitória SC vs Arouca",
     "data": "2026-08-08",
     "quote": {
-      "Arouca": 3.84,
-      "Vitória SC": 1.86,
-      "Draw": 3.43
+      "Arouca": 3.89,
+      "Vitória SC": 1.83,
+      "Draw": 3.47
     }
   },
   "29e2af26e987b4ad178bc40529b3ab80": {
     "nome": "CF Estrela vs Sporting Lisbon",
     "data": "2026-08-08",
     "quote": {
-      "CF Estrela": 11.58,
+      "CF Estrela": 11.41,
       "Sporting Lisbon": 1.2,
-      "Draw": 5.84
+      "Draw": 5.92
     }
   },
   "a22463fa1e60fc06243141f286915661": {
     "nome": "FC Porto vs Alverca",
     "data": "2026-08-09",
     "quote": {
-      "Alverca": 13.28,
+      "Alverca": 13.61,
       "FC Porto": 1.17,
-      "Draw": 6.46
+      "Draw": 6.38
     }
   },
   "c0489e522f3d367b4f085ef1e1daaed9": {
@@ -139,8 +139,8 @@
     "data": "2026-08-09",
     "quote": {
       "Académico de Viseu": 20.43,
-      "Benfica": 1.09,
-      "Draw": 8.41
+      "Benfica": 1.1,
+      "Draw": 8.31
     }
   },
   "7bfe542ebd029ecc7c4a0ffc7a6fb292": {
@@ -156,9 +156,9 @@
     "nome": "Gil Vicente vs Rio Ave FC",
     "data": "2026-08-09",
     "quote": {
-      "Gil Vicente": 1.75,
-      "Rio Ave FC": 4.22,
-      "Draw": 3.55
+      "Gil Vicente": 1.77,
+      "Rio Ave FC": 4.16,
+      "Draw": 3.52
     }
   },
   "abbf3c5f0a0beb14f04044e30eca207a": {
