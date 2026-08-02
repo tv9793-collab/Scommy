@@ -120,9 +120,9 @@
     "nome": "CF Estrela vs Sporting Lisbon",
     "data": "2026-08-08",
     "quote": {
-      "CF Estrela": 12.12,
-      "Sporting Lisbon": 1.19,
-      "Draw": 6.22
+      "CF Estrela": 11.33,
+      "Sporting Lisbon": 1.18,
+      "Draw": 5.87
     }
   },
   "a22463fa1e60fc06243141f286915661": {
@@ -149,7 +149,7 @@
     "quote": {
       "Braga": 1.69,
       "Moreirense FC": 4.59,
-      "Draw": 3.57
+      "Draw": 3.58
     }
   },
   "9e4982aee8921f2f7854b2fa9f69ac2a": {
@@ -165,9 +165,9 @@
     "nome": "Santa Clara vs Nacional",
     "data": "2026-08-10",
     "quote": {
-      "Nacional": 3.89,
+      "Nacional": 3.9,
       "Santa Clara": 1.9,
-      "Draw": 3.27
+      "Draw": 3.28
     }
   }
 }
