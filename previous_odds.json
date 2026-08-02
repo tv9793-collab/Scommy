@@ -93,7 +93,7 @@
     "nome": "Estoril vs Famalicão",
     "data": "2026-08-07",
     "quote": {
-      "Estoril": 3.12,
+      "Estoril": 3.14,
       "Famalicão": 2.19,
       "Draw": 3.23
     }
@@ -131,16 +131,16 @@
     "quote": {
       "Alverca": 13.73,
       "FC Porto": 1.17,
-      "Draw": 6.51
+      "Draw": 6.43
     }
   },
   "c0489e522f3d367b4f085ef1e1daaed9": {
     "nome": "Benfica vs Académico de Viseu",
     "data": "2026-08-09",
     "quote": {
-      "Académico de Viseu": 20.03,
-      "Benfica": 1.11,
-      "Draw": 8.34
+      "Académico de Viseu": 20.83,
+      "Benfica": 1.1,
+      "Draw": 8.38
     }
   },
   "7bfe542ebd029ecc7c4a0ffc7a6fb292": {
