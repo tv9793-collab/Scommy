@@ -93,7 +93,7 @@
     "nome": "Estoril vs Famalicão",
     "data": "2026-08-07",
     "quote": {
-      "Estoril": 3.14,
+      "Estoril": 3.12,
       "Famalicão": 2.19,
       "Draw": 3.23
     }
@@ -120,7 +120,7 @@
     "nome": "CF Estrela vs Sporting Lisbon",
     "data": "2026-08-08",
     "quote": {
-      "CF Estrela": 12.22,
+      "CF Estrela": 12.13,
       "Sporting Lisbon": 1.19,
       "Draw": 6.2
     }
@@ -129,9 +129,9 @@
     "nome": "FC Porto vs Alverca",
     "data": "2026-08-09",
     "quote": {
-      "Alverca": 13.77,
+      "Alverca": 13.73,
       "FC Porto": 1.17,
-      "Draw": 6.52
+      "Draw": 6.51
     }
   },
   "c0489e522f3d367b4f085ef1e1daaed9": {
@@ -147,9 +147,9 @@
     "nome": "Moreirense FC vs Braga",
     "data": "2026-08-09",
     "quote": {
-      "Braga": 1.68,
-      "Moreirense FC": 4.66,
-      "Draw": 3.58
+      "Braga": 1.69,
+      "Moreirense FC": 4.6,
+      "Draw": 3.57
     }
   },
   "9e4982aee8921f2f7854b2fa9f69ac2a": {
