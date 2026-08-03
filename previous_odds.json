@@ -111,9 +111,9 @@
     "nome": "Vitória SC vs Arouca",
     "data": "2026-08-08",
     "quote": {
-      "Arouca": 3.75,
+      "Arouca": 3.95,
       "Vitória SC": 1.84,
-      "Draw": 3.34
+      "Draw": 3.48
     }
   },
   "29e2af26e987b4ad178bc40529b3ab80": {
@@ -129,18 +129,18 @@
     "nome": "FC Porto vs Alverca",
     "data": "2026-08-09",
     "quote": {
-      "Alverca": 13.59,
+      "Alverca": 13.7,
       "FC Porto": 1.17,
-      "Draw": 6.43
+      "Draw": 6.47
     }
   },
   "c0489e522f3d367b4f085ef1e1daaed9": {
     "nome": "Benfica vs Académico de Viseu",
     "data": "2026-08-09",
     "quote": {
-      "Académico de Viseu": 20.83,
+      "Académico de Viseu": 20.85,
       "Benfica": 1.1,
-      "Draw": 8.38
+      "Draw": 8.39
     }
   },
   "7bfe542ebd029ecc7c4a0ffc7a6fb292": {
@@ -148,8 +148,8 @@
     "data": "2026-08-09",
     "quote": {
       "Braga": 1.69,
-      "Moreirense FC": 4.59,
-      "Draw": 3.58
+      "Moreirense FC": 4.61,
+      "Draw": 3.59
     }
   },
   "9e4982aee8921f2f7854b2fa9f69ac2a": {
@@ -157,8 +157,8 @@
     "data": "2026-08-09",
     "quote": {
       "Gil Vicente": 1.81,
-      "Rio Ave FC": 4.01,
-      "Draw": 3.48
+      "Rio Ave FC": 4.02,
+      "Draw": 3.49
     }
   },
   "abbf3c5f0a0beb14f04044e30eca207a": {
