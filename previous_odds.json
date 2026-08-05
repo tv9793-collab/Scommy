@@ -104,7 +104,7 @@
     "nome": "Palermo vs Juve Stabia",
     "data": "2026-08-23",
     "quote": {
-      "Juve Stabia": 5.51,
+      "Juve Stabia": 5.52,
       "Palermo": 1.56,
       "Draw": 3.49
     }
@@ -115,7 +115,7 @@
     "quote": {
       "Estoril": 2.98,
       "Famalicão": 2.32,
-      "Draw": 3.18
+      "Draw": 3.2
     }
   },
   "75e8cad886f551dfae05b68a9de06e10": {
@@ -131,9 +131,9 @@
     "nome": "Vitória SC vs Arouca",
     "data": "2026-08-08",
     "quote": {
-      "Arouca": 3.98,
+      "Arouca": 3.97,
       "Vitória SC": 1.83,
-      "Draw": 3.52
+      "Draw": 3.53
     }
   },
   "29e2af26e987b4ad178bc40529b3ab80": {
@@ -158,8 +158,8 @@
     "nome": "Benfica vs Académico de Viseu",
     "data": "2026-08-09",
     "quote": {
-      "Académico de Viseu": 20.33,
-      "Benfica": 1.1,
+      "Académico de Viseu": 20.08,
+      "Benfica": 1.11,
       "Draw": 8.44
     }
   },
@@ -176,8 +176,8 @@
     "nome": "Gil Vicente vs Rio Ave FC",
     "data": "2026-08-09",
     "quote": {
-      "Gil Vicente": 1.92,
-      "Rio Ave FC": 3.78,
+      "Gil Vicente": 1.91,
+      "Rio Ave FC": 3.79,
       "Draw": 3.41
     }
   },
