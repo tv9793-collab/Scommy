@@ -59,8 +59,8 @@
     "nome": "Südtirol vs Virtus Entella",
     "data": "2026-08-22",
     "quote": {
-      "Südtirol": 1.9,
-      "Virtus Entella": 4.01,
+      "Südtirol": 1.91,
+      "Virtus Entella": 4.02,
       "Draw": 3.01
     }
   },
@@ -113,9 +113,9 @@
     "nome": "Estoril vs Famalicão",
     "data": "2026-08-07",
     "quote": {
-      "Estoril": 2.92,
-      "Famalicão": 2.4,
-      "Draw": 3.17
+      "Estoril": 2.83,
+      "Famalicão": 2.47,
+      "Draw": 3.15
     }
   },
   "75e8cad886f551dfae05b68a9de06e10": {
@@ -124,7 +124,7 @@
     "quote": {
       "Casa Pia": 2.79,
       "CS Maritimo": 2.4,
-      "Draw": 3.26
+      "Draw": 3.25
     }
   },
   "1bb1dc592ae4f1017aae3a36901b536b": {
@@ -132,8 +132,8 @@
     "data": "2026-08-08",
     "quote": {
       "Arouca": 3.92,
-      "Vitória SC": 1.86,
-      "Draw": 3.47
+      "Vitória SC": 1.87,
+      "Draw": 3.48
     }
   },
   "29e2af26e987b4ad178bc40529b3ab80": {
@@ -149,27 +149,27 @@
     "nome": "FC Porto vs Alverca",
     "data": "2026-08-09",
     "quote": {
-      "Alverca": 14.02,
+      "Alverca": 14.03,
       "FC Porto": 1.17,
-      "Draw": 6.57
+      "Draw": 6.53
     }
   },
   "c0489e522f3d367b4f085ef1e1daaed9": {
     "nome": "Benfica vs Académico de Viseu",
     "data": "2026-08-09",
     "quote": {
-      "Académico de Viseu": 21.52,
+      "Académico de Viseu": 21.37,
       "Benfica": 1.1,
-      "Draw": 8.89
+      "Draw": 8.7
     }
   },
   "7bfe542ebd029ecc7c4a0ffc7a6fb292": {
     "nome": "Moreirense FC vs Braga",
     "data": "2026-08-09",
     "quote": {
-      "Braga": 1.69,
-      "Moreirense FC": 4.67,
-      "Draw": 3.66
+      "Braga": 1.67,
+      "Moreirense FC": 4.8,
+      "Draw": 3.7
     }
   },
   "9e4982aee8921f2f7854b2fa9f69ac2a": {
@@ -177,7 +177,7 @@
     "data": "2026-08-09",
     "quote": {
       "Gil Vicente": 1.89,
-      "Rio Ave FC": 3.87,
+      "Rio Ave FC": 3.88,
       "Draw": 3.4
     }
   },
