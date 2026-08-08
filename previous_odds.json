@@ -3,9 +3,9 @@
     "nome": "Avellino vs Arezzo",
     "data": "2026-08-22",
     "quote": {
-      "Arezzo": 3.18,
-      "Avellino": 2.09,
-      "Draw": 3.18
+      "Arezzo": 3.19,
+      "Avellino": 2.1,
+      "Draw": 3.19
     }
   },
   "30d393fe018a1d7a448324ddd70671bb": {
@@ -17,9 +17,9 @@
     "nome": "Benevento vs Modena",
     "data": "2026-08-22",
     "quote": {
-      "Benevento": 2.35,
+      "Benevento": 2.36,
       "Modena": 2.83,
-      "Draw": 3.08
+      "Draw": 3.09
     }
   },
   "84204438a9c908db850d8a6a3a142aff": {
@@ -27,8 +27,8 @@
     "data": "2026-08-22",
     "quote": {
       "Carrarese": 2.2,
-      "Mantova": 3.04,
-      "Draw": 3.12
+      "Mantova": 3.05,
+      "Draw": 3.13
     }
   },
   "abe56bc0b2d79990d7ebc1edbc6bb3a3": {
@@ -40,9 +40,9 @@
     "nome": "Empoli vs Cremonese",
     "data": "2026-08-22",
     "quote": {
-      "Cremonese": 2.48,
-      "Empoli": 2.71,
-      "Draw": 3.0
+      "Cremonese": 2.49,
+      "Empoli": 2.72,
+      "Draw": 3.01
     }
   },
   "ae903e7535b92478914fb58ab506e008": {
@@ -59,9 +59,9 @@
     "nome": "Südtirol vs Virtus Entella",
     "data": "2026-08-22",
     "quote": {
-      "Südtirol": 1.97,
-      "Virtus Entella": 3.85,
-      "Draw": 2.96
+      "Südtirol": 1.98,
+      "Virtus Entella": 3.86,
+      "Draw": 2.97
     }
   },
   "6c4e291875a301113d20658a1d6d345b": {
@@ -77,63 +77,54 @@
     "nome": "Hellas Verona vs Ascoli",
     "data": "2026-08-23",
     "quote": {
-      "Ascoli": 5.49,
+      "Ascoli": 5.52,
       "Hellas Verona": 1.53,
-      "Draw": 3.67
+      "Draw": 3.7
     }
   },
   "e0998179e0126a222f6890531854a07a": {
     "nome": "Pisa vs Padova",
     "data": "2026-08-23",
     "quote": {
-      "Padova": 4.93,
-      "Pisa": 1.64,
-      "Draw": 3.4
+      "Padova": 4.96,
+      "Pisa": 1.65,
+      "Draw": 3.41
     }
   },
   "9d53931ccb17088376cedd24ea2b461a": {
     "nome": "Cesena FC vs Sampdoria",
     "data": "2026-08-23",
     "quote": {
-      "Cesena FC": 2.4,
+      "Cesena FC": 2.43,
       "Sampdoria": 2.71,
-      "Draw": 3.09
+      "Draw": 3.1
     }
   },
   "3a9435e979eddb5ef80dbf75b37028fb": {
     "nome": "Palermo vs Juve Stabia",
     "data": "2026-08-23",
     "quote": {
-      "Juve Stabia": 5.51,
+      "Juve Stabia": 5.56,
       "Palermo": 1.56,
-      "Draw": 3.55
-    }
-  },
-  "29e2af26e987b4ad178bc40529b3ab80": {
-    "nome": "CF Estrela vs Sporting Lisbon",
-    "data": "2026-08-08",
-    "quote": {
-      "CF Estrela": 10.42,
-      "Sporting Lisbon": 1.25,
-      "Draw": 5.57
+      "Draw": 3.57
     }
   },
   "a22463fa1e60fc06243141f286915661": {
     "nome": "FC Porto vs Alverca",
     "data": "2026-08-09",
     "quote": {
-      "Alverca": 14.54,
+      "Alverca": 14.66,
       "FC Porto": 1.16,
-      "Draw": 6.86
+      "Draw": 6.81
     }
   },
   "c0489e522f3d367b4f085ef1e1daaed9": {
     "nome": "Benfica vs Académico de Viseu",
     "data": "2026-08-09",
     "quote": {
-      "Académico de Viseu": 23.2,
-      "Benfica": 1.09,
-      "Draw": 9.08
+      "Académico de Viseu": 23.3,
+      "Benfica": 1.1,
+      "Draw": 9.1
     }
   },
   "7bfe542ebd029ecc7c4a0ffc7a6fb292": {
@@ -141,17 +132,17 @@
     "data": "2026-08-09",
     "quote": {
       "Braga": 1.66,
-      "Moreirense FC": 4.82,
-      "Draw": 3.73
+      "Moreirense FC": 4.84,
+      "Draw": 3.72
     }
   },
   "9e4982aee8921f2f7854b2fa9f69ac2a": {
     "nome": "Gil Vicente vs Rio Ave FC",
     "data": "2026-08-09",
     "quote": {
-      "Gil Vicente": 1.9,
-      "Rio Ave FC": 3.85,
-      "Draw": 3.39
+      "Gil Vicente": 1.89,
+      "Rio Ave FC": 3.83,
+      "Draw": 3.4
     }
   },
   "abbf3c5f0a0beb14f04044e30eca207a": {
@@ -159,8 +150,17 @@
     "data": "2026-08-10",
     "quote": {
       "Nacional": 4.19,
-      "Santa Clara": 1.84,
-      "Draw": 3.29
+      "Santa Clara": 1.8,
+      "Draw": 3.16
+    }
+  },
+  "3b2084eb6f80e2cd731d5b1fd0491cf4": {
+    "nome": "Sporting Lisbon vs Vitória SC",
+    "data": "2026-08-14",
+    "quote": {
+      "Sporting Lisbon": 1.15,
+      "Vitória SC": 10.55,
+      "Draw": 6.05
     }
   }
 }
