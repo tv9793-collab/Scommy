@@ -70,7 +70,7 @@
     "quote": {
       "US Catanzaro 1929": 2.69,
       "Vicenza": 2.5,
-      "Draw": 3.03
+      "Draw": 3.04
     }
   },
   "f2634db48eaf6526793cfc48047b540b": {
@@ -109,20 +109,11 @@
       "Draw": 3.55
     }
   },
-  "75e8cad886f551dfae05b68a9de06e10": {
-    "nome": "CS Maritimo vs Casa Pia",
-    "data": "2026-08-08",
-    "quote": {
-      "Casa Pia": 3.98,
-      "CS Maritimo": 1.94,
-      "Draw": 3.18
-    }
-  },
   "1bb1dc592ae4f1017aae3a36901b536b": {
     "nome": "Vitória SC vs Arouca",
     "data": "2026-08-08",
     "quote": {
-      "Arouca": 3.85,
+      "Arouca": 3.86,
       "Vitória SC": 1.89,
       "Draw": 3.49
     }
@@ -131,7 +122,7 @@
     "nome": "CF Estrela vs Sporting Lisbon",
     "data": "2026-08-08",
     "quote": {
-      "CF Estrela": 10.43,
+      "CF Estrela": 10.64,
       "Sporting Lisbon": 1.25,
       "Draw": 5.68
     }
@@ -140,18 +131,18 @@
     "nome": "FC Porto vs Alverca",
     "data": "2026-08-09",
     "quote": {
-      "Alverca": 14.17,
+      "Alverca": 14.26,
       "FC Porto": 1.17,
-      "Draw": 6.67
+      "Draw": 6.77
     }
   },
   "c0489e522f3d367b4f085ef1e1daaed9": {
     "nome": "Benfica vs Académico de Viseu",
     "data": "2026-08-09",
     "quote": {
-      "Académico de Viseu": 22.73,
+      "Académico de Viseu": 22.89,
       "Benfica": 1.09,
-      "Draw": 9.12
+      "Draw": 9.2
     }
   },
   "7bfe542ebd029ecc7c4a0ffc7a6fb292": {
@@ -159,8 +150,8 @@
     "data": "2026-08-09",
     "quote": {
       "Braga": 1.66,
-      "Moreirense FC": 4.84,
-      "Draw": 3.71
+      "Moreirense FC": 4.85,
+      "Draw": 3.73
     }
   },
   "9e4982aee8921f2f7854b2fa9f69ac2a": {
@@ -168,17 +159,17 @@
     "data": "2026-08-09",
     "quote": {
       "Gil Vicente": 1.9,
-      "Rio Ave FC": 3.84,
-      "Draw": 3.38
+      "Rio Ave FC": 3.85,
+      "Draw": 3.39
     }
   },
   "abbf3c5f0a0beb14f04044e30eca207a": {
     "nome": "Santa Clara vs Nacional",
     "data": "2026-08-10",
     "quote": {
-      "Nacional": 4.16,
-      "Santa Clara": 1.83,
-      "Draw": 3.3
+      "Nacional": 4.19,
+      "Santa Clara": 1.84,
+      "Draw": 3.29
     }
   }
 }
