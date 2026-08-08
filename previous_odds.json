@@ -17,7 +17,7 @@
     "nome": "Benevento vs Modena",
     "data": "2026-08-22",
     "quote": {
-      "Benevento": 2.34,
+      "Benevento": 2.35,
       "Modena": 2.82,
       "Draw": 3.07
     }
@@ -113,34 +113,34 @@
     "nome": "CS Maritimo vs Casa Pia",
     "data": "2026-08-08",
     "quote": {
-      "Casa Pia": 3.31,
-      "CS Maritimo": 2.18,
-      "Draw": 3.13
+      "Casa Pia": 3.42,
+      "CS Maritimo": 2.13,
+      "Draw": 3.16
     }
   },
   "1bb1dc592ae4f1017aae3a36901b536b": {
     "nome": "Vitória SC vs Arouca",
     "data": "2026-08-08",
     "quote": {
-      "Arouca": 3.86,
+      "Arouca": 3.84,
       "Vitória SC": 1.89,
-      "Draw": 3.48
+      "Draw": 3.49
     }
   },
   "29e2af26e987b4ad178bc40529b3ab80": {
     "nome": "CF Estrela vs Sporting Lisbon",
     "data": "2026-08-08",
     "quote": {
-      "CF Estrela": 10.31,
+      "CF Estrela": 10.44,
       "Sporting Lisbon": 1.24,
-      "Draw": 5.85
+      "Draw": 5.82
     }
   },
   "a22463fa1e60fc06243141f286915661": {
     "nome": "FC Porto vs Alverca",
     "data": "2026-08-09",
     "quote": {
-      "Alverca": 14.02,
+      "Alverca": 14.19,
       "FC Porto": 1.17,
       "Draw": 6.69
     }
@@ -149,9 +149,9 @@
     "nome": "Benfica vs Académico de Viseu",
     "data": "2026-08-09",
     "quote": {
-      "Académico de Viseu": 22.65,
-      "Benfica": 1.1,
-      "Draw": 9.11
+      "Académico de Viseu": 22.96,
+      "Benfica": 1.09,
+      "Draw": 9.19
     }
   },
   "7bfe542ebd029ecc7c4a0ffc7a6fb292": {
@@ -159,8 +159,8 @@
     "data": "2026-08-09",
     "quote": {
       "Braga": 1.67,
-      "Moreirense FC": 4.79,
-      "Draw": 3.71
+      "Moreirense FC": 4.8,
+      "Draw": 3.7
     }
   },
   "9e4982aee8921f2f7854b2fa9f69ac2a": {
@@ -168,8 +168,8 @@
     "data": "2026-08-09",
     "quote": {
       "Gil Vicente": 1.88,
-      "Rio Ave FC": 3.85,
-      "Draw": 3.4
+      "Rio Ave FC": 3.88,
+      "Draw": 3.42
     }
   },
   "abbf3c5f0a0beb14f04044e30eca207a": {
@@ -177,7 +177,7 @@
     "data": "2026-08-10",
     "quote": {
       "Nacional": 4.18,
-      "Santa Clara": 1.84,
+      "Santa Clara": 1.83,
       "Draw": 3.3
     }
   }
