@@ -109,47 +109,38 @@
       "Draw": 3.57
     }
   },
-  "a22463fa1e60fc06243141f286915661": {
-    "nome": "FC Porto vs Alverca",
-    "data": "2026-08-09",
-    "quote": {
-      "Alverca": 14.81,
-      "FC Porto": 1.18,
-      "Draw": 6.31
-    }
-  },
   "c0489e522f3d367b4f085ef1e1daaed9": {
     "nome": "Benfica vs Académico de Viseu",
     "data": "2026-08-09",
     "quote": {
-      "Académico de Viseu": 24.01,
-      "Benfica": 1.09,
-      "Draw": 9.74
+      "Académico de Viseu": 23.84,
+      "Benfica": 1.08,
+      "Draw": 9.98
     }
   },
   "7bfe542ebd029ecc7c4a0ffc7a6fb292": {
     "nome": "Moreirense FC vs Braga",
     "data": "2026-08-09",
     "quote": {
-      "Braga": 1.57,
-      "Moreirense FC": 5.62,
-      "Draw": 3.83
+      "Braga": 1.58,
+      "Moreirense FC": 5.47,
+      "Draw": 3.84
     }
   },
   "9e4982aee8921f2f7854b2fa9f69ac2a": {
     "nome": "Gil Vicente vs Rio Ave FC",
     "data": "2026-08-09",
     "quote": {
-      "Gil Vicente": 1.94,
-      "Rio Ave FC": 3.81,
-      "Draw": 3.34
+      "Gil Vicente": 1.97,
+      "Rio Ave FC": 3.75,
+      "Draw": 3.31
     }
   },
   "abbf3c5f0a0beb14f04044e30eca207a": {
     "nome": "Santa Clara vs Nacional",
     "data": "2026-08-10",
     "quote": {
-      "Nacional": 4.22,
+      "Nacional": 4.23,
       "Santa Clara": 1.84,
       "Draw": 3.31
     }
@@ -159,8 +150,17 @@
     "data": "2026-08-14",
     "quote": {
       "Sporting Lisbon": 1.17,
-      "Vitória SC": 12.28,
-      "Draw": 6.73
+      "Vitória SC": 12.65,
+      "Draw": 6.68
+    }
+  },
+  "d1d57dea05f7717f803d0db88e2fbbc8": {
+    "nome": "Alverca vs CF Estrela",
+    "data": "2026-08-15",
+    "quote": {
+      "Alverca": 2.03,
+      "CF Estrela": 3.05,
+      "Draw": 2.98
     }
   }
 }
