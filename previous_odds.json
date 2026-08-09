@@ -19,7 +19,7 @@
     "quote": {
       "Benevento": 2.36,
       "Modena": 2.83,
-      "Draw": 3.07
+      "Draw": 3.09
     }
   },
   "84204438a9c908db850d8a6a3a142aff": {
@@ -27,8 +27,8 @@
     "data": "2026-08-22",
     "quote": {
       "Carrarese": 2.2,
-      "Mantova": 3.05,
-      "Draw": 3.13
+      "Mantova": 3.06,
+      "Draw": 3.12
     }
   },
   "abe56bc0b2d79990d7ebc1edbc6bb3a3": {
@@ -113,27 +113,27 @@
     "nome": "FC Porto vs Alverca",
     "data": "2026-08-09",
     "quote": {
-      "Alverca": 13.5,
-      "FC Porto": 1.19,
-      "Draw": 6.38
+      "Alverca": 13.05,
+      "FC Porto": 1.2,
+      "Draw": 6.29
     }
   },
   "c0489e522f3d367b4f085ef1e1daaed9": {
     "nome": "Benfica vs Académico de Viseu",
     "data": "2026-08-09",
     "quote": {
-      "Académico de Viseu": 23.04,
+      "Académico de Viseu": 24.09,
       "Benfica": 1.09,
-      "Draw": 9.42
+      "Draw": 9.43
     }
   },
   "7bfe542ebd029ecc7c4a0ffc7a6fb292": {
     "nome": "Moreirense FC vs Braga",
     "data": "2026-08-09",
     "quote": {
-      "Braga": 1.6,
-      "Moreirense FC": 5.32,
-      "Draw": 3.82
+      "Braga": 1.59,
+      "Moreirense FC": 5.46,
+      "Draw": 3.81
     }
   },
   "9e4982aee8921f2f7854b2fa9f69ac2a": {
@@ -141,7 +141,7 @@
     "data": "2026-08-09",
     "quote": {
       "Gil Vicente": 1.94,
-      "Rio Ave FC": 3.78,
+      "Rio Ave FC": 3.79,
       "Draw": 3.35
     }
   },
@@ -151,7 +151,7 @@
     "quote": {
       "Nacional": 4.2,
       "Santa Clara": 1.84,
-      "Draw": 3.29
+      "Draw": 3.3
     }
   },
   "3b2084eb6f80e2cd731d5b1fd0491cf4": {
@@ -159,7 +159,7 @@
     "data": "2026-08-14",
     "quote": {
       "Sporting Lisbon": 1.17,
-      "Vitória SC": 12.69,
+      "Vitória SC": 12.86,
       "Draw": 6.7
     }
   }
