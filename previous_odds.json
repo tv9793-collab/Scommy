@@ -26,9 +26,9 @@
     "nome": "Carrarese vs Mantova",
     "data": "2026-08-22",
     "quote": {
-      "Carrarese": 2.2,
-      "Mantova": 3.05,
-      "Draw": 3.13
+      "Carrarese": 2.21,
+      "Mantova": 3.06,
+      "Draw": 3.11
     }
   },
   "abe56bc0b2d79990d7ebc1edbc6bb3a3": {
@@ -77,7 +77,7 @@
     "nome": "Hellas Verona vs Ascoli",
     "data": "2026-08-23",
     "quote": {
-      "Ascoli": 5.54,
+      "Ascoli": 5.56,
       "Hellas Verona": 1.53,
       "Draw": 3.72
     }
@@ -95,7 +95,7 @@
     "nome": "Cesena FC vs Sampdoria",
     "data": "2026-08-23",
     "quote": {
-      "Cesena FC": 2.42,
+      "Cesena FC": 2.43,
       "Sampdoria": 2.71,
       "Draw": 3.1
     }
@@ -113,8 +113,8 @@
     "nome": "Santa Clara vs Nacional",
     "data": "2026-08-10",
     "quote": {
-      "Nacional": 4.23,
-      "Santa Clara": 1.85,
+      "Nacional": 4.44,
+      "Santa Clara": 1.83,
       "Draw": 3.31
     }
   },
@@ -122,9 +122,9 @@
     "nome": "Sporting Lisbon vs Vitória SC",
     "data": "2026-08-14",
     "quote": {
-      "Sporting Lisbon": 1.17,
-      "Vitória SC": 12.65,
-      "Draw": 6.68
+      "Sporting Lisbon": 1.18,
+      "Vitória SC": 12.61,
+      "Draw": 6.63
     }
   },
   "d1d57dea05f7717f803d0db88e2fbbc8": {
@@ -132,25 +132,25 @@
     "data": "2026-08-15",
     "quote": {
       "Alverca": 2.15,
-      "CF Estrela": 3.28,
-      "Draw": 3.19
+      "CF Estrela": 3.29,
+      "Draw": 3.2
     }
   },
   "aa94f56e76e50d19cea834f4b15c2ceb": {
     "nome": "Rio Ave FC vs FC Porto",
     "data": "2026-08-15",
     "quote": {
-      "FC Porto": 1.32,
-      "Rio Ave FC": 7.49,
-      "Draw": 4.88
+      "FC Porto": 1.33,
+      "Rio Ave FC": 7.41,
+      "Draw": 4.93
     }
   },
   "7929df954375baae70c9182d5069ecc7": {
     "nome": "Arouca vs Moreirense FC",
     "data": "2026-08-16",
     "quote": {
-      "Arouca": 2.18,
-      "Moreirense FC": 3.16,
+      "Arouca": 2.19,
+      "Moreirense FC": 3.19,
       "Draw": 3.13
     }
   },
@@ -158,9 +158,9 @@
     "nome": "Braga vs Gil Vicente",
     "data": "2026-08-16",
     "quote": {
-      "Braga": 1.69,
-      "Gil Vicente": 4.47,
-      "Draw": 3.58
+      "Braga": 1.67,
+      "Gil Vicente": 4.79,
+      "Draw": 3.6
     }
   }
 }
