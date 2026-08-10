@@ -42,7 +42,7 @@
     "quote": {
       "Cremonese": 2.49,
       "Empoli": 2.71,
-      "Draw": 3.01
+      "Draw": 3.0
     }
   },
   "ae903e7535b92478914fb58ab506e008": {
@@ -88,7 +88,7 @@
     "quote": {
       "Padova": 4.96,
       "Pisa": 1.65,
-      "Draw": 3.39
+      "Draw": 3.4
     }
   },
   "9d53931ccb17088376cedd24ea2b461a": {
@@ -104,18 +104,18 @@
     "nome": "Palermo vs Juve Stabia",
     "data": "2026-08-23",
     "quote": {
-      "Juve Stabia": 5.57,
+      "Juve Stabia": 5.56,
       "Palermo": 1.56,
-      "Draw": 3.55
+      "Draw": 3.56
     }
   },
   "abbf3c5f0a0beb14f04044e30eca207a": {
     "nome": "Santa Clara vs Nacional",
     "data": "2026-08-10",
     "quote": {
-      "Nacional": 4.87,
-      "Santa Clara": 1.8,
-      "Draw": 3.22
+      "Nacional": 4.72,
+      "Santa Clara": 1.83,
+      "Draw": 3.17
     }
   },
   "3b2084eb6f80e2cd731d5b1fd0491cf4": {
@@ -123,8 +123,8 @@
     "data": "2026-08-14",
     "quote": {
       "Sporting Lisbon": 1.19,
-      "Vitória SC": 10.72,
-      "Draw": 6.08
+      "Vitória SC": 10.76,
+      "Draw": 6.06
     }
   },
   "d1d57dea05f7717f803d0db88e2fbbc8": {
@@ -132,8 +132,8 @@
     "data": "2026-08-15",
     "quote": {
       "Alverca": 2.09,
-      "CF Estrela": 3.13,
-      "Draw": 3.02
+      "CF Estrela": 3.14,
+      "Draw": 3.01
     }
   },
   "aa94f56e76e50d19cea834f4b15c2ceb": {
@@ -141,7 +141,7 @@
     "data": "2026-08-15",
     "quote": {
       "FC Porto": 1.37,
-      "Rio Ave FC": 6.9,
+      "Rio Ave FC": 6.88,
       "Draw": 4.42
     }
   },
@@ -151,7 +151,7 @@
     "quote": {
       "Arouca": 2.12,
       "Moreirense FC": 3.03,
-      "Draw": 2.99
+      "Draw": 2.98
     }
   },
   "eda6f278d23cc52de4f897320367bea0": {
