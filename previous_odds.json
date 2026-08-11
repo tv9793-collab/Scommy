@@ -5,7 +5,7 @@
     "quote": {
       "Arezzo": 3.19,
       "Avellino": 2.1,
-      "Draw": 3.19
+      "Draw": 3.2
     }
   },
   "30d393fe018a1d7a448324ddd70671bb": {
@@ -42,7 +42,7 @@
     "quote": {
       "Cremonese": 2.49,
       "Empoli": 2.71,
-      "Draw": 3.0
+      "Draw": 3.01
     }
   },
   "ae903e7535b92478914fb58ab506e008": {
@@ -114,8 +114,8 @@
     "data": "2026-08-14",
     "quote": {
       "Sporting Lisbon": 1.19,
-      "Vitória SC": 11.59,
-      "Draw": 6.44
+      "Vitória SC": 11.57,
+      "Draw": 6.45
     }
   },
   "d1d57dea05f7717f803d0db88e2fbbc8": {
@@ -132,17 +132,17 @@
     "data": "2026-08-15",
     "quote": {
       "FC Porto": 1.39,
-      "Rio Ave FC": 7.22,
-      "Draw": 4.55
+      "Rio Ave FC": 7.1,
+      "Draw": 4.51
     }
   },
   "f1a64c2e8e1fd333286e57b43b1f8025": {
     "nome": "Nacional vs Estoril",
     "data": "2026-08-16",
     "quote": {
-      "Estoril": 2.66,
-      "Nacional": 2.48,
-      "Draw": 3.31
+      "Estoril": 2.67,
+      "Nacional": 2.49,
+      "Draw": 3.29
     }
   },
   "7929df954375baae70c9182d5069ecc7": {
@@ -150,8 +150,8 @@
     "data": "2026-08-16",
     "quote": {
       "Arouca": 2.14,
-      "Moreirense FC": 3.35,
-      "Draw": 3.19
+      "Moreirense FC": 3.34,
+      "Draw": 3.18
     }
   },
   "eda6f278d23cc52de4f897320367bea0": {
@@ -167,8 +167,8 @@
     "nome": "Casa Pia vs Benfica",
     "data": "2026-08-17",
     "quote": {
-      "Benfica": 1.2,
-      "Casa Pia": 12.08,
+      "Benfica": 1.21,
+      "Casa Pia": 11.8,
       "Draw": 5.79
     }
   }
