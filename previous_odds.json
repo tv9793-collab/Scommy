@@ -115,7 +115,7 @@
     "quote": {
       "Sporting Lisbon": 1.22,
       "Vitória SC": 10.59,
-      "Draw": 6.04
+      "Draw": 6.03
     }
   },
   "d1d57dea05f7717f803d0db88e2fbbc8": {
@@ -160,7 +160,7 @@
     "quote": {
       "Arouca": 2.06,
       "Moreirense FC": 3.45,
-      "Draw": 3.22
+      "Draw": 3.23
     }
   },
   "eda6f278d23cc52de4f897320367bea0": {
@@ -168,7 +168,7 @@
     "data": "2026-08-16",
     "quote": {
       "Braga": 1.62,
-      "Gil Vicente": 5.02,
+      "Gil Vicente": 5.01,
       "Draw": 3.68
     }
   },
@@ -177,7 +177,7 @@
     "data": "2026-08-17",
     "quote": {
       "Benfica": 1.21,
-      "Casa Pia": 11.91,
+      "Casa Pia": 11.94,
       "Draw": 5.81
     }
   }
