@@ -5,7 +5,7 @@
     "quote": {
       "Arezzo": 3.19,
       "Avellino": 2.1,
-      "Draw": 3.19
+      "Draw": 3.2
     }
   },
   "30d393fe018a1d7a448324ddd70671bb": {
@@ -17,8 +17,8 @@
     "nome": "Benevento vs Modena",
     "data": "2026-08-22",
     "quote": {
-      "Benevento": 2.31,
-      "Modena": 2.88,
+      "Benevento": 2.3,
+      "Modena": 2.91,
       "Draw": 3.1
     }
   },
@@ -77,9 +77,9 @@
     "nome": "Hellas Verona vs Ascoli",
     "data": "2026-08-23",
     "quote": {
-      "Ascoli": 5.58,
-      "Hellas Verona": 1.55,
-      "Draw": 3.59
+      "Ascoli": 5.51,
+      "Hellas Verona": 1.56,
+      "Draw": 3.6
     }
   },
   "e0998179e0126a222f6890531854a07a": {
@@ -114,8 +114,8 @@
     "data": "2026-08-14",
     "quote": {
       "Sporting Lisbon": 1.22,
-      "Vitória SC": 10.54,
-      "Draw": 6.1
+      "Vitória SC": 10.59,
+      "Draw": 6.0
     }
   },
   "d1d57dea05f7717f803d0db88e2fbbc8": {
@@ -124,7 +124,7 @@
     "quote": {
       "Alverca": 2.14,
       "CF Estrela": 3.26,
-      "Draw": 3.15
+      "Draw": 3.16
     }
   },
   "28c33e941922e40bec344f7c7bfa9c44": {
@@ -141,16 +141,16 @@
     "data": "2026-08-15",
     "quote": {
       "FC Porto": 1.39,
-      "Rio Ave FC": 7.11,
-      "Draw": 4.45
+      "Rio Ave FC": 7.1,
+      "Draw": 4.44
     }
   },
   "f1a64c2e8e1fd333286e57b43b1f8025": {
     "nome": "Nacional vs Estoril",
     "data": "2026-08-16",
     "quote": {
-      "Estoril": 2.67,
-      "Nacional": 2.45,
+      "Estoril": 2.59,
+      "Nacional": 2.53,
       "Draw": 3.25
     }
   },
@@ -168,7 +168,7 @@
     "data": "2026-08-16",
     "quote": {
       "Braga": 1.62,
-      "Gil Vicente": 5.01,
+      "Gil Vicente": 5.02,
       "Draw": 3.68
     }
   },
@@ -177,8 +177,8 @@
     "data": "2026-08-17",
     "quote": {
       "Benfica": 1.21,
-      "Casa Pia": 11.94,
-      "Draw": 5.8
+      "Casa Pia": 11.91,
+      "Draw": 5.81
     }
   }
 }
