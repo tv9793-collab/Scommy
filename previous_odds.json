@@ -114,8 +114,8 @@
     "data": "2026-08-14",
     "quote": {
       "Sporting Lisbon": 1.22,
-      "Vitória SC": 10.61,
-      "Draw": 6.04
+      "Vitória SC": 10.62,
+      "Draw": 6.03
     }
   },
   "d1d57dea05f7717f803d0db88e2fbbc8": {
@@ -124,7 +124,7 @@
     "quote": {
       "Alverca": 2.15,
       "CF Estrela": 3.3,
-      "Draw": 3.17
+      "Draw": 3.16
     }
   },
   "28c33e941922e40bec344f7c7bfa9c44": {
@@ -132,7 +132,7 @@
     "data": "2026-08-15",
     "quote": {
       "Académico de Viseu": 2.88,
-      "Santa Clara": 2.44,
+      "Santa Clara": 2.45,
       "Draw": 3.07
     }
   },
@@ -141,7 +141,7 @@
     "data": "2026-08-15",
     "quote": {
       "FC Porto": 1.39,
-      "Rio Ave FC": 7.27,
+      "Rio Ave FC": 7.26,
       "Draw": 4.47
     }
   },
@@ -150,7 +150,7 @@
     "data": "2026-08-16",
     "quote": {
       "Estoril": 2.57,
-      "Nacional": 2.58,
+      "Nacional": 2.57,
       "Draw": 3.24
     }
   },
@@ -168,17 +168,17 @@
     "data": "2026-08-16",
     "quote": {
       "Braga": 1.62,
-      "Gil Vicente": 5.01,
-      "Draw": 3.68
+      "Gil Vicente": 4.99,
+      "Draw": 3.69
     }
   },
   "ab9aabe0a69a522f22dab493732d5a65": {
     "nome": "Famalicão vs CS Maritimo",
     "data": "2026-08-16",
     "quote": {
-      "CS Maritimo": 3.67,
-      "Famalicão": 1.79,
-      "Draw": 3.25
+      "CS Maritimo": 3.86,
+      "Famalicão": 1.76,
+      "Draw": 3.3
     }
   },
   "f7a76400e2ae3978f03925ed51a69bce": {
@@ -186,8 +186,8 @@
     "data": "2026-08-17",
     "quote": {
       "Benfica": 1.21,
-      "Casa Pia": 12.2,
-      "Draw": 5.75
+      "Casa Pia": 12.04,
+      "Draw": 5.8
     }
   }
 }
