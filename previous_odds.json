@@ -69,7 +69,7 @@
     "data": "2026-08-22",
     "quote": {
       "US Catanzaro 1929": 2.69,
-      "Vicenza": 2.51,
+      "Vicenza": 2.5,
       "Draw": 3.03
     }
   },
@@ -114,8 +114,8 @@
     "data": "2026-08-14",
     "quote": {
       "Sporting Lisbon": 1.22,
-      "Vitória SC": 10.55,
-      "Draw": 6.06
+      "Vitória SC": 10.6,
+      "Draw": 6.04
     }
   },
   "d1d57dea05f7717f803d0db88e2fbbc8": {
@@ -124,7 +124,7 @@
     "quote": {
       "Alverca": 2.14,
       "CF Estrela": 3.3,
-      "Draw": 3.16
+      "Draw": 3.17
     }
   },
   "28c33e941922e40bec344f7c7bfa9c44": {
@@ -133,7 +133,7 @@
     "quote": {
       "Académico de Viseu": 2.89,
       "Santa Clara": 2.46,
-      "Draw": 3.1
+      "Draw": 3.11
     }
   },
   "aa94f56e76e50d19cea834f4b15c2ceb": {
@@ -141,7 +141,7 @@
     "data": "2026-08-15",
     "quote": {
       "FC Porto": 1.39,
-      "Rio Ave FC": 7.24,
+      "Rio Ave FC": 7.3,
       "Draw": 4.45
     }
   },
