@@ -59,9 +59,9 @@
     "nome": "Südtirol vs Virtus Entella",
     "data": "2026-08-22",
     "quote": {
-      "Südtirol": 1.98,
-      "Virtus Entella": 3.86,
-      "Draw": 2.97
+      "Südtirol": 1.97,
+      "Virtus Entella": 3.88,
+      "Draw": 2.98
     }
   },
   "6c4e291875a301113d20658a1d6d345b": {
@@ -113,18 +113,18 @@
     "nome": "Sporting Lisbon vs Vitória SC",
     "data": "2026-08-14",
     "quote": {
-      "Sporting Lisbon": 1.3,
-      "Vitória SC": 8.7,
-      "Draw": 5.28
+      "Sporting Lisbon": 1.36,
+      "Vitória SC": 7.5,
+      "Draw": 4.88
     }
   },
   "d1d57dea05f7717f803d0db88e2fbbc8": {
     "nome": "Alverca vs CF Estrela",
     "data": "2026-08-15",
     "quote": {
-      "Alverca": 2.16,
-      "CF Estrela": 3.3,
-      "Draw": 3.19
+      "Alverca": 2.17,
+      "CF Estrela": 3.31,
+      "Draw": 3.18
     }
   },
   "28c33e941922e40bec344f7c7bfa9c44": {
@@ -141,7 +141,7 @@
     "data": "2026-08-15",
     "quote": {
       "FC Porto": 1.38,
-      "Rio Ave FC": 7.38,
+      "Rio Ave FC": 7.41,
       "Draw": 4.54
     }
   },
@@ -149,9 +149,9 @@
     "nome": "Nacional vs Estoril",
     "data": "2026-08-16",
     "quote": {
-      "Estoril": 2.53,
+      "Estoril": 2.54,
       "Nacional": 2.63,
-      "Draw": 3.25
+      "Draw": 3.26
     }
   },
   "7929df954375baae70c9182d5069ecc7": {
@@ -160,7 +160,7 @@
     "quote": {
       "Arouca": 2.07,
       "Moreirense FC": 3.49,
-      "Draw": 3.21
+      "Draw": 3.22
     }
   },
   "eda6f278d23cc52de4f897320367bea0": {
@@ -168,8 +168,8 @@
     "data": "2026-08-16",
     "quote": {
       "Braga": 1.6,
-      "Gil Vicente": 5.29,
-      "Draw": 3.73
+      "Gil Vicente": 5.3,
+      "Draw": 3.75
     }
   },
   "ab9aabe0a69a522f22dab493732d5a65": {
@@ -178,7 +178,7 @@
     "quote": {
       "CS Maritimo": 4.43,
       "Famalicão": 1.76,
-      "Draw": 3.31
+      "Draw": 3.47
     }
   },
   "f7a76400e2ae3978f03925ed51a69bce": {
@@ -186,8 +186,8 @@
     "data": "2026-08-17",
     "quote": {
       "Benfica": 1.21,
-      "Casa Pia": 11.72,
-      "Draw": 5.88
+      "Casa Pia": 11.8,
+      "Draw": 5.87
     }
   }
 }
