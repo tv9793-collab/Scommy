@@ -4,8 +4,8 @@
     "data": "2026-08-22",
     "quote": {
       "Arezzo": 3.17,
-      "Avellino": 2.12,
-      "Draw": 3.17
+      "Avellino": 2.11,
+      "Draw": 3.18
     }
   },
   "30d393fe018a1d7a448324ddd70671bb": {
@@ -19,7 +19,7 @@
     "quote": {
       "Benevento": 2.3,
       "Modena": 2.91,
-      "Draw": 3.08
+      "Draw": 3.09
     }
   },
   "84204438a9c908db850d8a6a3a142aff": {
@@ -113,18 +113,18 @@
     "nome": "Alverca vs CF Estrela",
     "data": "2026-08-15",
     "quote": {
-      "Alverca": 2.15,
-      "CF Estrela": 3.43,
-      "Draw": 3.16
+      "Alverca": 2.1,
+      "CF Estrela": 3.49,
+      "Draw": 3.19
     }
   },
   "28c33e941922e40bec344f7c7bfa9c44": {
     "nome": "Académico de Viseu vs Santa Clara",
     "data": "2026-08-15",
     "quote": {
-      "Académico de Viseu": 2.96,
-      "Santa Clara": 2.48,
-      "Draw": 3.03
+      "Académico de Viseu": 2.99,
+      "Santa Clara": 2.49,
+      "Draw": 2.99
     }
   },
   "aa94f56e76e50d19cea834f4b15c2ceb": {
@@ -132,8 +132,8 @@
     "data": "2026-08-15",
     "quote": {
       "FC Porto": 1.35,
-      "Rio Ave FC": 8.26,
-      "Draw": 4.68
+      "Rio Ave FC": 8.32,
+      "Draw": 4.69
     }
   },
   "f1a64c2e8e1fd333286e57b43b1f8025": {
@@ -149,8 +149,8 @@
     "nome": "Arouca vs Moreirense FC",
     "data": "2026-08-16",
     "quote": {
-      "Arouca": 2.08,
-      "Moreirense FC": 3.48,
+      "Arouca": 2.07,
+      "Moreirense FC": 3.49,
       "Draw": 3.22
     }
   },
@@ -160,25 +160,25 @@
     "quote": {
       "Braga": 1.6,
       "Gil Vicente": 5.24,
-      "Draw": 3.72
+      "Draw": 3.73
     }
   },
   "ab9aabe0a69a522f22dab493732d5a65": {
     "nome": "Famalicão vs CS Maritimo",
     "data": "2026-08-16",
     "quote": {
-      "CS Maritimo": 4.47,
-      "Famalicão": 1.76,
-      "Draw": 3.46
+      "CS Maritimo": 4.48,
+      "Famalicão": 1.75,
+      "Draw": 3.47
     }
   },
   "f7a76400e2ae3978f03925ed51a69bce": {
     "nome": "Casa Pia vs Benfica",
     "data": "2026-08-17",
     "quote": {
-      "Benfica": 1.22,
-      "Casa Pia": 12.17,
-      "Draw": 5.73
+      "Benfica": 1.21,
+      "Casa Pia": 11.82,
+      "Draw": 5.87
     }
   }
 }
