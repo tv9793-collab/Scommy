@@ -113,8 +113,8 @@
     "nome": "Alverca vs CF Estrela",
     "data": "2026-08-15",
     "quote": {
-      "Alverca": 2.16,
-      "CF Estrela": 3.36,
+      "Alverca": 2.15,
+      "CF Estrela": 3.43,
       "Draw": 3.16
     }
   },
@@ -131,9 +131,9 @@
     "nome": "Rio Ave FC vs FC Porto",
     "data": "2026-08-15",
     "quote": {
-      "FC Porto": 1.36,
-      "Rio Ave FC": 8.13,
-      "Draw": 4.66
+      "FC Porto": 1.35,
+      "Rio Ave FC": 8.26,
+      "Draw": 4.68
     }
   },
   "f1a64c2e8e1fd333286e57b43b1f8025": {
@@ -158,8 +158,8 @@
     "nome": "Braga vs Gil Vicente",
     "data": "2026-08-16",
     "quote": {
-      "Braga": 1.61,
-      "Gil Vicente": 5.22,
+      "Braga": 1.6,
+      "Gil Vicente": 5.24,
       "Draw": 3.72
     }
   },
@@ -167,18 +167,18 @@
     "nome": "Famalicão vs CS Maritimo",
     "data": "2026-08-16",
     "quote": {
-      "CS Maritimo": 4.48,
-      "Famalicão": 1.75,
-      "Draw": 3.47
+      "CS Maritimo": 4.47,
+      "Famalicão": 1.76,
+      "Draw": 3.46
     }
   },
   "f7a76400e2ae3978f03925ed51a69bce": {
     "nome": "Casa Pia vs Benfica",
     "data": "2026-08-17",
     "quote": {
-      "Benfica": 1.21,
-      "Casa Pia": 12.46,
-      "Draw": 5.75
+      "Benfica": 1.22,
+      "Casa Pia": 12.17,
+      "Draw": 5.73
     }
   }
 }
