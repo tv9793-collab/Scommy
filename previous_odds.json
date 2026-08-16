@@ -4,7 +4,7 @@
     "data": "2026-08-22",
     "quote": {
       "Arezzo": 3.18,
-      "Avellino": 2.11,
+      "Avellino": 2.12,
       "Draw": 3.17
     }
   },
@@ -18,7 +18,7 @@
     "data": "2026-08-22",
     "quote": {
       "Benevento": 2.3,
-      "Modena": 2.92,
+      "Modena": 2.91,
       "Draw": 3.09
     }
   },
@@ -77,18 +77,18 @@
     "nome": "Hellas Verona vs Ascoli",
     "data": "2026-08-23",
     "quote": {
-      "Ascoli": 5.51,
+      "Ascoli": 5.5,
       "Hellas Verona": 1.56,
-      "Draw": 3.6
+      "Draw": 3.61
     }
   },
   "e0998179e0126a222f6890531854a07a": {
     "nome": "Pisa vs Padova",
     "data": "2026-08-23",
     "quote": {
-      "Padova": 4.95,
+      "Padova": 4.97,
       "Pisa": 1.65,
-      "Draw": 3.39
+      "Draw": 3.38
     }
   },
   "9d53931ccb17088376cedd24ea2b461a": {
@@ -113,9 +113,9 @@
     "nome": "Nacional vs Estoril",
     "data": "2026-08-16",
     "quote": {
-      "Estoril": 2.57,
-      "Nacional": 2.62,
-      "Draw": 3.27
+      "Estoril": 2.51,
+      "Nacional": 2.73,
+      "Draw": 3.25
     }
   },
   "7929df954375baae70c9182d5069ecc7": {
@@ -132,7 +132,7 @@
     "data": "2026-08-16",
     "quote": {
       "Braga": 1.6,
-      "Gil Vicente": 5.34,
+      "Gil Vicente": 5.45,
       "Draw": 3.78
     }
   },
@@ -140,9 +140,9 @@
     "nome": "Famalicão vs CS Maritimo",
     "data": "2026-08-16",
     "quote": {
-      "CS Maritimo": 4.65,
+      "CS Maritimo": 4.7,
       "Famalicão": 1.74,
-      "Draw": 3.48
+      "Draw": 3.5
     }
   },
   "f7a76400e2ae3978f03925ed51a69bce": {
@@ -150,7 +150,7 @@
     "data": "2026-08-17",
     "quote": {
       "Benfica": 1.22,
-      "Casa Pia": 11.91,
+      "Casa Pia": 12.01,
       "Draw": 5.87
     }
   },
@@ -158,9 +158,9 @@
     "nome": "Sporting Lisbon vs Alverca",
     "data": "2026-08-22",
     "quote": {
-      "Alverca": 11.79,
+      "Alverca": 11.74,
       "Sporting Lisbon": 1.17,
-      "Draw": 6.84
+      "Draw": 6.89
     }
   }
 }
