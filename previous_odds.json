@@ -4,7 +4,7 @@
     "data": "2026-08-22",
     "quote": {
       "Arezzo": 3.18,
-      "Avellino": 2.12,
+      "Avellino": 2.11,
       "Draw": 3.17
     }
   },
@@ -70,7 +70,7 @@
     "quote": {
       "US Catanzaro 1929": 2.69,
       "Vicenza": 2.5,
-      "Draw": 3.04
+      "Draw": 3.03
     }
   },
   "f2634db48eaf6526793cfc48047b540b": {
@@ -88,7 +88,7 @@
     "quote": {
       "Padova": 4.97,
       "Pisa": 1.65,
-      "Draw": 3.38
+      "Draw": 3.39
     }
   },
   "9d53931ccb17088376cedd24ea2b461a": {
@@ -113,7 +113,7 @@
     "nome": "Nacional vs Estoril",
     "data": "2026-08-16",
     "quote": {
-      "Estoril": 2.51,
+      "Estoril": 2.5,
       "Nacional": 2.73,
       "Draw": 3.25
     }
@@ -122,45 +122,45 @@
     "nome": "Arouca vs Moreirense FC",
     "data": "2026-08-16",
     "quote": {
-      "Arouca": 2.07,
-      "Moreirense FC": 3.54,
-      "Draw": 3.22
+      "Arouca": 2.0,
+      "Moreirense FC": 3.74,
+      "Draw": 3.26
     }
   },
   "eda6f278d23cc52de4f897320367bea0": {
     "nome": "Braga vs Gil Vicente",
     "data": "2026-08-16",
     "quote": {
-      "Braga": 1.6,
-      "Gil Vicente": 5.45,
-      "Draw": 3.78
+      "Braga": 1.57,
+      "Gil Vicente": 5.29,
+      "Draw": 3.72
     }
   },
   "ab9aabe0a69a522f22dab493732d5a65": {
     "nome": "Famalicão vs CS Maritimo",
     "data": "2026-08-16",
     "quote": {
-      "CS Maritimo": 4.7,
-      "Famalicão": 1.74,
-      "Draw": 3.5
+      "CS Maritimo": 4.68,
+      "Famalicão": 1.75,
+      "Draw": 3.49
     }
   },
   "f7a76400e2ae3978f03925ed51a69bce": {
     "nome": "Casa Pia vs Benfica",
     "data": "2026-08-17",
     "quote": {
-      "Benfica": 1.22,
-      "Casa Pia": 12.01,
-      "Draw": 5.87
+      "Benfica": 1.21,
+      "Casa Pia": 11.81,
+      "Draw": 5.9
     }
   },
   "c502a6cff69b54f86167a5373f39a1a0": {
     "nome": "Sporting Lisbon vs Alverca",
     "data": "2026-08-22",
     "quote": {
-      "Alverca": 11.74,
+      "Alverca": 12.17,
       "Sporting Lisbon": 1.17,
-      "Draw": 6.89
+      "Draw": 6.76
     }
   }
 }
