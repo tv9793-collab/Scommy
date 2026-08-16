@@ -88,7 +88,7 @@
     "quote": {
       "Padova": 4.97,
       "Pisa": 1.65,
-      "Draw": 3.39
+      "Draw": 3.4
     }
   },
   "9d53931ccb17088376cedd24ea2b461a": {
@@ -113,17 +113,17 @@
     "nome": "Nacional vs Estoril",
     "data": "2026-08-16",
     "quote": {
-      "Estoril": 2.5,
-      "Nacional": 2.74,
-      "Draw": 3.25
+      "Estoril": 2.41,
+      "Nacional": 2.84,
+      "Draw": 3.23
     }
   },
   "7929df954375baae70c9182d5069ecc7": {
     "nome": "Arouca vs Moreirense FC",
     "data": "2026-08-16",
     "quote": {
-      "Arouca": 1.98,
-      "Moreirense FC": 3.81,
+      "Arouca": 1.96,
+      "Moreirense FC": 3.83,
       "Draw": 3.27
     }
   },
@@ -132,17 +132,17 @@
     "data": "2026-08-16",
     "quote": {
       "Braga": 1.57,
-      "Gil Vicente": 5.29,
-      "Draw": 3.72
+      "Gil Vicente": 5.3,
+      "Draw": 3.73
     }
   },
   "ab9aabe0a69a522f22dab493732d5a65": {
     "nome": "Famalicão vs CS Maritimo",
     "data": "2026-08-16",
     "quote": {
-      "CS Maritimo": 4.68,
-      "Famalicão": 1.75,
-      "Draw": 3.5
+      "CS Maritimo": 4.71,
+      "Famalicão": 1.74,
+      "Draw": 3.47
     }
   },
   "f7a76400e2ae3978f03925ed51a69bce": {
@@ -150,7 +150,7 @@
     "data": "2026-08-17",
     "quote": {
       "Benfica": 1.21,
-      "Casa Pia": 11.86,
+      "Casa Pia": 11.89,
       "Draw": 5.92
     }
   },
