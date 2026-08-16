@@ -41,7 +41,7 @@
     "data": "2026-08-22",
     "quote": {
       "Cremonese": 2.5,
-      "Empoli": 2.7,
+      "Empoli": 2.71,
       "Draw": 3.01
     }
   },
@@ -104,45 +104,36 @@
     "nome": "Palermo vs Juve Stabia",
     "data": "2026-08-23",
     "quote": {
-      "Juve Stabia": 5.31,
-      "Palermo": 1.59,
-      "Draw": 3.5
-    }
-  },
-  "f1a64c2e8e1fd333286e57b43b1f8025": {
-    "nome": "Nacional vs Estoril",
-    "data": "2026-08-16",
-    "quote": {
-      "Estoril": 2.41,
-      "Nacional": 2.84,
-      "Draw": 3.23
+      "Juve Stabia": 5.21,
+      "Palermo": 1.61,
+      "Draw": 3.49
     }
   },
   "7929df954375baae70c9182d5069ecc7": {
     "nome": "Arouca vs Moreirense FC",
     "data": "2026-08-16",
     "quote": {
-      "Arouca": 1.96,
-      "Moreirense FC": 3.83,
-      "Draw": 3.27
+      "Arouca": 1.85,
+      "Moreirense FC": 4.18,
+      "Draw": 3.38
     }
   },
   "eda6f278d23cc52de4f897320367bea0": {
     "nome": "Braga vs Gil Vicente",
     "data": "2026-08-16",
     "quote": {
-      "Braga": 1.57,
-      "Gil Vicente": 5.3,
-      "Draw": 3.73
+      "Braga": 1.58,
+      "Gil Vicente": 5.31,
+      "Draw": 3.71
     }
   },
   "ab9aabe0a69a522f22dab493732d5a65": {
     "nome": "Famalicão vs CS Maritimo",
     "data": "2026-08-16",
     "quote": {
-      "CS Maritimo": 4.71,
+      "CS Maritimo": 4.76,
       "Famalicão": 1.74,
-      "Draw": 3.47
+      "Draw": 3.48
     }
   },
   "f7a76400e2ae3978f03925ed51a69bce": {
@@ -150,8 +141,17 @@
     "data": "2026-08-17",
     "quote": {
       "Benfica": 1.21,
-      "Casa Pia": 11.89,
-      "Draw": 5.92
+      "Casa Pia": 12.3,
+      "Draw": 6.03
+    }
+  },
+  "cc5275ca00a1e35d404a2ef5f3d68f61": {
+    "nome": "Estoril vs Rio Ave FC",
+    "data": "2026-08-22",
+    "quote": {
+      "Estoril": 1.96,
+      "Rio Ave FC": 3.47,
+      "Draw": 3.45
     }
   },
   "c502a6cff69b54f86167a5373f39a1a0": {
@@ -160,7 +160,16 @@
     "quote": {
       "Alverca": 12.17,
       "Sporting Lisbon": 1.17,
-      "Draw": 6.7
+      "Draw": 6.76
+    }
+  },
+  "51e3ad789b0cbd70eaae085effe6a169": {
+    "nome": "Vitória SC vs Nacional",
+    "data": "2026-08-23",
+    "quote": {
+      "Nacional": 4.55,
+      "Vitória SC": 1.67,
+      "Draw": 3.69
     }
   }
 }
