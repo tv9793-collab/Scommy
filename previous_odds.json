@@ -5,7 +5,7 @@
     "quote": {
       "Arezzo": 3.18,
       "Avellino": 2.11,
-      "Draw": 3.17
+      "Draw": 3.18
     }
   },
   "30d393fe018a1d7a448324ddd70671bb": {
@@ -41,7 +41,7 @@
     "data": "2026-08-22",
     "quote": {
       "Cremonese": 2.5,
-      "Empoli": 2.71,
+      "Empoli": 2.7,
       "Draw": 3.01
     }
   },
@@ -114,7 +114,7 @@
     "data": "2026-08-16",
     "quote": {
       "Estoril": 2.5,
-      "Nacional": 2.73,
+      "Nacional": 2.74,
       "Draw": 3.25
     }
   },
@@ -122,9 +122,9 @@
     "nome": "Arouca vs Moreirense FC",
     "data": "2026-08-16",
     "quote": {
-      "Arouca": 2.0,
-      "Moreirense FC": 3.74,
-      "Draw": 3.26
+      "Arouca": 1.98,
+      "Moreirense FC": 3.81,
+      "Draw": 3.27
     }
   },
   "eda6f278d23cc52de4f897320367bea0": {
@@ -142,7 +142,7 @@
     "quote": {
       "CS Maritimo": 4.68,
       "Famalicão": 1.75,
-      "Draw": 3.49
+      "Draw": 3.5
     }
   },
   "f7a76400e2ae3978f03925ed51a69bce": {
@@ -150,8 +150,8 @@
     "data": "2026-08-17",
     "quote": {
       "Benfica": 1.21,
-      "Casa Pia": 11.81,
-      "Draw": 5.9
+      "Casa Pia": 11.86,
+      "Draw": 5.92
     }
   },
   "c502a6cff69b54f86167a5373f39a1a0": {
@@ -160,7 +160,7 @@
     "quote": {
       "Alverca": 12.17,
       "Sporting Lisbon": 1.17,
-      "Draw": 6.76
+      "Draw": 6.7
     }
   }
 }
