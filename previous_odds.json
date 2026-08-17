@@ -86,7 +86,7 @@
     "nome": "Pisa vs Padova",
     "data": "2026-08-23",
     "quote": {
-      "Padova": 4.87,
+      "Padova": 4.86,
       "Pisa": 1.66,
       "Draw": 3.41
     }
@@ -114,8 +114,17 @@
     "data": "2026-08-17",
     "quote": {
       "Benfica": 1.2,
-      "Casa Pia": 12.99,
-      "Draw": 6.25
+      "Casa Pia": 13.24,
+      "Draw": 6.22
+    }
+  },
+  "2cca300b46d9f8a86994894f3877657d": {
+    "nome": "CS Maritimo vs Académico de Viseu",
+    "data": "2026-08-22",
+    "quote": {
+      "Académico de Viseu": 3.16,
+      "CS Maritimo": 1.91,
+      "Draw": 3.0
     }
   },
   "cc5275ca00a1e35d404a2ef5f3d68f61": {
@@ -158,9 +167,9 @@
     "nome": "FC Porto vs Arouca",
     "data": "2026-08-23",
     "quote": {
-      "Arouca": 12.93,
-      "FC Porto": 1.17,
-      "Draw": 6.37
+      "Arouca": 13.14,
+      "FC Porto": 1.18,
+      "Draw": 6.31
     }
   }
 }
