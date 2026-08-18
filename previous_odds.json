@@ -4,8 +4,8 @@
     "data": "2026-08-22",
     "quote": {
       "Arezzo": 3.2,
-      "Avellino": 2.14,
-      "Draw": 3.15
+      "Avellino": 2.13,
+      "Draw": 3.16
     }
   },
   "30d393fe018a1d7a448324ddd70671bb": {
@@ -27,8 +27,8 @@
     "data": "2026-08-22",
     "quote": {
       "Carrarese": 2.23,
-      "Mantova": 3.05,
-      "Draw": 3.11
+      "Mantova": 3.04,
+      "Draw": 3.12
     }
   },
   "abe56bc0b2d79990d7ebc1edbc6bb3a3": {
@@ -40,7 +40,7 @@
     "nome": "Empoli vs Cremonese",
     "data": "2026-08-22",
     "quote": {
-      "Cremonese": 2.5,
+      "Cremonese": 2.51,
       "Empoli": 2.71,
       "Draw": 3.01
     }
@@ -86,7 +86,7 @@
     "nome": "Pisa vs Padova",
     "data": "2026-08-23",
     "quote": {
-      "Padova": 4.75,
+      "Padova": 4.76,
       "Pisa": 1.69,
       "Draw": 3.39
     }
@@ -104,7 +104,7 @@
     "nome": "Palermo vs Juve Stabia",
     "data": "2026-08-23",
     "quote": {
-      "Juve Stabia": 5.25,
+      "Juve Stabia": 5.24,
       "Palermo": 1.6,
       "Draw": 3.52
     }
@@ -122,7 +122,7 @@
     "nome": "CS Maritimo vs Académico de Viseu",
     "data": "2026-08-22",
     "quote": {
-      "Académico de Viseu": 3.73,
+      "Académico de Viseu": 3.76,
       "CS Maritimo": 1.95,
       "Draw": 3.33
     }
@@ -140,7 +140,7 @@
     "nome": "Sporting Lisbon vs Alverca",
     "data": "2026-08-22",
     "quote": {
-      "Alverca": 11.06,
+      "Alverca": 11.04,
       "Sporting Lisbon": 1.2,
       "Draw": 6.29
     }
@@ -149,9 +149,9 @@
     "nome": "Vitória SC vs Nacional",
     "data": "2026-08-23",
     "quote": {
-      "Nacional": 4.63,
-      "Vitória SC": 1.68,
-      "Draw": 3.7
+      "Nacional": 4.68,
+      "Vitória SC": 1.67,
+      "Draw": 3.73
     }
   },
   "cd69dc990e387d5c96551c389e92a4db": {
@@ -167,7 +167,7 @@
     "nome": "FC Porto vs Arouca",
     "data": "2026-08-23",
     "quote": {
-      "Arouca": 13.2,
+      "Arouca": 13.15,
       "FC Porto": 1.18,
       "Draw": 6.42
     }
@@ -176,7 +176,7 @@
     "nome": "Gil Vicente vs Casa Pia",
     "data": "2026-08-24",
     "quote": {
-      "Casa Pia": 5.12,
+      "Casa Pia": 5.13,
       "Gil Vicente": 1.67,
       "Draw": 3.45
     }
