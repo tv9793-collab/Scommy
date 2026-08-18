@@ -122,8 +122,8 @@
     "nome": "CS Maritimo vs Académico de Viseu",
     "data": "2026-08-22",
     "quote": {
-      "Académico de Viseu": 3.71,
-      "CS Maritimo": 1.97,
+      "Académico de Viseu": 3.73,
+      "CS Maritimo": 1.95,
       "Draw": 3.33
     }
   },
@@ -131,7 +131,7 @@
     "nome": "Estoril vs Rio Ave FC",
     "data": "2026-08-22",
     "quote": {
-      "Estoril": 1.92,
+      "Estoril": 1.91,
       "Rio Ave FC": 3.7,
       "Draw": 3.49
     }
@@ -140,7 +140,7 @@
     "nome": "Sporting Lisbon vs Alverca",
     "data": "2026-08-22",
     "quote": {
-      "Alverca": 11.03,
+      "Alverca": 11.06,
       "Sporting Lisbon": 1.2,
       "Draw": 6.29
     }
@@ -149,7 +149,7 @@
     "nome": "Vitória SC vs Nacional",
     "data": "2026-08-23",
     "quote": {
-      "Nacional": 4.64,
+      "Nacional": 4.63,
       "Vitória SC": 1.68,
       "Draw": 3.7
     }
@@ -158,7 +158,7 @@
     "nome": "Santa Clara vs Famalicão",
     "data": "2026-08-23",
     "quote": {
-      "Famalicão": 2.95,
+      "Famalicão": 2.94,
       "Santa Clara": 2.46,
       "Draw": 2.95
     }
@@ -167,7 +167,7 @@
     "nome": "FC Porto vs Arouca",
     "data": "2026-08-23",
     "quote": {
-      "Arouca": 13.22,
+      "Arouca": 13.2,
       "FC Porto": 1.18,
       "Draw": 6.42
     }
@@ -176,9 +176,9 @@
     "nome": "Gil Vicente vs Casa Pia",
     "data": "2026-08-24",
     "quote": {
-      "Casa Pia": 4.9,
-      "Gil Vicente": 1.7,
-      "Draw": 3.4
+      "Casa Pia": 5.12,
+      "Gil Vicente": 1.67,
+      "Draw": 3.45
     }
   }
 }
