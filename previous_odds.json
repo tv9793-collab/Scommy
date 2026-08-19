@@ -3,30 +3,10 @@
     "nome": "Vicenza vs US Catanzaro 1929",
     "data": "2026-08-21",
     "quote": {
-      "US Catanzaro 1929": 2.69,
-      "Vicenza": 2.5,
-      "Draw": 3.03
+      "US Catanzaro 1929": 2.7,
+      "Vicenza": 2.51,
+      "Draw": 3.04
     }
-  },
-  "30d393fe018a1d7a448324ddd70671bb": {
-    "nome": "Hellas Verona vs Ascoli",
-    "data": "2026-08-22",
-    "quote": {}
-  },
-  "abe56bc0b2d79990d7ebc1edbc6bb3a3": {
-    "nome": "Cesena FC vs Sampdoria",
-    "data": "2026-08-22",
-    "quote": {}
-  },
-  "ae903e7535b92478914fb58ab506e008": {
-    "nome": "Palermo vs Juve Stabia",
-    "data": "2026-08-22",
-    "quote": {}
-  },
-  "3c26a73bb65d66235126be3471aeeac9": {
-    "nome": "Pisa vs Padova",
-    "data": "2026-08-22",
-    "quote": {}
   },
   "84204438a9c908db850d8a6a3a142aff": {
     "nome": "Carrarese vs Mantova",
@@ -61,7 +41,7 @@
     "quote": {
       "Benevento": 2.25,
       "Modena": 2.99,
-      "Draw": 3.13
+      "Draw": 3.14
     }
   },
   "302341207055a2bd67abdf33940d24c3": {
@@ -86,7 +66,7 @@
     "nome": "Pisa vs Padova",
     "data": "2026-08-23",
     "quote": {
-      "Padova": 4.61,
+      "Padova": 4.62,
       "Pisa": 1.72,
       "Draw": 3.37
     }
@@ -140,9 +120,9 @@
     "nome": "Sporting Lisbon vs Alverca",
     "data": "2026-08-22",
     "quote": {
-      "Alverca": 10.82,
+      "Alverca": 10.76,
       "Sporting Lisbon": 1.2,
-      "Draw": 6.24
+      "Draw": 6.27
     }
   },
   "51e3ad789b0cbd70eaae085effe6a169": {
@@ -167,7 +147,7 @@
     "nome": "FC Porto vs Arouca",
     "data": "2026-08-23",
     "quote": {
-      "Arouca": 12.82,
+      "Arouca": 13.19,
       "FC Porto": 1.18,
       "Draw": 6.39
     }
@@ -176,7 +156,7 @@
     "nome": "Gil Vicente vs Casa Pia",
     "data": "2026-08-24",
     "quote": {
-      "Casa Pia": 5.23,
+      "Casa Pia": 5.22,
       "Gil Vicente": 1.66,
       "Draw": 3.43
     }
