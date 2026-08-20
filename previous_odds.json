@@ -3,8 +3,8 @@
     "nome": "Vicenza vs US Catanzaro 1929",
     "data": "2026-08-21",
     "quote": {
-      "US Catanzaro 1929": 2.72,
-      "Vicenza": 2.53,
+      "US Catanzaro 1929": 2.63,
+      "Vicenza": 2.45,
       "Draw": 3.06
     }
   },
@@ -12,18 +12,18 @@
     "nome": "Carrarese vs Mantova",
     "data": "2026-08-22",
     "quote": {
-      "Carrarese": 2.29,
-      "Mantova": 2.99,
-      "Draw": 3.14
+      "Carrarese": 2.23,
+      "Mantova": 2.92,
+      "Draw": 3.13
     }
   },
   "9bd50a8dece569c151e7aaa01d978f02": {
     "nome": "Südtirol vs Virtus Entella",
     "data": "2026-08-22",
     "quote": {
-      "Südtirol": 2.01,
-      "Virtus Entella": 3.91,
-      "Draw": 2.98
+      "Südtirol": 1.98,
+      "Virtus Entella": 3.75,
+      "Draw": 2.89
     }
   },
   "440a7702ee234fe9e1f58d697130b0d1": {
@@ -31,8 +31,8 @@
     "data": "2026-08-22",
     "quote": {
       "Arezzo": 3.26,
-      "Avellino": 2.15,
-      "Draw": 3.14
+      "Avellino": 2.11,
+      "Draw": 3.04
     }
   },
   "11308436676766036274329ed46852df": {
@@ -40,35 +40,35 @@
     "data": "2026-08-22",
     "quote": {
       "Benevento": 2.27,
-      "Modena": 3.02,
-      "Draw": 3.15
+      "Modena": 2.94,
+      "Draw": 3.04
     }
   },
   "302341207055a2bd67abdf33940d24c3": {
     "nome": "Empoli vs Cremonese",
     "data": "2026-08-22",
     "quote": {
-      "Cremonese": 2.61,
+      "Cremonese": 2.54,
       "Empoli": 2.72,
-      "Draw": 3.0
+      "Draw": 3.01
     }
   },
   "f2634db48eaf6526793cfc48047b540b": {
     "nome": "Hellas Verona vs Ascoli",
     "data": "2026-08-23",
     "quote": {
-      "Ascoli": 5.2,
-      "Hellas Verona": 1.6,
-      "Draw": 3.59
+      "Ascoli": 4.97,
+      "Hellas Verona": 1.57,
+      "Draw": 3.47
     }
   },
   "e0998179e0126a222f6890531854a07a": {
     "nome": "Pisa vs Padova",
     "data": "2026-08-23",
     "quote": {
-      "Padova": 4.62,
-      "Pisa": 1.73,
-      "Draw": 3.35
+      "Padova": 4.43,
+      "Pisa": 1.69,
+      "Draw": 3.25
     }
   },
   "9d53931ccb17088376cedd24ea2b461a": {
@@ -76,33 +76,33 @@
     "data": "2026-08-23",
     "quote": {
       "Cesena FC": 2.39,
-      "Sampdoria": 2.81,
-      "Draw": 3.12
+      "Sampdoria": 2.74,
+      "Draw": 3.05
     }
   },
   "3a9435e979eddb5ef80dbf75b37028fb": {
     "nome": "Palermo vs Juve Stabia",
     "data": "2026-08-23",
     "quote": {
-      "Juve Stabia": 5.1,
-      "Palermo": 1.63,
-      "Draw": 3.52
+      "Juve Stabia": 4.87,
+      "Palermo": 1.6,
+      "Draw": 3.41
     }
   },
   "2cca300b46d9f8a86994894f3877657d": {
     "nome": "CS Maritimo vs Académico de Viseu",
     "data": "2026-08-22",
     "quote": {
-      "Académico de Viseu": 3.83,
+      "Académico de Viseu": 3.81,
       "CS Maritimo": 1.94,
-      "Draw": 3.29
+      "Draw": 3.28
     }
   },
   "cc5275ca00a1e35d404a2ef5f3d68f61": {
     "nome": "Estoril vs Rio Ave FC",
     "data": "2026-08-22",
     "quote": {
-      "Estoril": 1.89,
+      "Estoril": 1.88,
       "Rio Ave FC": 3.75,
       "Draw": 3.49
     }
@@ -111,16 +111,16 @@
     "nome": "Sporting Lisbon vs Alverca",
     "data": "2026-08-22",
     "quote": {
-      "Alverca": 11.09,
-      "Sporting Lisbon": 1.2,
-      "Draw": 6.4
+      "Alverca": 10.72,
+      "Sporting Lisbon": 1.19,
+      "Draw": 6.38
     }
   },
   "51e3ad789b0cbd70eaae085effe6a169": {
     "nome": "Vitória SC vs Nacional",
     "data": "2026-08-23",
     "quote": {
-      "Nacional": 4.69,
+      "Nacional": 4.66,
       "Vitória SC": 1.66,
       "Draw": 3.69
     }
@@ -129,8 +129,8 @@
     "nome": "Santa Clara vs Famalicão",
     "data": "2026-08-23",
     "quote": {
-      "Famalicão": 2.84,
-      "Santa Clara": 2.53,
+      "Famalicão": 2.78,
+      "Santa Clara": 2.56,
       "Draw": 2.93
     }
   },
@@ -138,7 +138,7 @@
     "nome": "FC Porto vs Arouca",
     "data": "2026-08-23",
     "quote": {
-      "Arouca": 12.4,
+      "Arouca": 11.7,
       "FC Porto": 1.19,
       "Draw": 6.11
     }
@@ -147,8 +147,8 @@
     "nome": "Gil Vicente vs Casa Pia",
     "data": "2026-08-24",
     "quote": {
-      "Casa Pia": 5.25,
-      "Gil Vicente": 1.66,
+      "Casa Pia": 5.0,
+      "Gil Vicente": 1.64,
       "Draw": 3.43
     }
   }
