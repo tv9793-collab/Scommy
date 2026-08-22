@@ -1,31 +1,4 @@
 {
-  "440a7702ee234fe9e1f58d697130b0d1": {
-    "nome": "Avellino vs Arezzo",
-    "data": "2026-08-22",
-    "quote": {
-      "Arezzo": 3.43,
-      "Avellino": 2.17,
-      "Draw": 3.08
-    }
-  },
-  "11308436676766036274329ed46852df": {
-    "nome": "Benevento vs Modena",
-    "data": "2026-08-22",
-    "quote": {
-      "Benevento": 2.44,
-      "Modena": 2.82,
-      "Draw": 3.18
-    }
-  },
-  "302341207055a2bd67abdf33940d24c3": {
-    "nome": "Empoli vs Cremonese",
-    "data": "2026-08-22",
-    "quote": {
-      "Cremonese": 2.34,
-      "Empoli": 3.08,
-      "Draw": 3.06
-    }
-  },
   "f2634db48eaf6526793cfc48047b540b": {
     "nome": "Hellas Verona vs Ascoli",
     "data": "2026-08-23",
@@ -39,7 +12,7 @@
     "nome": "Pisa vs Padova",
     "data": "2026-08-23",
     "quote": {
-      "Padova": 4.63,
+      "Padova": 4.64,
       "Pisa": 1.76,
       "Draw": 3.36
     }
@@ -50,25 +23,16 @@
     "quote": {
       "Cesena FC": 2.48,
       "Sampdoria": 2.79,
-      "Draw": 3.13
+      "Draw": 3.14
     }
   },
   "3a9435e979eddb5ef80dbf75b37028fb": {
     "nome": "Palermo vs Juve Stabia",
     "data": "2026-08-23",
     "quote": {
-      "Juve Stabia": 5.88,
+      "Juve Stabia": 5.89,
       "Palermo": 1.54,
       "Draw": 3.78
-    }
-  },
-  "c502a6cff69b54f86167a5373f39a1a0": {
-    "nome": "Sporting Lisbon vs Alverca",
-    "data": "2026-08-22",
-    "quote": {
-      "Alverca": 12.86,
-      "Sporting Lisbon": 1.18,
-      "Draw": 6.88
     }
   },
   "51e3ad789b0cbd70eaae085effe6a169": {
@@ -93,18 +57,27 @@
     "nome": "FC Porto vs Arouca",
     "data": "2026-08-23",
     "quote": {
-      "Arouca": 13.28,
+      "Arouca": 13.37,
       "FC Porto": 1.18,
-      "Draw": 6.4
+      "Draw": 6.39
     }
   },
   "124c81aa503ef859a5a685b1539ef990": {
     "nome": "Gil Vicente vs Casa Pia",
     "data": "2026-08-24",
     "quote": {
-      "Casa Pia": 5.16,
+      "Casa Pia": 5.17,
       "Gil Vicente": 1.68,
       "Draw": 3.44
+    }
+  },
+  "ee9fff4355742c144679fdc75e5697a6": {
+    "nome": "Rio Ave FC vs Sporting Lisbon",
+    "data": "2026-08-28",
+    "quote": {
+      "Rio Ave FC": 8.07,
+      "Sporting Lisbon": 1.24,
+      "Draw": 5.24
     }
   }
 }
