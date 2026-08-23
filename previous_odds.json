@@ -1,38 +1,29 @@
 {
-  "9d53931ccb17088376cedd24ea2b461a": {
-    "nome": "Cesena FC vs Sampdoria",
-    "data": "2026-08-23",
+  "431e68d72908191b0e49cf0d8fbfe65b": {
+    "nome": "Virtus Entella vs Cesena FC",
+    "data": "2026-08-29",
     "quote": {
-      "Cesena FC": 2.54,
-      "Sampdoria": 2.74,
-      "Draw": 3.13
+      "Cesena FC": 3.26,
+      "Virtus Entella": 2.12,
+      "Draw": 3.18
     }
   },
-  "3a9435e979eddb5ef80dbf75b37028fb": {
-    "nome": "Palermo vs Juve Stabia",
-    "data": "2026-08-23",
+  "de476e277185286ed276d1e16e171b3b": {
+    "nome": "Sampdoria vs Juve Stabia",
+    "data": "2026-08-29",
     "quote": {
-      "Juve Stabia": 6.25,
-      "Palermo": 1.5,
-      "Draw": 3.96
+      "Juve Stabia": 4.14,
+      "Sampdoria": 1.9,
+      "Draw": 3.09
     }
   },
   "78fc9d5d9c1142fd4385cabec45c320a": {
     "nome": "Mantova vs Empoli",
     "data": "2026-08-30",
     "quote": {
-      "Empoli": 3.34,
+      "Empoli": 3.32,
       "Mantova": 2.1,
-      "Draw": 3.2
-    }
-  },
-  "efd85570fb6767c806ac7864cb988a96": {
-    "nome": "FC Porto vs Arouca",
-    "data": "2026-08-23",
-    "quote": {
-      "Arouca": 11.47,
-      "FC Porto": 1.22,
-      "Draw": 5.99
+      "Draw": 3.19
     }
   },
   "124c81aa503ef859a5a685b1539ef990": {
@@ -41,14 +32,14 @@
     "quote": {
       "Casa Pia": 5.2,
       "Gil Vicente": 1.68,
-      "Draw": 3.44
+      "Draw": 3.45
     }
   },
   "ee9fff4355742c144679fdc75e5697a6": {
     "nome": "Rio Ave FC vs Sporting Lisbon",
     "data": "2026-08-28",
     "quote": {
-      "Rio Ave FC": 8.12,
+      "Rio Ave FC": 8.23,
       "Sporting Lisbon": 1.29,
       "Draw": 5.41
     }
