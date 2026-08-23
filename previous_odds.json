@@ -3,45 +3,45 @@
     "nome": "Hellas Verona vs Ascoli",
     "data": "2026-08-23",
     "quote": {
-      "Ascoli": 5.31,
+      "Ascoli": 5.3,
       "Hellas Verona": 1.62,
-      "Draw": 3.67
+      "Draw": 3.66
     }
   },
   "e0998179e0126a222f6890531854a07a": {
     "nome": "Pisa vs Padova",
     "data": "2026-08-23",
     "quote": {
-      "Padova": 4.82,
-      "Pisa": 1.72,
-      "Draw": 3.45
+      "Padova": 4.88,
+      "Pisa": 1.71,
+      "Draw": 3.46
     }
   },
   "9d53931ccb17088376cedd24ea2b461a": {
     "nome": "Cesena FC vs Sampdoria",
     "data": "2026-08-23",
     "quote": {
-      "Cesena FC": 2.48,
+      "Cesena FC": 2.49,
       "Sampdoria": 2.8,
-      "Draw": 3.14
+      "Draw": 3.13
     }
   },
   "3a9435e979eddb5ef80dbf75b37028fb": {
     "nome": "Palermo vs Juve Stabia",
     "data": "2026-08-23",
     "quote": {
-      "Juve Stabia": 5.99,
-      "Palermo": 1.53,
-      "Draw": 3.83
+      "Juve Stabia": 6.15,
+      "Palermo": 1.52,
+      "Draw": 3.9
     }
   },
   "51e3ad789b0cbd70eaae085effe6a169": {
     "nome": "Vitória SC vs Nacional",
     "data": "2026-08-23",
     "quote": {
-      "Nacional": 5.05,
-      "Vitória SC": 1.64,
-      "Draw": 3.75
+      "Nacional": 4.94,
+      "Vitória SC": 1.66,
+      "Draw": 3.74
     }
   },
   "cd69dc990e387d5c96551c389e92a4db": {
@@ -49,17 +49,17 @@
     "data": "2026-08-23",
     "quote": {
       "Famalicão": 2.81,
-      "Santa Clara": 2.68,
-      "Draw": 2.89
+      "Santa Clara": 2.7,
+      "Draw": 2.87
     }
   },
   "efd85570fb6767c806ac7864cb988a96": {
     "nome": "FC Porto vs Arouca",
     "data": "2026-08-23",
     "quote": {
-      "Arouca": 11.1,
+      "Arouca": 11.16,
       "FC Porto": 1.23,
-      "Draw": 5.92
+      "Draw": 5.89
     }
   },
   "124c81aa503ef859a5a685b1539ef990": {
@@ -75,9 +75,9 @@
     "nome": "Rio Ave FC vs Sporting Lisbon",
     "data": "2026-08-28",
     "quote": {
-      "Rio Ave FC": 8.23,
+      "Rio Ave FC": 8.25,
       "Sporting Lisbon": 1.29,
-      "Draw": 5.41
+      "Draw": 5.4
     }
   }
 }
