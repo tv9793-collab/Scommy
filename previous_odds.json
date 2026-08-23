@@ -1,56 +1,38 @@
 {
-  "f2634db48eaf6526793cfc48047b540b": {
-    "nome": "Hellas Verona vs Ascoli",
-    "data": "2026-08-23",
-    "quote": {
-      "Ascoli": 5.22,
-      "Hellas Verona": 1.64,
-      "Draw": 3.58
-    }
-  },
-  "e0998179e0126a222f6890531854a07a": {
-    "nome": "Pisa vs Padova",
-    "data": "2026-08-23",
-    "quote": {
-      "Padova": 4.74,
-      "Pisa": 1.73,
-      "Draw": 3.46
-    }
-  },
   "9d53931ccb17088376cedd24ea2b461a": {
     "nome": "Cesena FC vs Sampdoria",
     "data": "2026-08-23",
     "quote": {
-      "Cesena FC": 2.5,
-      "Sampdoria": 2.8,
-      "Draw": 3.12
+      "Cesena FC": 2.54,
+      "Sampdoria": 2.74,
+      "Draw": 3.13
     }
   },
   "3a9435e979eddb5ef80dbf75b37028fb": {
     "nome": "Palermo vs Juve Stabia",
     "data": "2026-08-23",
     "quote": {
-      "Juve Stabia": 6.2,
-      "Palermo": 1.51,
-      "Draw": 3.91
+      "Juve Stabia": 6.25,
+      "Palermo": 1.5,
+      "Draw": 3.96
     }
   },
-  "cd69dc990e387d5c96551c389e92a4db": {
-    "nome": "Santa Clara vs Famalicão",
-    "data": "2026-08-23",
+  "78fc9d5d9c1142fd4385cabec45c320a": {
+    "nome": "Mantova vs Empoli",
+    "data": "2026-08-30",
     "quote": {
-      "Famalicão": 2.78,
-      "Santa Clara": 2.7,
-      "Draw": 2.9
+      "Empoli": 3.34,
+      "Mantova": 2.1,
+      "Draw": 3.2
     }
   },
   "efd85570fb6767c806ac7864cb988a96": {
     "nome": "FC Porto vs Arouca",
     "data": "2026-08-23",
     "quote": {
-      "Arouca": 11.16,
-      "FC Porto": 1.23,
-      "Draw": 5.92
+      "Arouca": 11.47,
+      "FC Porto": 1.22,
+      "Draw": 5.99
     }
   },
   "124c81aa503ef859a5a685b1539ef990": {
@@ -66,9 +48,18 @@
     "nome": "Rio Ave FC vs Sporting Lisbon",
     "data": "2026-08-28",
     "quote": {
-      "Rio Ave FC": 8.1,
+      "Rio Ave FC": 8.12,
       "Sporting Lisbon": 1.29,
-      "Draw": 5.38
+      "Draw": 5.41
+    }
+  },
+  "700dae86f4c64ccae2c492bb885acba8": {
+    "nome": "Alverca vs Santa Clara",
+    "data": "2026-08-29",
+    "quote": {
+      "Alverca": 3.27,
+      "Santa Clara": 2.19,
+      "Draw": 2.88
     }
   }
 }
