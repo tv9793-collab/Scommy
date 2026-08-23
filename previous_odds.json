@@ -3,17 +3,17 @@
     "nome": "Hellas Verona vs Ascoli",
     "data": "2026-08-23",
     "quote": {
-      "Ascoli": 5.05,
-      "Hellas Verona": 1.67,
-      "Draw": 3.55
+      "Ascoli": 5.22,
+      "Hellas Verona": 1.64,
+      "Draw": 3.58
     }
   },
   "e0998179e0126a222f6890531854a07a": {
     "nome": "Pisa vs Padova",
     "data": "2026-08-23",
     "quote": {
-      "Padova": 4.82,
-      "Pisa": 1.72,
+      "Padova": 4.74,
+      "Pisa": 1.73,
       "Draw": 3.46
     }
   },
@@ -22,7 +22,7 @@
     "data": "2026-08-23",
     "quote": {
       "Cesena FC": 2.5,
-      "Sampdoria": 2.79,
+      "Sampdoria": 2.8,
       "Draw": 3.12
     }
   },
@@ -30,27 +30,18 @@
     "nome": "Palermo vs Juve Stabia",
     "data": "2026-08-23",
     "quote": {
-      "Juve Stabia": 6.14,
-      "Palermo": 1.52,
+      "Juve Stabia": 6.2,
+      "Palermo": 1.51,
       "Draw": 3.91
-    }
-  },
-  "51e3ad789b0cbd70eaae085effe6a169": {
-    "nome": "Vitória SC vs Nacional",
-    "data": "2026-08-23",
-    "quote": {
-      "Nacional": 5.26,
-      "Vitória SC": 1.6,
-      "Draw": 3.81
     }
   },
   "cd69dc990e387d5c96551c389e92a4db": {
     "nome": "Santa Clara vs Famalicão",
     "data": "2026-08-23",
     "quote": {
-      "Famalicão": 2.79,
-      "Santa Clara": 2.71,
-      "Draw": 2.88
+      "Famalicão": 2.78,
+      "Santa Clara": 2.7,
+      "Draw": 2.9
     }
   },
   "efd85570fb6767c806ac7864cb988a96": {
@@ -59,14 +50,14 @@
     "quote": {
       "Arouca": 11.16,
       "FC Porto": 1.23,
-      "Draw": 5.97
+      "Draw": 5.92
     }
   },
   "124c81aa503ef859a5a685b1539ef990": {
     "nome": "Gil Vicente vs Casa Pia",
     "data": "2026-08-24",
     "quote": {
-      "Casa Pia": 5.19,
+      "Casa Pia": 5.2,
       "Gil Vicente": 1.68,
       "Draw": 3.44
     }
@@ -75,9 +66,9 @@
     "nome": "Rio Ave FC vs Sporting Lisbon",
     "data": "2026-08-28",
     "quote": {
-      "Rio Ave FC": 8.22,
+      "Rio Ave FC": 8.1,
       "Sporting Lisbon": 1.29,
-      "Draw": 5.43
+      "Draw": 5.38
     }
   }
 }
