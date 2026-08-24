@@ -21,16 +21,16 @@
     "nome": "Mantova vs Empoli",
     "data": "2026-08-30",
     "quote": {
-      "Empoli": 3.29,
-      "Mantova": 2.07,
-      "Draw": 3.17
+      "Empoli": 3.49,
+      "Mantova": 2.0,
+      "Draw": 3.2
     }
   },
   "124c81aa503ef859a5a685b1539ef990": {
     "nome": "Gil Vicente vs Casa Pia",
     "data": "2026-08-24",
     "quote": {
-      "Casa Pia": 5.24,
+      "Casa Pia": 5.28,
       "Gil Vicente": 1.68,
       "Draw": 3.46
     }
@@ -48,18 +48,18 @@
     "nome": "Alverca vs Santa Clara",
     "data": "2026-08-29",
     "quote": {
-      "Alverca": 2.89,
-      "Santa Clara": 2.42,
-      "Draw": 3.07
+      "Alverca": 2.8,
+      "Santa Clara": 2.48,
+      "Draw": 3.09
     }
   },
   "ee36a525a0d357c3e6d963e7e8fd2c1b": {
     "nome": "Nacional vs CF Estrela",
     "data": "2026-08-30",
     "quote": {
-      "CF Estrela": 2.97,
-      "Nacional": 2.3,
-      "Draw": 3.16
+      "CF Estrela": 2.91,
+      "Nacional": 2.34,
+      "Draw": 3.13
     }
   }
 }
