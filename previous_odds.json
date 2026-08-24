@@ -3,27 +3,27 @@
     "nome": "Virtus Entella vs Cesena FC",
     "data": "2026-08-29",
     "quote": {
-      "Cesena FC": 3.24,
-      "Virtus Entella": 2.11,
-      "Draw": 3.19
+      "Cesena FC": 3.11,
+      "Virtus Entella": 2.2,
+      "Draw": 3.18
     }
   },
   "de476e277185286ed276d1e16e171b3b": {
     "nome": "Sampdoria vs Juve Stabia",
     "data": "2026-08-29",
     "quote": {
-      "Juve Stabia": 4.14,
-      "Sampdoria": 1.88,
-      "Draw": 3.1
+      "Juve Stabia": 4.15,
+      "Sampdoria": 1.89,
+      "Draw": 3.11
     }
   },
   "78fc9d5d9c1142fd4385cabec45c320a": {
     "nome": "Mantova vs Empoli",
     "data": "2026-08-30",
     "quote": {
-      "Empoli": 3.49,
-      "Mantova": 2.0,
-      "Draw": 3.2
+      "Empoli": 3.42,
+      "Mantova": 2.03,
+      "Draw": 3.19
     }
   },
   "124c81aa503ef859a5a685b1539ef990": {
@@ -48,8 +48,8 @@
     "nome": "Alverca vs Santa Clara",
     "data": "2026-08-29",
     "quote": {
-      "Alverca": 2.8,
-      "Santa Clara": 2.48,
+      "Alverca": 2.76,
+      "Santa Clara": 2.5,
       "Draw": 3.09
     }
   },
@@ -57,8 +57,8 @@
     "nome": "Nacional vs CF Estrela",
     "data": "2026-08-30",
     "quote": {
-      "CF Estrela": 2.91,
-      "Nacional": 2.34,
+      "CF Estrela": 2.9,
+      "Nacional": 2.35,
       "Draw": 3.13
     }
   }
