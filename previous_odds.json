@@ -3,7 +3,7 @@
     "nome": "Cremonese vs Modena",
     "data": "2026-08-28",
     "quote": {
-      "Cremonese": 1.83,
+      "Cremonese": 1.82,
       "Modena": 4.3,
       "Draw": 3.2
     }
@@ -12,7 +12,7 @@
     "nome": "Virtus Entella vs Cesena FC",
     "data": "2026-08-29",
     "quote": {
-      "Cesena FC": 3.21,
+      "Cesena FC": 3.22,
       "Virtus Entella": 2.14,
       "Draw": 3.16
     }
@@ -23,7 +23,7 @@
     "quote": {
       "Juve Stabia": 4.15,
       "Sampdoria": 1.88,
-      "Draw": 3.1
+      "Draw": 3.11
     }
   },
   "8333a40577bd277268d79a651178312c": {
@@ -66,7 +66,7 @@
     "nome": "Mantova vs Empoli",
     "data": "2026-08-30",
     "quote": {
-      "Empoli": 3.45,
+      "Empoli": 3.46,
       "Mantova": 2.02,
       "Draw": 3.18
     }
@@ -120,18 +120,18 @@
     "nome": "Académico de Viseu vs FC Porto",
     "data": "2026-08-29",
     "quote": {
-      "Académico de Viseu": 8.28,
+      "Académico de Viseu": 8.29,
       "FC Porto": 1.31,
-      "Draw": 4.88
+      "Draw": 4.89
     }
   },
   "ee36a525a0d357c3e6d963e7e8fd2c1b": {
     "nome": "Nacional vs CF Estrela",
     "data": "2026-08-30",
     "quote": {
-      "CF Estrela": 3.0,
+      "CF Estrela": 2.99,
       "Nacional": 2.25,
-      "Draw": 3.2
+      "Draw": 3.22
     }
   },
   "456e871d1fe9110c581ba86856ea6cd7": {
@@ -139,7 +139,7 @@
     "data": "2026-08-30",
     "quote": {
       "Casa Pia": 2.09,
-      "Moreirense FC": 3.42,
+      "Moreirense FC": 3.43,
       "Draw": 3.14
     }
   },
@@ -157,8 +157,8 @@
     "data": "2026-08-31",
     "quote": {
       "Benfica": 1.11,
-      "Estoril": 15.75,
-      "Draw": 8.09
+      "Estoril": 15.45,
+      "Draw": 7.82
     }
   },
   "b52170b614fe11f24729a0a04a208240": {
