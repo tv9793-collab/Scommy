@@ -5,7 +5,7 @@
     "quote": {
       "Cremonese": 1.83,
       "Modena": 4.3,
-      "Draw": 3.19
+      "Draw": 3.2
     }
   },
   "431e68d72908191b0e49cf0d8fbfe65b": {
@@ -39,7 +39,7 @@
     "nome": "Avellino vs Vicenza",
     "data": "2026-08-29",
     "quote": {
-      "Avellino": 2.43,
+      "Avellino": 2.44,
       "Vicenza": 2.83,
       "Draw": 3.03
     }
@@ -93,9 +93,9 @@
     "nome": "Rio Ave FC vs Sporting Lisbon",
     "data": "2026-08-28",
     "quote": {
-      "Rio Ave FC": 7.94,
+      "Rio Ave FC": 7.9,
       "Sporting Lisbon": 1.31,
-      "Draw": 5.08
+      "Draw": 5.12
     }
   },
   "700dae86f4c64ccae2c492bb885acba8": {
@@ -103,8 +103,8 @@
     "data": "2026-08-29",
     "quote": {
       "Alverca": 2.72,
-      "Santa Clara": 2.54,
-      "Draw": 3.05
+      "Santa Clara": 2.53,
+      "Draw": 3.07
     }
   },
   "156ee160b17a4416dfb6121d4805bcdb": {
@@ -112,7 +112,7 @@
     "data": "2026-08-29",
     "quote": {
       "Arouca": 2.22,
-      "CS Maritimo": 3.13,
+      "CS Maritimo": 3.14,
       "Draw": 3.13
     }
   },
@@ -129,9 +129,9 @@
     "nome": "Nacional vs CF Estrela",
     "data": "2026-08-30",
     "quote": {
-      "CF Estrela": 3.01,
-      "Nacional": 2.24,
-      "Draw": 3.2
+      "CF Estrela": 2.99,
+      "Nacional": 2.25,
+      "Draw": 3.22
     }
   },
   "456e871d1fe9110c581ba86856ea6cd7": {
@@ -140,7 +140,7 @@
     "quote": {
       "Casa Pia": 2.09,
       "Moreirense FC": 3.43,
-      "Draw": 3.13
+      "Draw": 3.14
     }
   },
   "d5883be0e3fc62650d407259b9fa7c9b": {
@@ -149,7 +149,7 @@
     "quote": {
       "Famalicão": 1.96,
       "Gil Vicente": 3.8,
-      "Draw": 3.18
+      "Draw": 3.17
     }
   },
   "83c42d1ce56e3211961a293f243a952b": {
@@ -157,8 +157,8 @@
     "data": "2026-08-31",
     "quote": {
       "Benfica": 1.1,
-      "Estoril": 17.07,
-      "Draw": 8.42
+      "Estoril": 17.2,
+      "Draw": 8.46
     }
   },
   "b52170b614fe11f24729a0a04a208240": {
@@ -167,7 +167,7 @@
     "quote": {
       "Braga": 1.67,
       "Vitória SC": 4.67,
-      "Draw": 3.59
+      "Draw": 3.6
     }
   }
 }
