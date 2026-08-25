@@ -12,9 +12,9 @@
     "nome": "Virtus Entella vs Cesena FC",
     "data": "2026-08-29",
     "quote": {
-      "Cesena FC": 3.2,
+      "Cesena FC": 3.21,
       "Virtus Entella": 2.14,
-      "Draw": 3.17
+      "Draw": 3.16
     }
   },
   "de476e277185286ed276d1e16e171b3b": {
@@ -57,8 +57,8 @@
     "nome": "Arezzo vs Palermo",
     "data": "2026-08-30",
     "quote": {
-      "Arezzo": 3.17,
-      "Palermo": 2.24,
+      "Arezzo": 3.11,
+      "Palermo": 2.28,
       "Draw": 3.0
     }
   },
@@ -93,7 +93,7 @@
     "nome": "Rio Ave FC vs Sporting Lisbon",
     "data": "2026-08-28",
     "quote": {
-      "Rio Ave FC": 7.9,
+      "Rio Ave FC": 7.91,
       "Sporting Lisbon": 1.31,
       "Draw": 5.12
     }
@@ -103,8 +103,8 @@
     "data": "2026-08-29",
     "quote": {
       "Alverca": 2.72,
-      "Santa Clara": 2.53,
-      "Draw": 3.07
+      "Santa Clara": 2.54,
+      "Draw": 3.06
     }
   },
   "156ee160b17a4416dfb6121d4805bcdb": {
@@ -129,9 +129,9 @@
     "nome": "Nacional vs CF Estrela",
     "data": "2026-08-30",
     "quote": {
-      "CF Estrela": 2.99,
+      "CF Estrela": 3.0,
       "Nacional": 2.25,
-      "Draw": 3.22
+      "Draw": 3.2
     }
   },
   "456e871d1fe9110c581ba86856ea6cd7": {
@@ -139,7 +139,7 @@
     "data": "2026-08-30",
     "quote": {
       "Casa Pia": 2.09,
-      "Moreirense FC": 3.43,
+      "Moreirense FC": 3.42,
       "Draw": 3.14
     }
   },
@@ -156,9 +156,9 @@
     "nome": "Benfica vs Estoril",
     "data": "2026-08-31",
     "quote": {
-      "Benfica": 1.1,
-      "Estoril": 17.2,
-      "Draw": 8.46
+      "Benfica": 1.11,
+      "Estoril": 15.75,
+      "Draw": 8.09
     }
   },
   "b52170b614fe11f24729a0a04a208240": {
