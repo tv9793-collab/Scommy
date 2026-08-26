@@ -4,8 +4,8 @@
     "data": "2026-08-28",
     "quote": {
       "Cremonese": 1.82,
-      "Modena": 4.39,
-      "Draw": 3.22
+      "Modena": 4.45,
+      "Draw": 3.23
     }
   },
   "431e68d72908191b0e49cf0d8fbfe65b": {
@@ -93,18 +93,18 @@
     "nome": "Rio Ave FC vs Sporting Lisbon",
     "data": "2026-08-28",
     "quote": {
-      "Rio Ave FC": 7.96,
+      "Rio Ave FC": 7.92,
       "Sporting Lisbon": 1.31,
-      "Draw": 5.21
+      "Draw": 5.24
     }
   },
   "700dae86f4c64ccae2c492bb885acba8": {
     "nome": "Alverca vs Santa Clara",
     "data": "2026-08-29",
     "quote": {
-      "Alverca": 2.62,
-      "Santa Clara": 2.65,
-      "Draw": 3.05
+      "Alverca": 2.63,
+      "Santa Clara": 2.66,
+      "Draw": 3.06
     }
   },
   "156ee160b17a4416dfb6121d4805bcdb": {
@@ -112,8 +112,8 @@
     "data": "2026-08-29",
     "quote": {
       "Arouca": 2.18,
-      "CS Maritimo": 3.18,
-      "Draw": 3.15
+      "CS Maritimo": 3.19,
+      "Draw": 3.17
     }
   },
   "3c82832161fd65f5c323fd435b991aee": {
@@ -138,9 +138,9 @@
     "nome": "Casa Pia vs Moreirense FC",
     "data": "2026-08-30",
     "quote": {
-      "Casa Pia": 2.15,
-      "Moreirense FC": 3.37,
-      "Draw": 3.05
+      "Casa Pia": 2.2,
+      "Moreirense FC": 3.27,
+      "Draw": 3.06
     }
   },
   "d5883be0e3fc62650d407259b9fa7c9b": {
@@ -157,17 +157,17 @@
     "data": "2026-08-31",
     "quote": {
       "Benfica": 1.13,
-      "Estoril": 14.85,
-      "Draw": 7.43
+      "Estoril": 14.51,
+      "Draw": 7.46
     }
   },
   "b52170b614fe11f24729a0a04a208240": {
     "nome": "Braga vs Vitória SC",
     "data": "2026-08-31",
     "quote": {
-      "Braga": 1.68,
-      "Vitória SC": 4.7,
-      "Draw": 3.58
+      "Braga": 1.72,
+      "Vitória SC": 4.49,
+      "Draw": 3.52
     }
   }
 }
