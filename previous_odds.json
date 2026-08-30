@@ -1,65 +1,20 @@
 {
-  "aa6adac8037636fada38fbc3c2eeb519": {
-    "nome": "Arezzo vs Palermo",
-    "data": "2026-08-30",
-    "quote": {
-      "Arezzo": 3.61,
-      "Palermo": 2.04,
-      "Draw": 3.24
-    }
-  },
-  "78fc9d5d9c1142fd4385cabec45c320a": {
-    "nome": "Mantova vs Empoli",
-    "data": "2026-08-30",
-    "quote": {
-      "Empoli": 3.89,
-      "Mantova": 1.97,
-      "Draw": 3.15
-    }
-  },
-  "26da7cf5f1bd806efffd8006a3abc728": {
-    "nome": "Benevento vs Südtirol",
-    "data": "2026-08-30",
-    "quote": {
-      "Benevento": 1.97,
-      "Südtirol": 3.95,
-      "Draw": 3.15
-    }
-  },
-  "2b661ef124c518948fe9497a5018b968": {
-    "nome": "Pisa vs US Catanzaro 1929",
-    "data": "2026-08-30",
-    "quote": {
-      "Pisa": 1.84,
-      "US Catanzaro 1929": 4.36,
-      "Draw": 3.27
-    }
-  },
-  "456e871d1fe9110c581ba86856ea6cd7": {
-    "nome": "Casa Pia vs Moreirense FC",
-    "data": "2026-08-30",
-    "quote": {
-      "Casa Pia": 2.7,
-      "Moreirense FC": 2.66,
-      "Draw": 3.04
-    }
-  },
   "d5883be0e3fc62650d407259b9fa7c9b": {
     "nome": "Famalicão vs Gil Vicente",
     "data": "2026-08-30",
     "quote": {
-      "Famalicão": 2.04,
-      "Gil Vicente": 3.75,
-      "Draw": 3.13
+      "Famalicão": 1.88,
+      "Gil Vicente": 4.34,
+      "Draw": 3.19
     }
   },
   "83c42d1ce56e3211961a293f243a952b": {
     "nome": "Benfica vs Estoril",
     "data": "2026-08-31",
     "quote": {
-      "Benfica": 1.15,
-      "Estoril": 14.1,
-      "Draw": 7.22
+      "Benfica": 1.14,
+      "Estoril": 15.06,
+      "Draw": 7.35
     }
   },
   "b52170b614fe11f24729a0a04a208240": {
@@ -67,7 +22,7 @@
     "data": "2026-08-31",
     "quote": {
       "Braga": 1.71,
-      "Vitória SC": 4.61,
+      "Vitória SC": 4.58,
       "Draw": 3.59
     }
   },
@@ -84,9 +39,18 @@
     "nome": "Santa Clara vs Rio Ave FC",
     "data": "2026-09-06",
     "quote": {
-      "Rio Ave FC": 3.78,
-      "Santa Clara": 1.88,
-      "Draw": 3.13
+      "Rio Ave FC": 3.76,
+      "Santa Clara": 1.85,
+      "Draw": 3.14
+    }
+  },
+  "07446bd6c26af568bd6c52f2ebeef357": {
+    "nome": "Vitória SC vs Casa Pia",
+    "data": "2026-09-06",
+    "quote": {
+      "Casa Pia": 4.77,
+      "Vitória SC": 1.61,
+      "Draw": 3.54
     }
   }
 }
