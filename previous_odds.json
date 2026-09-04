@@ -3,9 +3,9 @@
     "nome": "Südtirol vs US Catanzaro 1929",
     "data": "2026-09-05",
     "quote": {
-      "Südtirol": 2.3,
-      "US Catanzaro 1929": 3.09,
-      "Draw": 3.06
+      "Südtirol": 2.31,
+      "US Catanzaro 1929": 3.1,
+      "Draw": 3.05
     }
   },
   "b71e83c65c5e258ece2d78f81d90936b": {
@@ -13,8 +13,8 @@
     "data": "2026-09-05",
     "quote": {
       "Ascoli": 2.29,
-      "Benevento": 2.97,
-      "Draw": 3.22
+      "Benevento": 2.98,
+      "Draw": 3.21
     }
   },
   "7ca240a95b547d4fc19871a653c813f5": {
@@ -22,15 +22,15 @@
     "data": "2026-09-05",
     "quote": {
       "Carrarese": 2.36,
-      "Empoli": 2.93,
-      "Draw": 3.15
+      "Empoli": 2.95,
+      "Draw": 3.1
     }
   },
   "e1ae534b00a3ff4e372a3154746f76c7": {
     "nome": "Modena vs Avellino",
     "data": "2026-09-06",
     "quote": {
-      "Avellino": 4.41,
+      "Avellino": 4.44,
       "Modena": 1.76,
       "Draw": 3.37
     }
@@ -40,25 +40,25 @@
     "data": "2026-09-06",
     "quote": {
       "Cesena FC": 2.43,
-      "Mantova": 2.76,
-      "Draw": 3.14
+      "Mantova": 2.77,
+      "Draw": 3.12
     }
   },
   "a3b98ac31571ac64baf248347f64be8a": {
     "nome": "Juve Stabia vs Pisa",
     "data": "2026-09-06",
     "quote": {
-      "Juve Stabia": 2.81,
+      "Juve Stabia": 2.82,
       "Pisa": 2.54,
-      "Draw": 2.98
+      "Draw": 2.86
     }
   },
   "2e2f595680f8fad06aab85b15438e36a": {
     "nome": "Virtus Entella vs Vicenza",
     "data": "2026-09-06",
     "quote": {
-      "Vicenza": 3.55,
-      "Virtus Entella": 2.11,
+      "Vicenza": 3.57,
+      "Virtus Entella": 2.1,
       "Draw": 3.01
     }
   },
@@ -66,18 +66,18 @@
     "nome": "Hellas Verona vs Arezzo",
     "data": "2026-09-06",
     "quote": {
-      "Arezzo": 4.79,
-      "Hellas Verona": 1.65,
-      "Draw": 3.59
+      "Arezzo": 4.84,
+      "Hellas Verona": 1.66,
+      "Draw": 3.61
     }
   },
   "9cacf5fe08ddf3a98d49fca133d8cd07": {
     "nome": "Cremonese vs Padova",
     "data": "2026-09-06",
     "quote": {
-      "Cremonese": 1.8,
-      "Padova": 4.16,
-      "Draw": 3.38
+      "Cremonese": 1.82,
+      "Padova": 4.11,
+      "Draw": 3.36
     }
   },
   "9695d4e5ca61eb83087849d0caec1915": {
@@ -85,7 +85,7 @@
     "data": "2026-09-07",
     "quote": {
       "Palermo": 1.82,
-      "Sampdoria": 4.15,
+      "Sampdoria": 4.14,
       "Draw": 3.31
     }
   },
@@ -94,16 +94,16 @@
     "data": "2026-09-04",
     "quote": {
       "FC Porto": 1.13,
-      "Moreirense FC": 18.7,
-      "Draw": 7.48
+      "Moreirense FC": 19.23,
+      "Draw": 7.73
     }
   },
   "c17f6a0061b6df77c73b11008e848185": {
     "nome": "CF Estrela vs Famalicão",
     "data": "2026-09-05",
     "quote": {
-      "CF Estrela": 3.01,
-      "Famalicão": 2.33,
+      "CF Estrela": 2.93,
+      "Famalicão": 2.41,
       "Draw": 3.08
     }
   },
@@ -120,43 +120,43 @@
     "nome": "CS Maritimo vs Benfica",
     "data": "2026-09-05",
     "quote": {
-      "Benfica": 1.24,
-      "CS Maritimo": 10.56,
-      "Draw": 5.63
+      "Benfica": 1.23,
+      "CS Maritimo": 10.68,
+      "Draw": 5.73
     }
   },
   "ee24c3996382303b332efd348e2fb618": {
     "nome": "Sporting Lisbon vs Nacional",
     "data": "2026-09-05",
     "quote": {
-      "Nacional": 12.36,
-      "Sporting Lisbon": 1.19,
-      "Draw": 6.42
+      "Nacional": 12.6,
+      "Sporting Lisbon": 1.18,
+      "Draw": 6.48
     }
   },
   "3dc7a6a0caafc36795f45e7ab7fa1c83": {
     "nome": "Santa Clara vs Rio Ave FC",
     "data": "2026-09-06",
     "quote": {
-      "Rio Ave FC": 4.66,
+      "Rio Ave FC": 4.61,
       "Santa Clara": 1.75,
-      "Draw": 3.41
+      "Draw": 3.39
     }
   },
   "07446bd6c26af568bd6c52f2ebeef357": {
     "nome": "Vitória SC vs Casa Pia",
     "data": "2026-09-06",
     "quote": {
-      "Casa Pia": 6.13,
-      "Vitória SC": 1.51,
-      "Draw": 3.88
+      "Casa Pia": 6.34,
+      "Vitória SC": 1.49,
+      "Draw": 3.96
     }
   },
   "b8fa9ceb61617e5f79e751a05b0cdfb1": {
     "nome": "Gil Vicente vs Académico de Viseu",
     "data": "2026-09-06",
     "quote": {
-      "Académico de Viseu": 4.13,
+      "Académico de Viseu": 4.12,
       "Gil Vicente": 1.85,
       "Draw": 3.35
     }
@@ -167,7 +167,7 @@
     "quote": {
       "Arouca": 2.99,
       "Estoril": 2.22,
-      "Draw": 3.29
+      "Draw": 3.27
     }
   },
   "a889e12871f37930455999b0dbc98cb1": {
