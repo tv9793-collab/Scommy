@@ -1,20 +1,11 @@
 {
-  "7ca240a95b547d4fc19871a653c813f5": {
-    "nome": "Carrarese vs Empoli",
-    "data": "2026-09-05",
-    "quote": {
-      "Carrarese": 2.39,
-      "Empoli": 2.96,
-      "Draw": 3.1
-    }
-  },
   "e1ae534b00a3ff4e372a3154746f76c7": {
     "nome": "Modena vs Avellino",
     "data": "2026-09-06",
     "quote": {
-      "Avellino": 4.56,
+      "Avellino": 4.59,
       "Modena": 1.75,
-      "Draw": 3.39
+      "Draw": 3.41
     }
   },
   "9d2c1a6ad2c15add60cb52397bd5f603": {
@@ -30,8 +21,8 @@
     "nome": "Juve Stabia vs Pisa",
     "data": "2026-09-06",
     "quote": {
-      "Juve Stabia": 2.84,
-      "Pisa": 2.57,
+      "Juve Stabia": 2.85,
+      "Pisa": 2.56,
       "Draw": 2.93
     }
   },
@@ -40,7 +31,7 @@
     "data": "2026-09-06",
     "quote": {
       "Vicenza": 3.59,
-      "Virtus Entella": 2.11,
+      "Virtus Entella": 2.12,
       "Draw": 3.0
     }
   },
@@ -48,9 +39,9 @@
     "nome": "Hellas Verona vs Arezzo",
     "data": "2026-09-06",
     "quote": {
-      "Arezzo": 4.78,
+      "Arezzo": 4.74,
       "Hellas Verona": 1.71,
-      "Draw": 3.51
+      "Draw": 3.52
     }
   },
   "9cacf5fe08ddf3a98d49fca133d8cd07": {
@@ -58,8 +49,8 @@
     "data": "2026-09-06",
     "quote": {
       "Cremonese": 1.83,
-      "Padova": 4.1,
-      "Draw": 3.26
+      "Padova": 4.13,
+      "Draw": 3.38
     }
   },
   "9695d4e5ca61eb83087849d0caec1915": {
@@ -71,47 +62,29 @@
       "Draw": 3.4
     }
   },
-  "b1fe2632f928b1140fb7f38c6ecd94a6": {
-    "nome": "Alverca vs Braga",
-    "data": "2026-09-05",
+  "62a439f069dc33b28ca0042de92a4420": {
+    "nome": "US Catanzaro 1929 vs Carrarese",
+    "data": "2026-09-12",
     "quote": {
-      "Alverca": 4.79,
-      "Braga": 1.73,
-      "Draw": 3.45
-    }
-  },
-  "051907e4acd60a04733082a189eb8b24": {
-    "nome": "CS Maritimo vs Benfica",
-    "data": "2026-09-05",
-    "quote": {
-      "Benfica": 1.17,
-      "CS Maritimo": 14.1,
-      "Draw": 6.83
-    }
-  },
-  "ee24c3996382303b332efd348e2fb618": {
-    "nome": "Sporting Lisbon vs Nacional",
-    "data": "2026-09-05",
-    "quote": {
-      "Nacional": 15.01,
-      "Sporting Lisbon": 1.15,
-      "Draw": 7.7
+      "Carrarese": 3.64,
+      "US Catanzaro 1929": 1.88,
+      "Draw": 3.46
     }
   },
   "3dc7a6a0caafc36795f45e7ab7fa1c83": {
     "nome": "Santa Clara vs Rio Ave FC",
     "data": "2026-09-06",
     "quote": {
-      "Rio Ave FC": 4.49,
+      "Rio Ave FC": 4.48,
       "Santa Clara": 1.81,
-      "Draw": 3.31
+      "Draw": 3.3
     }
   },
   "07446bd6c26af568bd6c52f2ebeef357": {
     "nome": "Vitória SC vs Casa Pia",
     "data": "2026-09-06",
     "quote": {
-      "Casa Pia": 6.34,
+      "Casa Pia": 6.36,
       "Vitória SC": 1.49,
       "Draw": 3.99
     }
@@ -120,9 +93,9 @@
     "nome": "Gil Vicente vs Académico de Viseu",
     "data": "2026-09-06",
     "quote": {
-      "Académico de Viseu": 4.26,
-      "Gil Vicente": 1.82,
-      "Draw": 3.38
+      "Académico de Viseu": 4.23,
+      "Gil Vicente": 1.83,
+      "Draw": 3.36
     }
   },
   "d76d1cde75744af33fca9ca4272be7fb": {
@@ -138,9 +111,45 @@
     "nome": "Moreirense FC vs Benfica",
     "data": "2026-09-09",
     "quote": {
-      "Benfica": 1.19,
-      "Moreirense FC": 10.37,
-      "Draw": 5.76
+      "Benfica": 1.14,
+      "Moreirense FC": 12.35,
+      "Draw": 6.43
+    }
+  },
+  "4a5b2cca5338597704206af699b52d9a": {
+    "nome": "CF Estrela vs Braga",
+    "data": "2026-09-10",
+    "quote": {
+      "Braga": 1.84,
+      "CF Estrela": 3.57,
+      "Draw": 3.2
+    }
+  },
+  "361a0ad126abc0eca923c483a51aad53": {
+    "nome": "Nacional vs Alverca",
+    "data": "2026-09-12",
+    "quote": {
+      "Alverca": 2.47,
+      "Nacional": 2.52,
+      "Draw": 3.25
+    }
+  },
+  "c175fd21bbd39b7930c84f02f57178af": {
+    "nome": "Casa Pia vs FC Porto",
+    "data": "2026-09-12",
+    "quote": {
+      "Casa Pia": 9.26,
+      "FC Porto": 1.26,
+      "Draw": 4.64
+    }
+  },
+  "8bb1bca7ce2e58c880305856a04bb7e4": {
+    "nome": "Académico de Viseu vs Vitória SC",
+    "data": "2026-09-12",
+    "quote": {
+      "Académico de Viseu": 3.01,
+      "Vitória SC": 2.1,
+      "Draw": 3.17
     }
   }
 }
