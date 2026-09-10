@@ -3,7 +3,7 @@
     "nome": "Empoli vs Arezzo",
     "data": "2026-09-11",
     "quote": {
-      "Arezzo": 3.75,
+      "Arezzo": 3.74,
       "Empoli": 2.0,
       "Draw": 3.15
     }
@@ -12,8 +12,8 @@
     "nome": "Benevento vs Hellas Verona",
     "data": "2026-09-11",
     "quote": {
-      "Benevento": 2.84,
-      "Hellas Verona": 2.44,
+      "Benevento": 2.88,
+      "Hellas Verona": 2.41,
       "Draw": 3.12
     }
   },
@@ -22,15 +22,15 @@
     "data": "2026-09-11",
     "quote": {
       "Pisa": 1.72,
-      "Virtus Entella": 5.01,
-      "Draw": 3.31
+      "Virtus Entella": 5.03,
+      "Draw": 3.3
     }
   },
   "10b54687f856d44183201b75e4c1b4b4": {
     "nome": "Padova vs Ascoli",
     "data": "2026-09-12",
     "quote": {
-      "Ascoli": 3.27,
+      "Ascoli": 3.28,
       "Padova": 2.13,
       "Draw": 3.19
     }
@@ -39,25 +39,25 @@
     "nome": "Vicenza vs Juve Stabia",
     "data": "2026-09-12",
     "quote": {
-      "Juve Stabia": 3.87,
-      "Vicenza": 1.97,
-      "Draw": 3.09
+      "Juve Stabia": 3.84,
+      "Vicenza": 1.98,
+      "Draw": 3.1
     }
   },
   "54d9e7cfdc9fe9475525c14c79a9c52b": {
     "nome": "Südtirol vs Modena",
     "data": "2026-09-12",
     "quote": {
-      "Modena": 2.41,
-      "Südtirol": 3.06,
-      "Draw": 2.91
+      "Modena": 2.39,
+      "Südtirol": 3.08,
+      "Draw": 2.9
     }
   },
   "62a439f069dc33b28ca0042de92a4420": {
     "nome": "US Catanzaro 1929 vs Carrarese",
     "data": "2026-09-12",
     "quote": {
-      "Carrarese": 3.64,
+      "Carrarese": 3.65,
       "US Catanzaro 1929": 1.96,
       "Draw": 3.29
     }
@@ -67,17 +67,17 @@
     "data": "2026-09-12",
     "quote": {
       "Cesena FC": 3.14,
-      "Cremonese": 2.21,
-      "Draw": 3.14
+      "Cremonese": 2.2,
+      "Draw": 3.15
     }
   },
   "8e0da6fa2f319904413062fbeee58b0e": {
     "nome": "Avellino vs Palermo",
     "data": "2026-09-13",
     "quote": {
-      "Avellino": 3.69,
+      "Avellino": 3.7,
       "Palermo": 1.98,
-      "Draw": 3.13
+      "Draw": 3.14
     }
   },
   "4fb04ede34b0a12b8e4885a2ca8a7506": {
@@ -85,33 +85,33 @@
     "data": "2026-09-13",
     "quote": {
       "Mantova": 2.01,
-      "Sampdoria": 3.66,
-      "Draw": 3.17
+      "Sampdoria": 3.65,
+      "Draw": 3.16
     }
   },
   "4a5b2cca5338597704206af699b52d9a": {
     "nome": "CF Estrela vs Braga",
     "data": "2026-09-10",
     "quote": {
-      "Braga": 1.65,
-      "CF Estrela": 5.08,
-      "Draw": 3.68
+      "Braga": 1.57,
+      "CF Estrela": 5.7,
+      "Draw": 3.78
     }
   },
   "361a0ad126abc0eca923c483a51aad53": {
     "nome": "Nacional vs Alverca",
     "data": "2026-09-12",
     "quote": {
-      "Alverca": 2.65,
-      "Nacional": 2.51,
-      "Draw": 3.22
+      "Alverca": 2.64,
+      "Nacional": 2.52,
+      "Draw": 3.21
     }
   },
   "c175fd21bbd39b7930c84f02f57178af": {
     "nome": "Casa Pia vs FC Porto",
     "data": "2026-09-12",
     "quote": {
-      "Casa Pia": 11.48,
+      "Casa Pia": 11.53,
       "FC Porto": 1.24,
       "Draw": 5.44
     }
@@ -120,7 +120,7 @@
     "nome": "Académico de Viseu vs Vitória SC",
     "data": "2026-09-12",
     "quote": {
-      "Académico de Viseu": 3.47,
+      "Académico de Viseu": 3.46,
       "Vitória SC": 2.03,
       "Draw": 3.24
     }
@@ -138,18 +138,18 @@
     "nome": "Benfica vs Gil Vicente",
     "data": "2026-09-13",
     "quote": {
-      "Benfica": 1.14,
-      "Gil Vicente": 15.85,
-      "Draw": 7.11
+      "Benfica": 1.13,
+      "Gil Vicente": 16.18,
+      "Draw": 7.27
     }
   },
   "0db3a4ae1321acc7a6bfcaab8322120a": {
     "nome": "Famalicão vs Sporting Lisbon",
     "data": "2026-09-13",
     "quote": {
-      "Famalicão": 4.96,
+      "Famalicão": 5.0,
       "Sporting Lisbon": 1.57,
-      "Draw": 3.95
+      "Draw": 3.96
     }
   },
   "1898724f150d16329c47b523d35ee534": {
@@ -157,7 +157,7 @@
     "data": "2026-09-14",
     "quote": {
       "CF Estrela": 2.41,
-      "Rio Ave FC": 2.52,
+      "Rio Ave FC": 2.53,
       "Draw": 3.08
     }
   },
@@ -165,9 +165,9 @@
     "nome": "Moreirense FC vs CS Maritimo",
     "data": "2026-09-14",
     "quote": {
-      "CS Maritimo": 2.55,
-      "Moreirense FC": 2.68,
-      "Draw": 3.06
+      "CS Maritimo": 2.58,
+      "Moreirense FC": 2.66,
+      "Draw": 3.05
     }
   },
   "8461e66c563dbb31f9c87def0cf49c7e": {
@@ -175,8 +175,8 @@
     "data": "2026-09-14",
     "quote": {
       "Braga": 1.46,
-      "Estoril": 5.62,
-      "Draw": 3.9
+      "Estoril": 5.64,
+      "Draw": 3.87
     }
   }
 }
