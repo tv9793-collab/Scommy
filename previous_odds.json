@@ -1,65 +1,20 @@
 {
-  "6cae198057b6599fb80009728359bf7b": {
-    "nome": "Mantova vs Pisa",
-    "data": "2026-09-20",
-    "quote": {
-      "Mantova": 2.63,
-      "Pisa": 2.56,
-      "Draw": 3.2
-    }
-  },
   "1747d9018ffc24749016aba0c1034c84": {
     "nome": "Modena vs Empoli",
     "data": "2026-09-20",
     "quote": {
-      "Empoli": 5.29,
-      "Modena": 1.6,
-      "Draw": 3.71
-    }
-  },
-  "0eeca9f4e535dea18493b7ff0a2b811a": {
-    "nome": "CF Estrela vs Académico de Viseu",
-    "data": "2026-09-20",
-    "quote": {
-      "Académico de Viseu": 3.43,
-      "CF Estrela": 2.07,
-      "Draw": 3.29
-    }
-  },
-  "f5c978d59b05fab4498d82a55005855f": {
-    "nome": "Vitória SC vs Moreirense FC",
-    "data": "2026-09-20",
-    "quote": {
-      "Moreirense FC": 6.6,
-      "Vitória SC": 1.46,
-      "Draw": 4.15
-    }
-  },
-  "2a54ff70f108e67822197283422c2e72": {
-    "nome": "Santa Clara vs Braga",
-    "data": "2026-09-20",
-    "quote": {
-      "Braga": 2.14,
-      "Santa Clara": 3.52,
-      "Draw": 3.08
-    }
-  },
-  "e5ae4558a97710adb3d9bb4bc6416ba9": {
-    "nome": "Estoril vs Casa Pia",
-    "data": "2026-09-20",
-    "quote": {
-      "Casa Pia": 4.69,
-      "Estoril": 1.68,
-      "Draw": 3.75
+      "Empoli": 6.49,
+      "Modena": 1.46,
+      "Draw": 4.09
     }
   },
   "908d70dec433245627941151e5ab8ecc": {
     "nome": "FC Porto vs Benfica",
     "data": "2026-09-20",
     "quote": {
-      "Benfica": 2.41,
-      "FC Porto": 2.81,
-      "Draw": 3.28
+      "Benfica": 2.44,
+      "FC Porto": 2.78,
+      "Draw": 3.26
     }
   }
 }
