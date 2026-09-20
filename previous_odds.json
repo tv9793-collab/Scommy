@@ -1,72 +1,54 @@
 {
-  "c07840f59e76d6a1d2999a605fe8f20e": {
-    "nome": "Arezzo vs Südtirol",
-    "data": "2026-09-20",
-    "quote": {
-      "Arezzo": 2.24,
-      "Südtirol": 3.31,
-      "Draw": 2.99
-    }
-  },
-  "b88386ed53af048d06d3517d0f22838c": {
-    "nome": "Hellas Verona vs Vicenza",
-    "data": "2026-09-20",
-    "quote": {
-      "Hellas Verona": 1.84,
-      "Vicenza": 3.96,
-      "Draw": 3.49
-    }
-  },
   "6cae198057b6599fb80009728359bf7b": {
     "nome": "Mantova vs Pisa",
     "data": "2026-09-20",
     "quote": {
       "Mantova": 2.63,
       "Pisa": 2.56,
-      "Draw": 3.21
+      "Draw": 3.2
     }
   },
   "1747d9018ffc24749016aba0c1034c84": {
     "nome": "Modena vs Empoli",
     "data": "2026-09-20",
     "quote": {
-      "Empoli": 5.25,
-      "Modena": 1.61,
-      "Draw": 3.69
+      "Empoli": 5.29,
+      "Modena": 1.6,
+      "Draw": 3.71
     }
   },
   "0eeca9f4e535dea18493b7ff0a2b811a": {
     "nome": "CF Estrela vs Académico de Viseu",
     "data": "2026-09-20",
     "quote": {
-      "Académico de Viseu": 3.52,
-      "CF Estrela": 2.03,
-      "Draw": 3.31
+      "Académico de Viseu": 3.43,
+      "CF Estrela": 2.07,
+      "Draw": 3.29
     }
   },
   "f5c978d59b05fab4498d82a55005855f": {
     "nome": "Vitória SC vs Moreirense FC",
     "data": "2026-09-20",
     "quote": {
-      "Moreirense FC": 6.96,
-      "Vitória SC": 1.43,
-      "Draw": 4.21
+      "Moreirense FC": 6.6,
+      "Vitória SC": 1.46,
+      "Draw": 4.15
     }
   },
   "2a54ff70f108e67822197283422c2e72": {
     "nome": "Santa Clara vs Braga",
     "data": "2026-09-20",
     "quote": {
-      "Braga": 2.13,
+      "Braga": 2.14,
       "Santa Clara": 3.52,
-      "Draw": 3.09
+      "Draw": 3.08
     }
   },
   "e5ae4558a97710adb3d9bb4bc6416ba9": {
     "nome": "Estoril vs Casa Pia",
     "data": "2026-09-20",
     "quote": {
-      "Casa Pia": 4.68,
+      "Casa Pia": 4.69,
       "Estoril": 1.68,
       "Draw": 3.75
     }
@@ -75,9 +57,9 @@
     "nome": "FC Porto vs Benfica",
     "data": "2026-09-20",
     "quote": {
-      "Benfica": 2.43,
-      "FC Porto": 2.78,
-      "Draw": 3.27
+      "Benfica": 2.41,
+      "FC Porto": 2.81,
+      "Draw": 3.28
     }
   }
 }
