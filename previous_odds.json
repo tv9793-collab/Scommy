@@ -48,9 +48,9 @@
     "nome": "Vicenza vs Pisa",
     "data": "2026-10-10",
     "quote": {
-      "Pisa": 2.43,
+      "Pisa": 2.44,
       "Vicenza": 2.57,
-      "Draw": 3.28
+      "Draw": 3.26
     }
   },
   "3263d7997e69a2d57187c53aa3f1221d": {
@@ -66,8 +66,8 @@
     "nome": "US Catanzaro 1929 vs Mantova",
     "data": "2026-10-11",
     "quote": {
-      "Mantova": 2.8,
-      "US Catanzaro 1929": 2.25,
+      "Mantova": 2.81,
+      "US Catanzaro 1929": 2.24,
       "Draw": 3.29
     }
   },
@@ -85,7 +85,7 @@
     "data": "2026-10-11",
     "quote": {
       "Hellas Verona": 3.63,
-      "Modena": 1.92,
+      "Modena": 1.93,
       "Draw": 3.24
     }
   },
@@ -102,27 +102,27 @@
     "nome": "Braga vs Sporting Lisbon",
     "data": "2026-10-09",
     "quote": {
-      "Braga": 3.21,
-      "Sporting Lisbon": 2.06,
-      "Draw": 3.28
+      "Braga": 3.18,
+      "Sporting Lisbon": 2.07,
+      "Draw": 3.26
     }
   },
   "710dd3ffd365c610f1969a86cd70e074": {
     "nome": "Casa Pia vs Santa Clara",
     "data": "2026-10-10",
     "quote": {
-      "Casa Pia": 4.39,
-      "Santa Clara": 1.81,
-      "Draw": 3.14
+      "Casa Pia": 4.43,
+      "Santa Clara": 1.8,
+      "Draw": 3.12
     }
   },
   "d9bfec13c112810701ee7e60f02bffa5": {
     "nome": "CS Maritimo vs FC Porto",
     "data": "2026-10-10",
     "quote": {
-      "CS Maritimo": 7.92,
-      "FC Porto": 1.34,
-      "Draw": 4.34
+      "CS Maritimo": 7.6,
+      "FC Porto": 1.35,
+      "Draw": 4.29
     }
   },
   "2444214363711d31867a9df8c712ec8d": {
@@ -130,7 +130,7 @@
     "data": "2026-10-10",
     "quote": {
       "Académico de Viseu": 2.19,
-      "Estoril": 2.91,
+      "Estoril": 2.9,
       "Draw": 3.25
     }
   },
@@ -139,7 +139,7 @@
     "data": "2026-10-11",
     "quote": {
       "Nacional": 3.08,
-      "Rio Ave FC": 2.16,
+      "Rio Ave FC": 2.15,
       "Draw": 3.18
     }
   },
@@ -147,9 +147,9 @@
     "nome": "Benfica vs Vitória SC",
     "data": "2026-10-11",
     "quote": {
-      "Benfica": 1.2,
-      "Vitória SC": 11.2,
-      "Draw": 5.53
+      "Benfica": 1.21,
+      "Vitória SC": 10.66,
+      "Draw": 5.51
     }
   },
   "2aa9808e7e84598f45ccf338a9b8912a": {
@@ -157,7 +157,7 @@
     "data": "2026-10-11",
     "quote": {
       "Arouca": 2.08,
-      "CF Estrela": 3.15,
+      "CF Estrela": 3.14,
       "Draw": 3.29
     }
   },
