@@ -3,9 +3,9 @@
     "nome": "Avellino vs Sampdoria",
     "data": "2026-10-09",
     "quote": {
-      "Avellino": 2.77,
-      "Sampdoria": 2.34,
-      "Draw": 3.16
+      "Avellino": 2.79,
+      "Sampdoria": 2.35,
+      "Draw": 3.12
     }
   },
   "d4b4b1c6db1258fa90bb32e8b5548869": {
@@ -23,7 +23,7 @@
     "quote": {
       "Benevento": 1.8,
       "Cesena FC": 3.82,
-      "Draw": 3.41
+      "Draw": 3.42
     }
   },
   "80e0ce2fd3fae9a4a1fafc4a25339997": {
@@ -39,9 +39,9 @@
     "nome": "Virtus Entella vs Juve Stabia",
     "data": "2026-10-10",
     "quote": {
-      "Juve Stabia": 3.69,
+      "Juve Stabia": 3.7,
       "Virtus Entella": 1.97,
-      "Draw": 3.07
+      "Draw": 3.06
     }
   },
   "331406f6e1871f65240ff8e43707dd32": {
@@ -67,8 +67,8 @@
     "data": "2026-10-11",
     "quote": {
       "Mantova": 2.81,
-      "US Catanzaro 1929": 2.24,
-      "Draw": 3.29
+      "US Catanzaro 1929": 2.25,
+      "Draw": 3.28
     }
   },
   "243fff8da05c0fd0ee71322f2fc43b5a": {
@@ -76,8 +76,8 @@
     "data": "2026-10-11",
     "quote": {
       "Carrarese": 3.79,
-      "Padova": 1.83,
-      "Draw": 3.39
+      "Padova": 1.84,
+      "Draw": 3.36
     }
   },
   "aba4d9883721a723252a252a86e1aa58": {
@@ -85,17 +85,17 @@
     "data": "2026-10-11",
     "quote": {
       "Hellas Verona": 3.77,
-      "Modena": 1.87,
-      "Draw": 3.26
+      "Modena": 1.88,
+      "Draw": 3.24
     }
   },
   "0956c06cd173899e11422bece0fbf94f": {
     "nome": "Moreirense FC vs Gil Vicente",
     "data": "2026-10-09",
     "quote": {
-      "Gil Vicente": 2.01,
-      "Moreirense FC": 3.51,
-      "Draw": 3.1
+      "Gil Vicente": 2.03,
+      "Moreirense FC": 3.52,
+      "Draw": 3.09
     }
   },
   "b4d52d1abd5efcd669a093139239c7b0": {
