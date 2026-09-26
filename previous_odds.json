@@ -3,7 +3,7 @@
     "nome": "Avellino vs Sampdoria",
     "data": "2026-10-09",
     "quote": {
-      "Avellino": 2.69,
+      "Avellino": 2.68,
       "Sampdoria": 2.41,
       "Draw": 3.16
     }
@@ -59,7 +59,7 @@
     "quote": {
       "Arezzo": 2.83,
       "Cremonese": 2.37,
-      "Draw": 3.03
+      "Draw": 3.04
     }
   },
   "b5fc30e75f41f50796033c0c7a4de15e": {
@@ -77,16 +77,16 @@
     "quote": {
       "Carrarese": 3.8,
       "Padova": 1.84,
-      "Draw": 3.35
+      "Draw": 3.38
     }
   },
   "aba4d9883721a723252a252a86e1aa58": {
     "nome": "Modena vs Hellas Verona",
     "data": "2026-10-11",
     "quote": {
-      "Hellas Verona": 3.77,
-      "Modena": 1.89,
-      "Draw": 3.24
+      "Hellas Verona": 3.74,
+      "Modena": 1.9,
+      "Draw": 3.23
     }
   },
   "0956c06cd173899e11422bece0fbf94f": {
@@ -94,7 +94,7 @@
     "data": "2026-10-09",
     "quote": {
       "Gil Vicente": 2.03,
-      "Moreirense FC": 3.51,
+      "Moreirense FC": 3.5,
       "Draw": 3.1
     }
   },
@@ -130,16 +130,16 @@
     "data": "2026-10-10",
     "quote": {
       "Académico de Viseu": 2.21,
-      "Estoril": 2.92,
-      "Draw": 3.25
+      "Estoril": 2.91,
+      "Draw": 3.26
     }
   },
   "5ecd75456d38ef4c394e502ecdd8937c": {
     "nome": "Rio Ave FC vs Nacional",
     "data": "2026-10-11",
     "quote": {
-      "Nacional": 3.1,
-      "Rio Ave FC": 2.15,
+      "Nacional": 3.11,
+      "Rio Ave FC": 2.16,
       "Draw": 3.18
     }
   },
@@ -148,8 +148,8 @@
     "data": "2026-10-11",
     "quote": {
       "Benfica": 1.21,
-      "Vitória SC": 10.54,
-      "Draw": 5.55
+      "Vitória SC": 10.57,
+      "Draw": 5.56
     }
   },
   "2aa9808e7e84598f45ccf338a9b8912a": {
@@ -157,7 +157,7 @@
     "data": "2026-10-11",
     "quote": {
       "Arouca": 2.08,
-      "CF Estrela": 3.13,
+      "CF Estrela": 3.14,
       "Draw": 3.29
     }
   },
