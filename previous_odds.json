@@ -3,7 +3,7 @@
     "nome": "Avellino vs Sampdoria",
     "data": "2026-10-09",
     "quote": {
-      "Avellino": 2.68,
+      "Avellino": 2.69,
       "Sampdoria": 2.41,
       "Draw": 3.16
     }
@@ -21,9 +21,9 @@
     "nome": "Benevento vs Cesena FC",
     "data": "2026-10-10",
     "quote": {
-      "Benevento": 1.81,
+      "Benevento": 1.8,
       "Cesena FC": 3.83,
-      "Draw": 3.41
+      "Draw": 3.43
     }
   },
   "80e0ce2fd3fae9a4a1fafc4a25339997": {
@@ -39,8 +39,8 @@
     "nome": "Virtus Entella vs Juve Stabia",
     "data": "2026-10-10",
     "quote": {
-      "Juve Stabia": 3.72,
-      "Virtus Entella": 1.97,
+      "Juve Stabia": 3.73,
+      "Virtus Entella": 1.96,
       "Draw": 3.07
     }
   },
@@ -68,7 +68,7 @@
     "quote": {
       "Mantova": 2.81,
       "US Catanzaro 1929": 2.25,
-      "Draw": 3.28
+      "Draw": 3.29
     }
   },
   "243fff8da05c0fd0ee71322f2fc43b5a": {
@@ -76,7 +76,7 @@
     "data": "2026-10-11",
     "quote": {
       "Carrarese": 3.8,
-      "Padova": 1.85,
+      "Padova": 1.84,
       "Draw": 3.35
     }
   },
@@ -84,9 +84,9 @@
     "nome": "Modena vs Hellas Verona",
     "data": "2026-10-11",
     "quote": {
-      "Hellas Verona": 3.79,
-      "Modena": 1.88,
-      "Draw": 3.26
+      "Hellas Verona": 3.77,
+      "Modena": 1.89,
+      "Draw": 3.24
     }
   },
   "0956c06cd173899e11422bece0fbf94f": {
@@ -113,16 +113,16 @@
     "quote": {
       "Casa Pia": 4.44,
       "Santa Clara": 1.81,
-      "Draw": 3.12
+      "Draw": 3.13
     }
   },
   "d9bfec13c112810701ee7e60f02bffa5": {
     "nome": "CS Maritimo vs FC Porto",
     "data": "2026-10-10",
     "quote": {
-      "CS Maritimo": 7.96,
+      "CS Maritimo": 8.0,
       "FC Porto": 1.34,
-      "Draw": 4.39
+      "Draw": 4.4
     }
   },
   "2444214363711d31867a9df8c712ec8d": {
@@ -130,8 +130,8 @@
     "data": "2026-10-10",
     "quote": {
       "Académico de Viseu": 2.21,
-      "Estoril": 2.91,
-      "Draw": 3.26
+      "Estoril": 2.92,
+      "Draw": 3.25
     }
   },
   "5ecd75456d38ef4c394e502ecdd8937c": {
@@ -157,7 +157,7 @@
     "data": "2026-10-11",
     "quote": {
       "Arouca": 2.08,
-      "CF Estrela": 3.14,
+      "CF Estrela": 3.13,
       "Draw": 3.29
     }
   },
