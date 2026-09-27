@@ -21,9 +21,9 @@
     "nome": "Benevento vs Cesena FC",
     "data": "2026-10-10",
     "quote": {
-      "Benevento": 1.8,
+      "Benevento": 1.81,
       "Cesena FC": 3.83,
-      "Draw": 3.44
+      "Draw": 3.41
     }
   },
   "80e0ce2fd3fae9a4a1fafc4a25339997": {
@@ -40,17 +40,17 @@
     "data": "2026-10-10",
     "quote": {
       "Juve Stabia": 3.73,
-      "Virtus Entella": 1.96,
-      "Draw": 3.07
+      "Virtus Entella": 1.97,
+      "Draw": 3.06
     }
   },
   "331406f6e1871f65240ff8e43707dd32": {
     "nome": "Vicenza vs Pisa",
     "data": "2026-10-10",
     "quote": {
-      "Pisa": 2.44,
-      "Vicenza": 2.58,
-      "Draw": 3.24
+      "Pisa": 2.46,
+      "Vicenza": 2.59,
+      "Draw": 3.22
     }
   },
   "3263d7997e69a2d57187c53aa3f1221d": {
@@ -93,26 +93,26 @@
     "nome": "Moreirense FC vs Gil Vicente",
     "data": "2026-10-09",
     "quote": {
-      "Gil Vicente": 2.03,
-      "Moreirense FC": 3.51,
-      "Draw": 3.1
+      "Gil Vicente": 2.04,
+      "Moreirense FC": 3.49,
+      "Draw": 3.08
     }
   },
   "b4d52d1abd5efcd669a093139239c7b0": {
     "nome": "Braga vs Sporting Lisbon",
     "data": "2026-10-09",
     "quote": {
-      "Braga": 3.18,
-      "Sporting Lisbon": 2.08,
-      "Draw": 3.26
+      "Braga": 3.17,
+      "Sporting Lisbon": 2.13,
+      "Draw": 3.2
     }
   },
   "710dd3ffd365c610f1969a86cd70e074": {
     "nome": "Casa Pia vs Santa Clara",
     "data": "2026-10-10",
     "quote": {
-      "Casa Pia": 4.44,
-      "Santa Clara": 1.81,
+      "Casa Pia": 4.31,
+      "Santa Clara": 1.83,
       "Draw": 3.13
     }
   },
@@ -120,9 +120,9 @@
     "nome": "CS Maritimo vs FC Porto",
     "data": "2026-10-10",
     "quote": {
-      "CS Maritimo": 8.0,
-      "FC Porto": 1.33,
-      "Draw": 4.4
+      "CS Maritimo": 7.65,
+      "FC Porto": 1.35,
+      "Draw": 4.33
     }
   },
   "2444214363711d31867a9df8c712ec8d": {
@@ -147,9 +147,9 @@
     "nome": "Benfica vs Vitória SC",
     "data": "2026-10-11",
     "quote": {
-      "Benfica": 1.21,
-      "Vitória SC": 10.64,
-      "Draw": 5.5
+      "Benfica": 1.22,
+      "Vitória SC": 10.0,
+      "Draw": 5.44
     }
   },
   "2aa9808e7e84598f45ccf338a9b8912a": {
