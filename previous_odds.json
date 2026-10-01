@@ -102,8 +102,8 @@
     "nome": "Braga vs Sporting Lisbon",
     "data": "2026-10-09",
     "quote": {
-      "Braga": 3.16,
-      "Sporting Lisbon": 2.1,
+      "Braga": 3.19,
+      "Sporting Lisbon": 2.09,
       "Draw": 3.26
     }
   },
@@ -120,9 +120,9 @@
     "nome": "CS Maritimo vs FC Porto",
     "data": "2026-10-10",
     "quote": {
-      "CS Maritimo": 7.59,
-      "FC Porto": 1.35,
-      "Draw": 4.36
+      "CS Maritimo": 7.97,
+      "FC Porto": 1.33,
+      "Draw": 4.47
     }
   },
   "2444214363711d31867a9df8c712ec8d": {
@@ -148,8 +148,8 @@
     "data": "2026-10-11",
     "quote": {
       "Benfica": 1.26,
-      "Vitória SC": 9.36,
-      "Draw": 5.02
+      "Vitória SC": 8.96,
+      "Draw": 5.07
     }
   },
   "2aa9808e7e84598f45ccf338a9b8912a": {
@@ -165,9 +165,9 @@
     "nome": "Famalicão vs Alverca",
     "data": "2026-10-12",
     "quote": {
-      "Alverca": 4.18,
-      "Famalicão": 1.8,
-      "Draw": 3.27
+      "Alverca": 4.23,
+      "Famalicão": 1.79,
+      "Draw": 3.3
     }
   }
 }
