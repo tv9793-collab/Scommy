@@ -3,9 +3,9 @@
     "nome": "Avellino vs Sampdoria",
     "data": "2026-10-09",
     "quote": {
-      "Avellino": 2.67,
-      "Sampdoria": 2.45,
-      "Draw": 3.13
+      "Avellino": 2.64,
+      "Sampdoria": 2.48,
+      "Draw": 3.15
     }
   },
   "d4b4b1c6db1258fa90bb32e8b5548869": {
@@ -22,7 +22,7 @@
     "data": "2026-10-10",
     "quote": {
       "Benevento": 1.82,
-      "Cesena FC": 3.8,
+      "Cesena FC": 3.81,
       "Draw": 3.43
     }
   },
@@ -32,7 +32,7 @@
     "quote": {
       "Empoli": 3.65,
       "Palermo": 1.87,
-      "Draw": 3.44
+      "Draw": 3.45
     }
   },
   "7e624ab39c4b3406fdcf3bae75c18e0b": {
@@ -48,7 +48,7 @@
     "nome": "Vicenza vs Pisa",
     "data": "2026-10-10",
     "quote": {
-      "Pisa": 2.46,
+      "Pisa": 2.45,
       "Vicenza": 2.59,
       "Draw": 3.25
     }
@@ -59,7 +59,7 @@
     "quote": {
       "Arezzo": 2.84,
       "Cremonese": 2.39,
-      "Draw": 3.03
+      "Draw": 3.04
     }
   },
   "b5fc30e75f41f50796033c0c7a4de15e": {
@@ -76,7 +76,7 @@
     "data": "2026-10-11",
     "quote": {
       "Carrarese": 3.71,
-      "Padova": 1.9,
+      "Padova": 1.89,
       "Draw": 3.32
     }
   },
@@ -93,8 +93,8 @@
     "nome": "Moreirense FC vs Gil Vicente",
     "data": "2026-10-09",
     "quote": {
-      "Gil Vicente": 2.09,
-      "Moreirense FC": 3.37,
+      "Gil Vicente": 2.11,
+      "Moreirense FC": 3.32,
       "Draw": 3.05
     }
   },
@@ -120,9 +120,9 @@
     "nome": "CS Maritimo vs FC Porto",
     "data": "2026-10-10",
     "quote": {
-      "CS Maritimo": 7.65,
+      "CS Maritimo": 7.59,
       "FC Porto": 1.35,
-      "Draw": 4.37
+      "Draw": 4.36
     }
   },
   "2444214363711d31867a9df8c712ec8d": {
@@ -148,8 +148,8 @@
     "data": "2026-10-11",
     "quote": {
       "Benfica": 1.26,
-      "Vitória SC": 9.26,
-      "Draw": 5.06
+      "Vitória SC": 9.36,
+      "Draw": 5.02
     }
   },
   "2aa9808e7e84598f45ccf338a9b8912a": {
@@ -165,9 +165,9 @@
     "nome": "Famalicão vs Alverca",
     "data": "2026-10-12",
     "quote": {
-      "Alverca": 4.15,
-      "Famalicão": 1.81,
-      "Draw": 3.26
+      "Alverca": 4.18,
+      "Famalicão": 1.8,
+      "Draw": 3.27
     }
   }
 }
