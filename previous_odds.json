@@ -23,7 +23,7 @@
     "quote": {
       "Benevento": 1.82,
       "Cesena FC": 3.81,
-      "Draw": 3.43
+      "Draw": 3.44
     }
   },
   "80e0ce2fd3fae9a4a1fafc4a25339997": {
@@ -39,18 +39,18 @@
     "nome": "Virtus Entella vs Juve Stabia",
     "data": "2026-10-10",
     "quote": {
-      "Juve Stabia": 3.73,
+      "Juve Stabia": 3.74,
       "Virtus Entella": 1.97,
-      "Draw": 3.09
+      "Draw": 3.07
     }
   },
   "331406f6e1871f65240ff8e43707dd32": {
     "nome": "Vicenza vs Pisa",
     "data": "2026-10-10",
     "quote": {
-      "Pisa": 2.45,
+      "Pisa": 2.46,
       "Vicenza": 2.59,
-      "Draw": 3.25
+      "Draw": 3.26
     }
   },
   "3263d7997e69a2d57187c53aa3f1221d": {
@@ -58,8 +58,8 @@
     "data": "2026-10-10",
     "quote": {
       "Arezzo": 2.84,
-      "Cremonese": 2.39,
-      "Draw": 3.04
+      "Cremonese": 2.38,
+      "Draw": 3.05
     }
   },
   "b5fc30e75f41f50796033c0c7a4de15e": {
@@ -111,18 +111,18 @@
     "nome": "Casa Pia vs Santa Clara",
     "data": "2026-10-10",
     "quote": {
-      "Casa Pia": 4.26,
-      "Santa Clara": 1.84,
-      "Draw": 3.1
+      "Casa Pia": 4.28,
+      "Santa Clara": 1.83,
+      "Draw": 3.11
     }
   },
   "d9bfec13c112810701ee7e60f02bffa5": {
     "nome": "CS Maritimo vs FC Porto",
     "data": "2026-10-10",
     "quote": {
-      "CS Maritimo": 7.92,
-      "FC Porto": 1.33,
-      "Draw": 4.47
+      "CS Maritimo": 8.16,
+      "FC Porto": 1.32,
+      "Draw": 4.54
     }
   },
   "2444214363711d31867a9df8c712ec8d": {
@@ -148,8 +148,8 @@
     "data": "2026-10-11",
     "quote": {
       "Benfica": 1.25,
-      "Vitória SC": 9.11,
-      "Draw": 5.31
+      "Vitória SC": 9.06,
+      "Draw": 5.3
     }
   },
   "2aa9808e7e84598f45ccf338a9b8912a": {
