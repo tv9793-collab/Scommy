@@ -30,9 +30,9 @@
     "nome": "Empoli vs Palermo",
     "data": "2026-10-10",
     "quote": {
-      "Empoli": 3.65,
-      "Palermo": 1.87,
-      "Draw": 3.45
+      "Empoli": 3.63,
+      "Palermo": 1.88,
+      "Draw": 3.44
     }
   },
   "7e624ab39c4b3406fdcf3bae75c18e0b": {
@@ -93,26 +93,26 @@
     "nome": "Moreirense FC vs Gil Vicente",
     "data": "2026-10-09",
     "quote": {
-      "Gil Vicente": 2.11,
-      "Moreirense FC": 3.32,
-      "Draw": 3.05
+      "Gil Vicente": 2.1,
+      "Moreirense FC": 3.35,
+      "Draw": 3.06
     }
   },
   "b4d52d1abd5efcd669a093139239c7b0": {
     "nome": "Braga vs Sporting Lisbon",
     "data": "2026-10-09",
     "quote": {
-      "Braga": 3.19,
-      "Sporting Lisbon": 2.09,
-      "Draw": 3.26
+      "Braga": 3.22,
+      "Sporting Lisbon": 2.08,
+      "Draw": 3.27
     }
   },
   "710dd3ffd365c610f1969a86cd70e074": {
     "nome": "Casa Pia vs Santa Clara",
     "data": "2026-10-10",
     "quote": {
-      "Casa Pia": 4.3,
-      "Santa Clara": 1.83,
+      "Casa Pia": 4.26,
+      "Santa Clara": 1.84,
       "Draw": 3.1
     }
   },
@@ -120,7 +120,7 @@
     "nome": "CS Maritimo vs FC Porto",
     "data": "2026-10-10",
     "quote": {
-      "CS Maritimo": 7.97,
+      "CS Maritimo": 7.92,
       "FC Porto": 1.33,
       "Draw": 4.47
     }
@@ -138,8 +138,8 @@
     "nome": "Rio Ave FC vs Nacional",
     "data": "2026-10-11",
     "quote": {
-      "Nacional": 3.12,
-      "Rio Ave FC": 2.16,
+      "Nacional": 3.15,
+      "Rio Ave FC": 2.15,
       "Draw": 3.16
     }
   },
@@ -147,9 +147,9 @@
     "nome": "Benfica vs Vitória SC",
     "data": "2026-10-11",
     "quote": {
-      "Benfica": 1.26,
-      "Vitória SC": 8.96,
-      "Draw": 5.07
+      "Benfica": 1.25,
+      "Vitória SC": 9.11,
+      "Draw": 5.31
     }
   },
   "2aa9808e7e84598f45ccf338a9b8912a": {
@@ -165,8 +165,8 @@
     "nome": "Famalicão vs Alverca",
     "data": "2026-10-12",
     "quote": {
-      "Alverca": 4.23,
-      "Famalicão": 1.79,
+      "Alverca": 4.28,
+      "Famalicão": 1.78,
       "Draw": 3.3
     }
   }
