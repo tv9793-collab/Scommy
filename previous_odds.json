@@ -3,26 +3,26 @@
     "nome": "Avellino vs Sampdoria",
     "data": "2026-10-09",
     "quote": {
-      "Avellino": 2.59,
+      "Avellino": 2.6,
       "Sampdoria": 2.55,
-      "Draw": 3.14
+      "Draw": 3.13
     }
   },
   "d4b4b1c6db1258fa90bb32e8b5548869": {
     "nome": "Südtirol vs Ascoli",
     "data": "2026-10-10",
     "quote": {
-      "Ascoli": 2.91,
+      "Ascoli": 2.92,
       "Südtirol": 2.33,
-      "Draw": 3.07
+      "Draw": 3.08
     }
   },
   "399fb77a197def79a24831a51ff317b4": {
     "nome": "Benevento vs Cesena FC",
     "data": "2026-10-10",
     "quote": {
-      "Benevento": 1.82,
-      "Cesena FC": 3.81,
+      "Benevento": 1.83,
+      "Cesena FC": 3.8,
       "Draw": 3.44
     }
   },
@@ -30,17 +30,17 @@
     "nome": "Empoli vs Palermo",
     "data": "2026-10-10",
     "quote": {
-      "Empoli": 3.63,
-      "Palermo": 1.88,
-      "Draw": 3.44
+      "Empoli": 3.59,
+      "Palermo": 1.91,
+      "Draw": 3.43
     }
   },
   "7e624ab39c4b3406fdcf3bae75c18e0b": {
     "nome": "Virtus Entella vs Juve Stabia",
     "data": "2026-10-10",
     "quote": {
-      "Juve Stabia": 3.74,
-      "Virtus Entella": 1.97,
+      "Juve Stabia": 3.7,
+      "Virtus Entella": 1.99,
       "Draw": 3.09
     }
   },
@@ -48,18 +48,18 @@
     "nome": "Vicenza vs Pisa",
     "data": "2026-10-10",
     "quote": {
-      "Pisa": 2.46,
-      "Vicenza": 2.59,
-      "Draw": 3.26
+      "Pisa": 2.45,
+      "Vicenza": 2.62,
+      "Draw": 3.25
     }
   },
   "3263d7997e69a2d57187c53aa3f1221d": {
     "nome": "Arezzo vs Cremonese",
     "data": "2026-10-10",
     "quote": {
-      "Arezzo": 2.85,
-      "Cremonese": 2.38,
-      "Draw": 3.06
+      "Arezzo": 2.86,
+      "Cremonese": 2.37,
+      "Draw": 3.07
     }
   },
   "b5fc30e75f41f50796033c0c7a4de15e": {
@@ -67,7 +67,7 @@
     "data": "2026-10-11",
     "quote": {
       "Mantova": 2.82,
-      "US Catanzaro 1929": 2.26,
+      "US Catanzaro 1929": 2.27,
       "Draw": 3.3
     }
   },
@@ -75,16 +75,16 @@
     "nome": "Padova vs Carrarese",
     "data": "2026-10-11",
     "quote": {
-      "Carrarese": 3.71,
-      "Padova": 1.89,
-      "Draw": 3.32
+      "Carrarese": 3.72,
+      "Padova": 1.9,
+      "Draw": 3.33
     }
   },
   "aba4d9883721a723252a252a86e1aa58": {
     "nome": "Modena vs Hellas Verona",
     "data": "2026-10-11",
     "quote": {
-      "Hellas Verona": 3.72,
+      "Hellas Verona": 3.73,
       "Modena": 1.92,
       "Draw": 3.22
     }
@@ -93,8 +93,8 @@
     "nome": "Moreirense FC vs Gil Vicente",
     "data": "2026-10-09",
     "quote": {
-      "Gil Vicente": 2.15,
-      "Moreirense FC": 3.27,
+      "Gil Vicente": 2.16,
+      "Moreirense FC": 3.26,
       "Draw": 3.03
     }
   },
@@ -102,7 +102,7 @@
     "nome": "Braga vs Sporting Lisbon",
     "data": "2026-10-09",
     "quote": {
-      "Braga": 3.19,
+      "Braga": 3.2,
       "Sporting Lisbon": 2.08,
       "Draw": 3.28
     }
@@ -111,18 +111,18 @@
     "nome": "Casa Pia vs Santa Clara",
     "data": "2026-10-10",
     "quote": {
-      "Casa Pia": 4.28,
-      "Santa Clara": 1.83,
-      "Draw": 3.11
+      "Casa Pia": 4.17,
+      "Santa Clara": 1.85,
+      "Draw": 3.1
     }
   },
   "d9bfec13c112810701ee7e60f02bffa5": {
     "nome": "CS Maritimo vs FC Porto",
     "data": "2026-10-10",
     "quote": {
-      "CS Maritimo": 8.16,
+      "CS Maritimo": 8.12,
       "FC Porto": 1.32,
-      "Draw": 4.55
+      "Draw": 4.54
     }
   },
   "2444214363711d31867a9df8c712ec8d": {
@@ -138,9 +138,9 @@
     "nome": "Rio Ave FC vs Nacional",
     "data": "2026-10-11",
     "quote": {
-      "Nacional": 3.15,
-      "Rio Ave FC": 2.15,
-      "Draw": 3.16
+      "Nacional": 3.16,
+      "Rio Ave FC": 2.14,
+      "Draw": 3.18
     }
   },
   "5696ee371ba00ede3dc8a64d24ce79f1": {
@@ -148,8 +148,8 @@
     "data": "2026-10-11",
     "quote": {
       "Benfica": 1.26,
-      "Vitória SC": 8.96,
-      "Draw": 5.09
+      "Vitória SC": 9.01,
+      "Draw": 5.13
     }
   },
   "2aa9808e7e84598f45ccf338a9b8912a": {
@@ -166,8 +166,8 @@
     "data": "2026-10-12",
     "quote": {
       "Alverca": 4.28,
-      "Famalicão": 1.79,
-      "Draw": 3.28
+      "Famalicão": 1.78,
+      "Draw": 3.29
     }
   }
 }
