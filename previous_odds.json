@@ -3,7 +3,7 @@
     "nome": "US Catanzaro 1929 vs Mantova",
     "data": "2026-10-11",
     "quote": {
-      "Mantova": 2.92,
+      "Mantova": 2.94,
       "US Catanzaro 1929": 2.3,
       "Draw": 3.27
     }
@@ -12,9 +12,9 @@
     "nome": "Padova vs Carrarese",
     "data": "2026-10-11",
     "quote": {
-      "Carrarese": 4.05,
+      "Carrarese": 4.06,
       "Padova": 1.86,
-      "Draw": 3.36
+      "Draw": 3.37
     }
   },
   "aba4d9883721a723252a252a86e1aa58": {
@@ -22,8 +22,8 @@
     "data": "2026-10-11",
     "quote": {
       "Hellas Verona": 3.69,
-      "Modena": 2.03,
-      "Draw": 3.14
+      "Modena": 2.01,
+      "Draw": 3.24
     }
   },
   "9a691aeace75a589f2f920824522c830": {
@@ -93,9 +93,9 @@
     "nome": "Rio Ave FC vs Nacional",
     "data": "2026-10-11",
     "quote": {
-      "Nacional": 3.08,
-      "Rio Ave FC": 2.25,
-      "Draw": 3.21
+      "Nacional": 3.26,
+      "Rio Ave FC": 2.17,
+      "Draw": 3.24
     }
   },
   "5696ee371ba00ede3dc8a64d24ce79f1": {
@@ -103,8 +103,8 @@
     "data": "2026-10-11",
     "quote": {
       "Benfica": 1.18,
-      "Vitória SC": 12.76,
-      "Draw": 6.69
+      "Vitória SC": 13.33,
+      "Draw": 6.75
     }
   },
   "2aa9808e7e84598f45ccf338a9b8912a": {
@@ -112,17 +112,17 @@
     "data": "2026-10-11",
     "quote": {
       "Arouca": 2.03,
-      "CF Estrela": 3.43,
-      "Draw": 3.4
+      "CF Estrela": 3.45,
+      "Draw": 3.42
     }
   },
   "789c3dd95a7fcef675ce5a40b07371a2": {
     "nome": "Famalicão vs Alverca",
     "data": "2026-10-12",
     "quote": {
-      "Alverca": 4.24,
+      "Alverca": 4.25,
       "Famalicão": 1.83,
-      "Draw": 3.32
+      "Draw": 3.31
     }
   }
 }
