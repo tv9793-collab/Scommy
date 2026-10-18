@@ -1,27 +1,18 @@
 {
-  "d346c8c4b17961402f9f073107ff36a4": {
-    "nome": "Juve Stabia vs Südtirol",
-    "data": "2026-10-18",
-    "quote": {
-      "Juve Stabia": 2.05,
-      "Südtirol": 3.55,
-      "Draw": 3.18
-    }
-  },
   "79594b289b038d639440cd722ed082cf": {
     "nome": "Cesena FC vs Avellino",
     "data": "2026-10-18",
     "quote": {
-      "Avellino": 3.14,
-      "Cesena FC": 2.22,
-      "Draw": 3.16
+      "Avellino": 3.26,
+      "Cesena FC": 2.19,
+      "Draw": 3.13
     }
   },
   "d6b5afb499872d7aec7a6d23e8d35e81": {
     "nome": "Sampdoria vs Arezzo",
     "data": "2026-10-18",
     "quote": {
-      "Arezzo": 4.3,
+      "Arezzo": 4.31,
       "Sampdoria": 1.78,
       "Draw": 3.48
     }
@@ -39,8 +30,8 @@
     "nome": "Avellino vs Padova",
     "data": "2026-10-24",
     "quote": {
-      "Avellino": 2.08,
-      "Padova": 2.98,
+      "Avellino": 2.09,
+      "Padova": 2.99,
       "Draw": 3.02
     }
   },
@@ -48,7 +39,7 @@
     "nome": "Modena vs Cesena FC",
     "data": "2026-10-24",
     "quote": {
-      "Cesena FC": 4.86,
+      "Cesena FC": 4.85,
       "Modena": 1.56,
       "Draw": 3.78
     }
@@ -57,17 +48,17 @@
     "nome": "Cremonese vs Juve Stabia",
     "data": "2026-10-24",
     "quote": {
-      "Cremonese": 1.76,
-      "Juve Stabia": 4.11,
-      "Draw": 3.39
+      "Cremonese": 1.71,
+      "Juve Stabia": 4.36,
+      "Draw": 3.46
     }
   },
   "f65f0fd660c19b681e7a22034fb8a390": {
     "nome": "Virtus Entella vs Mantova",
     "data": "2026-10-24",
     "quote": {
-      "Mantova": 3.07,
-      "Virtus Entella": 2.2,
+      "Mantova": 3.08,
+      "Virtus Entella": 2.19,
       "Draw": 3.09
     }
   },
@@ -75,8 +66,8 @@
     "nome": "Südtirol vs Sampdoria",
     "data": "2026-10-24",
     "quote": {
-      "Sampdoria": 2.76,
-      "Südtirol": 2.39,
+      "Sampdoria": 2.75,
+      "Südtirol": 2.4,
       "Draw": 3.05
     }
   },
@@ -96,6 +87,15 @@
       "Arezzo": 2.72,
       "Benevento": 2.45,
       "Draw": 3.03
+    }
+  },
+  "d7cc66c747ebe993d5b80ffc5d968af6": {
+    "nome": "Hellas Verona vs Pisa",
+    "data": "2026-10-25",
+    "quote": {
+      "Hellas Verona": 2.25,
+      "Pisa": 2.88,
+      "Draw": 3.04
     }
   },
   "e1abd2ba6b11aae5d64e41652a8ea256": {
@@ -184,7 +184,7 @@
     "data": "2026-10-26",
     "quote": {
       "Benfica": 1.35,
-      "Santa Clara": 7.66,
+      "Santa Clara": 7.78,
       "Draw": 4.36
     }
   }
