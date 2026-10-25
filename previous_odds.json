@@ -1,20 +1,11 @@
 {
-  "ccdf2a2baac9e8f75b5ef4bb712ccfd0": {
-    "nome": "Palermo vs Carrarese",
-    "data": "2026-10-25",
-    "quote": {
-      "Carrarese": 6.39,
-      "Palermo": 1.4,
-      "Draw": 4.67
-    }
-  },
   "d7cc66c747ebe993d5b80ffc5d968af6": {
     "nome": "Hellas Verona vs Pisa",
     "data": "2026-10-25",
     "quote": {
-      "Hellas Verona": 2.24,
-      "Pisa": 3.01,
-      "Draw": 3.29
+      "Hellas Verona": 2.2,
+      "Pisa": 3.09,
+      "Draw": 3.28
     }
   },
   "acd3b7f1342fe5a9ad4c4b57a3d2552f": {
@@ -22,44 +13,44 @@
     "data": "2026-10-27",
     "quote": {
       "Benevento": 1.67,
-      "US Catanzaro 1929": 4.25,
-      "Draw": 3.93
+      "US Catanzaro 1929": 4.31,
+      "Draw": 3.88
     }
   },
   "a918dbf6796ed39741a16898bb6034f9": {
     "nome": "Ascoli vs Sampdoria",
     "data": "2026-10-27",
     "quote": {
-      "Ascoli": 2.19,
-      "Sampdoria": 3.12,
-      "Draw": 3.19
+      "Ascoli": 2.16,
+      "Sampdoria": 3.18,
+      "Draw": 3.21
     }
   },
   "3c9d9d114c15a70a6ee35a10ea10c849": {
     "nome": "Virtus Entella vs Avellino",
     "data": "2026-10-27",
     "quote": {
-      "Avellino": 3.69,
-      "Virtus Entella": 1.98,
-      "Draw": 3.16
+      "Avellino": 3.66,
+      "Virtus Entella": 1.99,
+      "Draw": 3.18
     }
   },
   "b15805cc9f7a025c3c57f53301a15891": {
     "nome": "Cesena FC vs Empoli",
     "data": "2026-10-27",
     "quote": {
-      "Cesena FC": 1.99,
+      "Cesena FC": 2.0,
       "Empoli": 3.41,
-      "Draw": 3.35
+      "Draw": 3.34
     }
   },
   "639ca161f069bda369606ad54feff122": {
     "nome": "Mantova vs Cremonese",
     "data": "2026-10-27",
     "quote": {
-      "Cremonese": 2.96,
-      "Mantova": 2.26,
-      "Draw": 3.23
+      "Cremonese": 3.01,
+      "Mantova": 2.23,
+      "Draw": 3.21
     }
   },
   "5156d59d526199a8a61ee8565af8a91e": {
@@ -76,8 +67,8 @@
     "data": "2026-10-27",
     "quote": {
       "Padova": 2.27,
-      "Südtirol": 3.0,
-      "Draw": 3.15
+      "Südtirol": 3.02,
+      "Draw": 3.13
     }
   },
   "cc41a68f2e42d32c3713cb93a9e0b9c2": {
@@ -93,9 +84,9 @@
     "nome": "Carrarese vs Arezzo",
     "data": "2026-10-28",
     "quote": {
-      "Arezzo": 2.8,
-      "Carrarese": 2.32,
-      "Draw": 3.08
+      "Arezzo": 3.05,
+      "Carrarese": 2.23,
+      "Draw": 3.11
     }
   },
   "bb23dba9a8704fdb8928f885625de952": {
@@ -152,22 +143,40 @@
       "Draw": 3.12
     }
   },
-  "399511b408ef714458e62100cac3fb16": {
-    "nome": "Estoril vs Moreirense FC",
-    "data": "2026-10-25",
+  "f3b1a2f0e351295cf1c58e3fa4def23e": {
+    "nome": "Arezzo vs Ascoli",
+    "data": "2026-11-01",
     "quote": {
-      "Estoril": 1.75,
-      "Moreirense FC": 4.27,
-      "Draw": 3.61
+      "Arezzo": 2.59,
+      "Ascoli": 2.46,
+      "Draw": 3.05
+    }
+  },
+  "c876c7bc6c966a9a5be59d95b5e58adb": {
+    "nome": "Avellino vs Pisa",
+    "data": "2026-11-01",
+    "quote": {
+      "Avellino": 2.95,
+      "Pisa": 2.18,
+      "Draw": 3.1
+    }
+  },
+  "507887087d7030ad6e0bd98b54a10b6c": {
+    "nome": "Empoli vs Juve Stabia",
+    "data": "2026-11-01",
+    "quote": {
+      "Empoli": 2.24,
+      "Juve Stabia": 2.81,
+      "Draw": 3.13
     }
   },
   "070aa87111dbdfdcb504340fe440e63f": {
     "nome": "Nacional vs Braga",
     "data": "2026-10-25",
     "quote": {
-      "Braga": 1.48,
-      "Nacional": 6.24,
-      "Draw": 4.12
+      "Braga": 1.47,
+      "Nacional": 6.37,
+      "Draw": 4.15
     }
   },
   "fa1bd8d92c7780ff1ebb56219fcb6ea6": {
@@ -183,9 +192,9 @@
     "nome": "Sporting Lisbon vs Académico de Viseu",
     "data": "2026-10-25",
     "quote": {
-      "Académico de Viseu": 10.96,
-      "Sporting Lisbon": 1.19,
-      "Draw": 6.65
+      "Académico de Viseu": 11.8,
+      "Sporting Lisbon": 1.18,
+      "Draw": 6.9
     }
   },
   "7f4d1fc269584543a305935a2d3552fd": {
@@ -193,8 +202,8 @@
     "data": "2026-10-26",
     "quote": {
       "Benfica": 1.35,
-      "Santa Clara": 8.16,
-      "Draw": 4.58
+      "Santa Clara": 8.4,
+      "Draw": 4.56
     }
   },
   "75daf3f21fd7945dcc4215b1fe8a5da3": {
