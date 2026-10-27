@@ -3,8 +3,8 @@
     "nome": "Benevento vs US Catanzaro 1929",
     "data": "2026-10-27",
     "quote": {
-      "Benevento": 1.69,
-      "US Catanzaro 1929": 4.24,
+      "Benevento": 1.68,
+      "US Catanzaro 1929": 4.31,
       "Draw": 3.88
     }
   },
@@ -12,36 +12,36 @@
     "nome": "Ascoli vs Sampdoria",
     "data": "2026-10-27",
     "quote": {
-      "Ascoli": 2.13,
-      "Sampdoria": 3.31,
-      "Draw": 3.2
+      "Ascoli": 2.12,
+      "Sampdoria": 3.33,
+      "Draw": 3.23
     }
   },
   "3c9d9d114c15a70a6ee35a10ea10c849": {
     "nome": "Virtus Entella vs Avellino",
     "data": "2026-10-27",
     "quote": {
-      "Avellino": 3.61,
-      "Virtus Entella": 2.04,
-      "Draw": 3.14
+      "Avellino": 3.65,
+      "Virtus Entella": 2.03,
+      "Draw": 3.16
     }
   },
   "b15805cc9f7a025c3c57f53301a15891": {
     "nome": "Cesena FC vs Empoli",
     "data": "2026-10-27",
     "quote": {
-      "Cesena FC": 2.15,
-      "Empoli": 3.18,
-      "Draw": 3.27
+      "Cesena FC": 2.04,
+      "Empoli": 3.52,
+      "Draw": 3.23
     }
   },
   "639ca161f069bda369606ad54feff122": {
     "nome": "Mantova vs Cremonese",
     "data": "2026-10-27",
     "quote": {
-      "Cremonese": 3.3,
-      "Mantova": 2.09,
-      "Draw": 3.28
+      "Cremonese": 3.26,
+      "Mantova": 2.13,
+      "Draw": 3.24
     }
   },
   "5156d59d526199a8a61ee8565af8a91e": {
@@ -49,15 +49,15 @@
     "data": "2026-10-27",
     "quote": {
       "Modena": 2.01,
-      "Vicenza": 3.34,
-      "Draw": 3.47
+      "Vicenza": 3.42,
+      "Draw": 3.4
     }
   },
   "e45ebdb0e878a9d573236baf277abca5": {
     "nome": "Padova vs Südtirol",
     "data": "2026-10-27",
     "quote": {
-      "Padova": 2.32,
+      "Padova": 2.33,
       "Südtirol": 3.02,
       "Draw": 3.09
     }
@@ -66,27 +66,27 @@
     "nome": "Pisa vs Palermo",
     "data": "2026-10-28",
     "quote": {
-      "Palermo": 2.72,
-      "Pisa": 2.43,
-      "Draw": 3.23
+      "Palermo": 2.83,
+      "Pisa": 2.33,
+      "Draw": 3.24
     }
   },
   "7bf155b51e05cdb8fc5dced606b970b8": {
     "nome": "Carrarese vs Arezzo",
     "data": "2026-10-28",
     "quote": {
-      "Arezzo": 3.11,
-      "Carrarese": 2.22,
-      "Draw": 3.16
+      "Arezzo": 3.1,
+      "Carrarese": 2.23,
+      "Draw": 3.14
     }
   },
   "bb23dba9a8704fdb8928f885625de952": {
     "nome": "Juve Stabia vs Hellas Verona",
     "data": "2026-10-28",
     "quote": {
-      "Hellas Verona": 2.28,
-      "Juve Stabia": 2.91,
-      "Draw": 3.26
+      "Hellas Verona": 2.33,
+      "Juve Stabia": 2.84,
+      "Draw": 3.25
     }
   },
   "7b1319485e1de1a814d72557a83db411": {
@@ -122,7 +122,7 @@
     "quote": {
       "Padova": 3.23,
       "US Catanzaro 1929": 2.0,
-      "Draw": 3.39
+      "Draw": 3.4
     }
   },
   "c4e21fbe34cef1ec22c7ef649b895142": {
@@ -139,16 +139,16 @@
     "data": "2026-11-01",
     "quote": {
       "Arezzo": 2.61,
-      "Ascoli": 2.47,
-      "Draw": 3.11
+      "Ascoli": 2.48,
+      "Draw": 3.12
     }
   },
   "c876c7bc6c966a9a5be59d95b5e58adb": {
     "nome": "Avellino vs Pisa",
     "data": "2026-11-01",
     "quote": {
-      "Avellino": 2.96,
-      "Pisa": 2.19,
+      "Avellino": 2.97,
+      "Pisa": 2.2,
       "Draw": 3.15
     }
   },
@@ -157,17 +157,17 @@
     "data": "2026-11-01",
     "quote": {
       "Empoli": 2.26,
-      "Juve Stabia": 2.83,
-      "Draw": 3.17
+      "Juve Stabia": 2.84,
+      "Draw": 3.18
     }
   },
   "f490ae47cc74ee51a5995de046d1b133": {
     "nome": "Hellas Verona vs Carrarese",
     "data": "2026-11-01",
     "quote": {
-      "Carrarese": 5.77,
+      "Carrarese": 5.78,
       "Hellas Verona": 1.46,
-      "Draw": 4.05
+      "Draw": 4.06
     }
   },
   "ce4d5460d752cd4a1353a4bc870f3ed5": {
@@ -183,7 +183,7 @@
     "nome": "Casa Pia vs Sporting Lisbon",
     "data": "2026-10-30",
     "quote": {
-      "Casa Pia": 9.77,
+      "Casa Pia": 9.76,
       "Sporting Lisbon": 1.24,
       "Draw": 5.42
     }
@@ -192,71 +192,71 @@
     "nome": "Moreirense FC vs CF Estrela",
     "data": "2026-10-31",
     "quote": {
-      "CF Estrela": 2.36,
-      "Moreirense FC": 2.85,
-      "Draw": 3.17
+      "CF Estrela": 2.29,
+      "Moreirense FC": 2.84,
+      "Draw": 3.16
     }
   },
   "60352ce6c1b34bca7b294edae8aa388b": {
     "nome": "FC Porto vs Estoril",
     "data": "2026-10-31",
     "quote": {
-      "Estoril": 11.57,
-      "FC Porto": 1.19,
-      "Draw": 6.33
+      "Estoril": 11.74,
+      "FC Porto": 1.18,
+      "Draw": 6.43
     }
   },
   "fd5c6a92f2448c1cfe7a2d9b8075172b": {
     "nome": "Arouca vs Nacional",
     "data": "2026-11-01",
     "quote": {
-      "Arouca": 1.76,
-      "Nacional": 3.73,
-      "Draw": 3.41
+      "Arouca": 1.77,
+      "Nacional": 4.02,
+      "Draw": 3.57
     }
   },
   "ce5c2cbdf5db2a13f40f528d3e5044b9": {
     "nome": "Académico de Viseu vs Rio Ave FC",
     "data": "2026-11-01",
     "quote": {
-      "Académico de Viseu": 1.92,
-      "Rio Ave FC": 3.39,
-      "Draw": 3.2
+      "Académico de Viseu": 1.89,
+      "Rio Ave FC": 3.5,
+      "Draw": 3.22
     }
   },
   "6bf5102547eb3f3eb74023133e27d2d3": {
     "nome": "CS Maritimo vs Santa Clara",
     "data": "2026-11-01",
     "quote": {
-      "CS Maritimo": 3.1,
-      "Santa Clara": 2.18,
-      "Draw": 3.0
+      "CS Maritimo": 3.23,
+      "Santa Clara": 2.22,
+      "Draw": 3.01
     }
   },
   "12fa9f636dbb126cfd4118fa8cdc8fad": {
     "nome": "Braga vs Famalicão",
     "data": "2026-11-01",
     "quote": {
-      "Braga": 1.61,
-      "Famalicão": 4.66,
-      "Draw": 3.42
+      "Braga": 1.66,
+      "Famalicão": 4.86,
+      "Draw": 3.54
     }
   },
   "cdf1a22ce6d16f0903216518d909e02a": {
     "nome": "Benfica vs Alverca",
     "data": "2026-11-02",
     "quote": {
-      "Alverca": 12.4,
+      "Alverca": 12.5,
       "Benfica": 1.13,
-      "Draw": 7.23
+      "Draw": 7.22
     }
   },
   "97ce048d06fc45fc59e114548540828f": {
     "nome": "Gil Vicente vs Vitória SC",
     "data": "2026-11-02",
     "quote": {
-      "Gil Vicente": 2.67,
-      "Vitória SC": 2.51,
+      "Gil Vicente": 2.64,
+      "Vitória SC": 2.58,
       "Draw": 3.03
     }
   }
