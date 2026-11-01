@@ -182,6 +182,11 @@ class TestCiclo(unittest.TestCase):
         esito = qb.esegui(client, self.cartella, adesso, competizioni=SOLO)
         self.assertEqual(esito["chiamate_quote"], 1)
 
+    def test_battito_orario(self):
+        adesso = datetime(2026, 11, 2, 9, 47, tzinfo=timezone.utc)
+        qb.esegui(ClientFinto({"soccer_italy_serie_a": []}), self.cartella, adesso, competizioni=SOLO)
+        self.assertEqual(qb.leggi_stato(self.cartella)["ultimo_run_utc"], "2026-11-02T09:00:00Z")
+
     def test_torneo_non_attivo_silenzioso(self):
         adesso = datetime(2026, 10, 24, 6, 10, tzinfo=timezone.utc)
         client = ClientFinto({"soccer_italy_serie_a": []})

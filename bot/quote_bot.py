@@ -482,8 +482,11 @@ def esegui(client: ClientOddsApi, cartella: Path, adesso: datetime, modo: str = 
     scritti = archivio.salva(adesso)
     if fai_mattino and modo == "auto":
         stato["mattino_fatto"] = oggi
-    # Lo stato si riscrive solo se cambia qualcosa di utile: niente commit
-    # inutili ogni 20 minuti.
+    # Battito per Claude: ultimo_run_utc arrotondato all'ora, cosi' il file
+    # cambia al massimo una volta l'ora (niente commit ogni 20 minuti) e
+    # l'analisi in chat capisce se il bot e' fermo (prompt v8.3).
+    stato["ultimo_run_utc"] = iso(adesso.replace(minute=0, second=0, microsecond=0))
+    # Il resto dello stato si riscrive solo se cambia qualcosa di utile.
     if client.crediti_residui is not None and (
             client.crediti_residui != stato.get("crediti_residui") or chiamate_quote):
         stato["crediti_residui"] = client.crediti_residui
