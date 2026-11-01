@@ -1,0 +1,59 @@
+name: Quote Pinnacle
+
+on:
+  schedule:
+    # Ogni 20 minuti, lontano dall'inizio dell'ora: GitHub avverte che i
+    # workflow pianificati possono subire ritardi o essere scartati con
+    # carico alto, soprattutto al minuto 0.
+    - cron: "7,27,47 * * * *"
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: "mattino = istantanea manuale delle prossime 26 ore; chiusura = solo chiusure; auto = ciclo normale"
+        type: choice
+        options: [mattino, chiusura, auto]
+        default: mattino
+
+permissions:
+  contents: write
+
+concurrency:
+  group: quote-bot
+  cancel-in-progress: false
+
+jobs:
+  quote:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Test
+        run: python -m unittest -q
+
+      - name: Scarica quote Pinnacle
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python -m bot.quote_bot --modo "${{ github.event.inputs.modo || 'auto' }}"
+
+      - name: Salva i dati nel repository
+        run: |
+          git config user.name "quote-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "Nessun dato nuovo"
+            exit 0
+          fi
+          git commit -m "Quote $(date -u +%Y-%m-%dT%H:%MZ)"
+          for tentativo in 1 2 3; do
+            if git pull --rebase && git push; then
+              exit 0
+            fi
+            sleep 5
+          done
+          exit 1
