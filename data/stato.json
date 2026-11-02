@@ -1,13 +1,14 @@
 {
- "crediti_letti_utc": "2026-11-01T23:26:01Z",
- "crediti_residui": 489,
- "crediti_usati_mese": 11,
+ "crediti_letti_utc": "2026-11-02T09:59:27Z",
+ "crediti_residui": 484,
+ "crediti_usati_mese": 16,
+ "mattino_fatto": "2026-11-02",
  "ultime_note": [
-  "2026-11-01T23:26:01Z manuale soccer_epl: 1 eventi",
-  "2026-11-01T23:26:01Z manuale soccer_france_ligue_one: 1 eventi",
-  "2026-11-01T23:26:01Z manuale soccer_italy_serie_a: 2 eventi",
-  "2026-11-01T23:26:01Z manuale soccer_spain_la_liga: 1 eventi",
-  "2026-11-01T23:26:01Z manuale tennis_atp_paris_masters: 10 eventi"
+  "2026-11-02T09:59:27Z mattino soccer_epl: 1 eventi",
+  "2026-11-02T09:59:27Z mattino soccer_france_ligue_one: 1 eventi",
+  "2026-11-02T09:59:27Z mattino soccer_italy_serie_a: 2 eventi",
+  "2026-11-02T09:59:27Z mattino soccer_spain_la_liga: 1 eventi",
+  "2026-11-02T09:59:27Z mattino tennis_atp_paris_masters: 22 eventi"
  ],
- "ultimo_run_utc": "2026-11-02T02:00:00Z"
+ "ultimo_run_utc": "2026-11-02T09:00:00Z"
 }

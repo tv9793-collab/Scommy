@@ -1,0 +1,252 @@
+{
+ "data": "2026-11-03",
+ "fonte": "The Odds API v4, bookmaker pinnacle, mercato h2h (1X2 calcio, testa a testa tennis/basket)",
+ "metodo_devig": "shin",
+ "note": "p_fair con devig Shin; chiusura = ultima quota presa entro 40 minuti dal via (approssimazione della chiusura)",
+ "eventi": {
+  "1ead1ee3704640aea824a5759ad1cc28": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-03T09:00:00Z",
+   "inizio_roma": "2026-11-03 10:00",
+   "casa": "Novak Djokovic",
+   "trasferta": "Valentin Vacherot",
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 1381,
+    "pinnacle_last_update": "2026-11-02T09:59:30Z",
+    "quote": {
+     "1": 1.48,
+     "2": 2.84
+    },
+    "p_fair_pct": {
+     "1": 66.18,
+     "2": 33.82
+    },
+    "quota_equa": {
+     "1": 1.511,
+     "2": 2.957
+    },
+    "margine_pct": 2.78
+   }
+  },
+  "b04959d8930aba4535db09fe57f9d093": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-03T09:00:00Z",
+   "inizio_roma": "2026-11-03 10:00",
+   "casa": "Alejandro Davidovich Fokina",
+   "trasferta": "Moise Kouame",
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 1381,
+    "pinnacle_last_update": "2026-11-02T09:59:30Z",
+    "quote": {
+     "1": 1.37,
+     "2": 3.37
+    },
+    "p_fair_pct": {
+     "1": 71.66,
+     "2": 28.34
+    },
+    "quota_equa": {
+     "1": 1.395,
+     "2": 3.529
+    },
+    "margine_pct": 2.67
+   }
+  },
+  "18d9ea3abcfe85f9ae47dc0433ac57c7": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-03T10:00:00Z",
+   "inizio_roma": "2026-11-03 11:00",
+   "casa": "Brandon Nakashima",
+   "trasferta": "Matteo Berrettini",
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 1441,
+    "pinnacle_last_update": "2026-11-02T09:59:30Z",
+    "quote": {
+     "1": 1.67,
+     "2": 2.32
+    },
+    "p_fair_pct": {
+     "1": 58.39,
+     "2": 41.61
+    },
+    "quota_equa": {
+     "1": 1.713,
+     "2": 2.403
+    },
+    "margine_pct": 2.98
+   }
+  },
+  "2fe52476d7d37d8230ca007cdf25c34c": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-03T10:00:00Z",
+   "inizio_roma": "2026-11-03 11:00",
+   "casa": "Tommy Paul",
+   "trasferta": "Holger Rune",
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 1441,
+    "pinnacle_last_update": "2026-11-02T09:59:30Z",
+    "quote": {
+     "1": 1.5,
+     "2": 2.77
+    },
+    "p_fair_pct": {
+     "1": 65.28,
+     "2": 34.72
+    },
+    "quota_equa": {
+     "1": 1.532,
+     "2": 2.88
+    },
+    "margine_pct": 2.77
+   }
+  },
+  "766892f0324922ef7aab73a2713af3c2": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-03T10:00:00Z",
+   "inizio_roma": "2026-11-03 11:00",
+   "casa": "Alex Michelsen",
+   "trasferta": "Jiri Lehecka",
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 1441,
+    "pinnacle_last_update": "2026-11-02T09:59:30Z",
+    "quote": {
+     "1": 2.29,
+     "2": 1.68
+    },
+    "p_fair_pct": {
+     "1": 42.07,
+     "2": 57.93
+    },
+    "quota_equa": {
+     "1": 2.377,
+     "2": 1.726
+    },
+    "margine_pct": 3.19
+   }
+  },
+  "90da92cf3a7e75dbd2eb358af0340fa8": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-03T10:00:00Z",
+   "inizio_roma": "2026-11-03 11:00",
+   "casa": "Quentin Halys",
+   "trasferta": "Arthur Fery",
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 1441,
+    "pinnacle_last_update": "2026-11-02T09:59:30Z",
+    "quote": {
+     "1": 1.67,
+     "2": 2.33
+    },
+    "p_fair_pct": {
+     "1": 58.48,
+     "2": 41.52
+    },
+    "quota_equa": {
+     "1": 1.71,
+     "2": 2.409
+    },
+    "margine_pct": 2.8
+   }
+  },
+  "c2e61aa3d1076fb1efc4756a1006e80a": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-03T10:00:00Z",
+   "inizio_roma": "2026-11-03 11:00",
+   "casa": "Stefanos Tsitsipas",
+   "trasferta": "Learner Tien",
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 1441,
+    "pinnacle_last_update": "2026-11-02T09:59:30Z",
+    "quote": {
+     "1": 2.17,
+     "2": 1.76
+    },
+    "p_fair_pct": {
+     "1": 44.63,
+     "2": 55.37
+    },
+    "quota_equa": {
+     "1": 2.241,
+     "2": 1.806
+    },
+    "margine_pct": 2.9
+   }
+  },
+  "d25fdbba0ee28a3bbfa27a1b7bf0310b": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-03T10:00:00Z",
+   "inizio_roma": "2026-11-03 11:00",
+   "casa": "Andrey Rublev",
+   "trasferta": "Tomas Martin Etcheverry",
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 1441,
+    "pinnacle_last_update": "2026-11-02T09:59:30Z",
+    "quote": {
+     "1": 1.4,
+     "2": 3.2
+    },
+    "p_fair_pct": {
+     "1": 70.09,
+     "2": 29.91
+    },
+    "quota_equa": {
+     "1": 1.427,
+     "2": 3.343
+    },
+    "margine_pct": 2.68
+   }
+  },
+  "db55f6491d2491e31599e3af63c11471": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-03T10:00:00Z",
+   "inizio_roma": "2026-11-03 11:00",
+   "casa": "Arthur Rinderknech",
+   "trasferta": "Francisco Cerundolo",
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 1441,
+    "pinnacle_last_update": "2026-11-02T09:59:30Z",
+    "quote": {
+     "1": 2.78,
+     "2": 1.49
+    },
+    "p_fair_pct": {
+     "1": 34.43,
+     "2": 65.57
+    },
+    "quota_equa": {
+     "1": 2.905,
+     "2": 1.525
+    },
+    "margine_pct": 3.09
+   }
+  }
+ },
+ "aggiornato_utc": "2026-11-02T09:59:27Z"
+}

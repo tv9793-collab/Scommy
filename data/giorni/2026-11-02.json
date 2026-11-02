@@ -31,60 +31,6 @@
     "margine_pct": 3.34
    }
   },
-  "9e065ecef1e149fdf4c5e361ba6d2f2b": {
-   "competizione": "ATP Parigi",
-   "sport_key": "tennis_atp_paris_masters",
-   "inizio_utc": "2026-11-02T10:00:00Z",
-   "inizio_roma": "2026-11-02 11:00",
-   "casa": "Lorenzo Musetti",
-   "trasferta": "Hubert Hurkacz",
-   "manuale": {
-    "preso_utc": "2026-11-01T23:26:01Z",
-    "preso_roma": "2026-11-02 00:26",
-    "minuti_al_via": 634,
-    "pinnacle_last_update": "2026-11-01T23:26:01Z",
-    "quote": {
-     "1": 1.94,
-     "2": 1.94
-    },
-    "p_fair_pct": {
-     "1": 50.0,
-     "2": 50.0
-    },
-    "quota_equa": {
-     "1": 2.0,
-     "2": 2.0
-    },
-    "margine_pct": 3.09
-   }
-  },
-  "ab2cc6778482917ac72005c2edb26824": {
-   "competizione": "ATP Parigi",
-   "sport_key": "tennis_atp_paris_masters",
-   "inizio_utc": "2026-11-02T10:00:00Z",
-   "inizio_roma": "2026-11-02 11:00",
-   "casa": "Ignacio Buse",
-   "trasferta": "Zizou Bergs",
-   "manuale": {
-    "preso_utc": "2026-11-01T23:26:01Z",
-    "preso_roma": "2026-11-02 00:26",
-    "minuti_al_via": 634,
-    "pinnacle_last_update": "2026-11-01T23:26:01Z",
-    "quote": {
-     "1": 3.33,
-     "2": 1.37
-    },
-    "p_fair_pct": {
-     "1": 28.52,
-     "2": 71.48
-    },
-    "quota_equa": {
-     "1": 3.506,
-     "2": 1.399
-    },
-    "margine_pct": 3.02
-   }
-  },
   "b04959d8930aba4535db09fe57f9d093": {
    "competizione": "ATP Parigi",
    "sport_key": "tennis_atp_paris_masters",
@@ -112,6 +58,125 @@
     "margine_pct": 3.2
    }
   },
+  "f510a63a2e3852e183f84eb8cd44fcac": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-02T10:00:00Z",
+   "inizio_roma": "2026-11-02 11:00",
+   "casa": "Luciano Darderi",
+   "trasferta": "Rinky Hijikata",
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 1,
+    "pinnacle_last_update": "2026-11-02T09:59:30Z",
+    "quote": {
+     "1": 2.24,
+     "2": 1.72
+    },
+    "p_fair_pct": {
+     "1": 43.25,
+     "2": 56.75
+    },
+    "quota_equa": {
+     "1": 2.312,
+     "2": 1.762
+    },
+    "margine_pct": 2.78
+   }
+  },
+  "9e065ecef1e149fdf4c5e361ba6d2f2b": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-02T10:05:00Z",
+   "inizio_roma": "2026-11-02 11:05",
+   "casa": "Lorenzo Musetti",
+   "trasferta": "Hubert Hurkacz",
+   "manuale": {
+    "preso_utc": "2026-11-01T23:26:01Z",
+    "preso_roma": "2026-11-02 00:26",
+    "minuti_al_via": 634,
+    "pinnacle_last_update": "2026-11-01T23:26:01Z",
+    "quote": {
+     "1": 1.94,
+     "2": 1.94
+    },
+    "p_fair_pct": {
+     "1": 50.0,
+     "2": 50.0
+    },
+    "quota_equa": {
+     "1": 2.0,
+     "2": 2.0
+    },
+    "margine_pct": 3.09
+   },
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 6,
+    "pinnacle_last_update": "2026-11-02T09:59:30Z",
+    "quote": {
+     "1": 1.93,
+     "2": 1.96
+    },
+    "p_fair_pct": {
+     "1": 50.4,
+     "2": 49.6
+    },
+    "quota_equa": {
+     "1": 1.984,
+     "2": 2.016
+    },
+    "margine_pct": 2.83
+   }
+  },
+  "ab2cc6778482917ac72005c2edb26824": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-02T10:05:00Z",
+   "inizio_roma": "2026-11-02 11:05",
+   "casa": "Ignacio Buse",
+   "trasferta": "Zizou Bergs",
+   "manuale": {
+    "preso_utc": "2026-11-01T23:26:01Z",
+    "preso_roma": "2026-11-02 00:26",
+    "minuti_al_via": 634,
+    "pinnacle_last_update": "2026-11-01T23:26:01Z",
+    "quote": {
+     "1": 3.33,
+     "2": 1.37
+    },
+    "p_fair_pct": {
+     "1": 28.52,
+     "2": 71.48
+    },
+    "quota_equa": {
+     "1": 3.506,
+     "2": 1.399
+    },
+    "margine_pct": 3.02
+   },
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 6,
+    "pinnacle_last_update": "2026-11-02T09:59:30Z",
+    "quote": {
+     "1": 3.49,
+     "2": 1.35
+    },
+    "p_fair_pct": {
+     "1": 27.29,
+     "2": 72.71
+    },
+    "quota_equa": {
+     "1": 3.664,
+     "2": 1.375
+    },
+    "margine_pct": 2.73
+   }
+  },
   "0b15b685479df1479050365848bcfe54": {
    "competizione": "ATP Parigi",
    "sport_key": "tennis_atp_paris_masters",
@@ -137,6 +202,25 @@
      "2": 1.261
     },
     "margine_pct": 2.72
+   },
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 71,
+    "pinnacle_last_update": "2026-11-02T09:59:30Z",
+    "quote": {
+     "1": 4.65,
+     "2": 1.23
+    },
+    "p_fair_pct": {
+     "1": 20.1,
+     "2": 79.9
+    },
+    "quota_equa": {
+     "1": 4.975,
+     "2": 1.252
+    },
+    "margine_pct": 2.81
    }
   },
   "35c20c072dc49b1f1762bd71838ad56b": {
@@ -164,6 +248,52 @@
      "2": 2.547
     },
     "margine_pct": 2.76
+   },
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 71,
+    "pinnacle_last_update": "2026-11-02T09:59:30Z",
+    "quote": {
+     "1": 1.64,
+     "2": 2.39
+    },
+    "p_fair_pct": {
+     "1": 59.57,
+     "2": 40.43
+    },
+    "quota_equa": {
+     "1": 1.679,
+     "2": 2.473
+    },
+    "margine_pct": 2.82
+   }
+  },
+  "99851274de5cc3c943371f330f1b4c71": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-02T12:20:00Z",
+   "inizio_roma": "2026-11-02 13:20",
+   "casa": "Casper Ruud",
+   "trasferta": "Juan Manuel Cerundolo",
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 141,
+    "pinnacle_last_update": "2026-11-02T09:59:30Z",
+    "quote": {
+     "1": 1.37,
+     "2": 3.3
+    },
+    "p_fair_pct": {
+     "1": 71.34,
+     "2": 28.66
+    },
+    "quota_equa": {
+     "1": 1.402,
+     "2": 3.49
+    },
+    "margine_pct": 3.3
    }
   },
   "a397cd2c21e2038f589dfcc1bbf4a5d9": {
@@ -191,6 +321,25 @@
      "2": 3.165
     },
     "margine_pct": 3.04
+   },
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 141,
+    "pinnacle_last_update": "2026-11-02T09:59:30Z",
+    "quote": {
+     "1": 1.46,
+     "2": 2.9
+    },
+    "p_fair_pct": {
+     "1": 67.01,
+     "2": 32.99
+    },
+    "quota_equa": {
+     "1": 1.492,
+     "2": 3.031
+    },
+    "margine_pct": 2.98
    }
   },
   "d54412ae826f63d7234c2ea00d4809ac": {
@@ -218,6 +367,106 @@
      "2": 1.732
     },
     "margine_pct": 2.84
+   },
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 141,
+    "pinnacle_last_update": "2026-11-02T09:59:30Z",
+    "quote": {
+     "1": 2.34,
+     "2": 1.66
+    },
+    "p_fair_pct": {
+     "1": 41.25,
+     "2": 58.75
+    },
+    "quota_equa": {
+     "1": 2.424,
+     "2": 1.702
+    },
+    "margine_pct": 2.98
+   }
+  },
+  "a916463c001545483b340777daefd7c6": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-02T13:30:00Z",
+   "inizio_roma": "2026-11-02 14:30",
+   "casa": "Mattia Bellucci",
+   "trasferta": "Lorenzo Sonego",
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 211,
+    "pinnacle_last_update": "2026-11-02T09:59:30Z",
+    "quote": {
+     "1": 1.67,
+     "2": 2.3
+    },
+    "p_fair_pct": {
+     "1": 58.2,
+     "2": 41.8
+    },
+    "quota_equa": {
+     "1": 1.718,
+     "2": 2.392
+    },
+    "margine_pct": 3.36
+   }
+  },
+  "b363b01046ccc43cdfcc7e7f4e42d735": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-02T14:30:00Z",
+   "inizio_roma": "2026-11-02 15:30",
+   "casa": "Kyrian Jacquet",
+   "trasferta": "Tomas Machac",
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 271,
+    "pinnacle_last_update": "2026-11-02T09:59:30Z",
+    "quote": {
+     "1": 2.68,
+     "2": 1.51
+    },
+    "p_fair_pct": {
+     "1": 35.54,
+     "2": 64.46
+    },
+    "quota_equa": {
+     "1": 2.813,
+     "2": 1.551
+    },
+    "margine_pct": 3.54
+   }
+  },
+  "44f0dc12e4fa4b0ef607420fecfd8eb6": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-02T15:40:00Z",
+   "inizio_roma": "2026-11-02 16:40",
+   "casa": "Alex Molcan",
+   "trasferta": "Titouan Droguet",
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 341,
+    "pinnacle_last_update": "2026-11-02T09:59:30Z",
+    "quote": {
+     "1": 1.75,
+     "2": 2.17
+    },
+    "p_fair_pct": {
+     "1": 55.53,
+     "2": 44.47
+    },
+    "quota_equa": {
+     "1": 1.801,
+     "2": 2.249
+    },
+    "margine_pct": 3.23
    }
   },
   "66608b64d462d1d3deabe573c8456d86": {
@@ -248,6 +497,28 @@
      "2": 2.423
     },
     "margine_pct": 3.1
+   },
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 451,
+    "pinnacle_last_update": "2026-11-02T09:59:22Z",
+    "quote": {
+     "1": 2.96,
+     "X": 3.76,
+     "2": 2.37
+    },
+    "p_fair_pct": {
+     "1": 32.93,
+     "X": 25.79,
+     "2": 41.29
+    },
+    "quota_equa": {
+     "1": 3.037,
+     "X": 3.878,
+     "2": 2.422
+    },
+    "margine_pct": 2.57
    }
   },
   "1a6898d788e3c5c7ecfb78edf5d4e8ab": {
@@ -275,6 +546,25 @@
      "2": 1.651
     },
     "margine_pct": 3.1
+   },
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 481,
+    "pinnacle_last_update": "2026-11-02T09:59:30Z",
+    "quote": {
+     "1": 2.43,
+     "2": 1.62
+    },
+    "p_fair_pct": {
+     "1": 39.71,
+     "2": 60.29
+    },
+    "quota_equa": {
+     "1": 2.518,
+     "2": 1.659
+    },
+    "margine_pct": 2.88
    }
   },
   "85efb20e93a6ca08964f6239e9956dae": {
@@ -302,6 +592,25 @@
      "2": 2.451
     },
     "margine_pct": 2.8
+   },
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 571,
+    "pinnacle_last_update": "2026-11-02T09:59:30Z",
+    "quote": {
+     "1": 1.64,
+     "2": 2.39
+    },
+    "p_fair_pct": {
+     "1": 59.57,
+     "2": 40.43
+    },
+    "quota_equa": {
+     "1": 1.679,
+     "2": 2.473
+    },
+    "margine_pct": 2.82
    }
   },
   "2e488800d615a94e5377c195810303c0": {
@@ -332,6 +641,28 @@
      "2": 6.565
     },
     "margine_pct": 3.29
+   },
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 586,
+    "pinnacle_last_update": "2026-11-02T09:59:22Z",
+    "quote": {
+     "1": 1.54,
+     "X": 4.71,
+     "2": 5.99
+    },
+    "p_fair_pct": {
+     "1": 63.77,
+     "X": 20.37,
+     "2": 15.87
+    },
+    "quota_equa": {
+     "1": 1.568,
+     "X": 4.91,
+     "2": 6.303
+    },
+    "margine_pct": 2.86
    }
   },
   "5118966f484adf525196d196a61bc5d6": {
@@ -362,6 +693,28 @@
      "2": 3.146
     },
     "margine_pct": 3.02
+   },
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 586,
+    "pinnacle_last_update": "2026-11-02T09:59:20Z",
+    "quote": {
+     "1": 2.49,
+     "X": 3.29,
+     "2": 3.13
+    },
+    "p_fair_pct": {
+     "1": 39.29,
+     "X": 29.58,
+     "2": 31.13
+    },
+    "quota_equa": {
+     "1": 2.545,
+     "X": 3.38,
+     "2": 3.213
+    },
+    "margine_pct": 2.5
    }
   },
   "0f552d9c6990c69474f50ff2fb54e9a3": {
@@ -392,6 +745,28 @@
      "2": 3.218
     },
     "margine_pct": 3.3
+   },
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 601,
+    "pinnacle_last_update": "2026-11-02T09:59:16Z",
+    "quote": {
+     "1": 2.18,
+     "X": 3.65,
+     "2": 3.31
+    },
+    "p_fair_pct": {
+     "1": 44.61,
+     "X": 26.3,
+     "2": 29.09
+    },
+    "quota_equa": {
+     "1": 2.241,
+     "X": 3.803,
+     "2": 3.438
+    },
+    "margine_pct": 3.48
    }
   },
   "7a2cd2744fdf15ea675423a6c23df46b": {
@@ -422,8 +797,30 @@
      "2": 3.837
     },
     "margine_pct": 3.53
+   },
+   "mattino": {
+    "preso_utc": "2026-11-02T09:59:27Z",
+    "preso_roma": "2026-11-02 10:59",
+    "minuti_al_via": 601,
+    "pinnacle_last_update": "2026-11-02T09:59:20Z",
+    "quote": {
+     "1": 2.2,
+     "X": 3.28,
+     "2": 3.76
+    },
+    "p_fair_pct": {
+     "1": 44.54,
+     "X": 29.66,
+     "2": 25.8
+    },
+    "quota_equa": {
+     "1": 2.245,
+     "X": 3.371,
+     "2": 3.876
+    },
+    "margine_pct": 2.54
    }
   }
  },
- "aggiornato_utc": "2026-11-01T23:26:01Z"
+ "aggiornato_utc": "2026-11-02T09:59:27Z"
 }
