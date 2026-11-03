@@ -1,0 +1,90 @@
+{
+ "data": "2026-11-04",
+ "fonte": "The Odds API v4, bookmaker pinnacle, mercato h2h (1X2 calcio, testa a testa tennis/basket)",
+ "metodo_devig": "shin",
+ "note": "p_fair con devig Shin; chiusura = ultima quota presa entro 40 minuti dal via (approssimazione della chiusura)",
+ "eventi": {
+  "1cd952bfa7bc99f45d2ced1b80209056": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-04T10:00:00Z",
+   "inizio_roma": "2026-11-04 11:00",
+   "casa": "Arthur Fils",
+   "trasferta": "Tomas Machac",
+   "mattino": {
+    "preso_utc": "2026-11-03T10:06:04Z",
+    "preso_roma": "2026-11-03 11:06",
+    "minuti_al_via": 1434,
+    "pinnacle_last_update": "2026-11-03T10:06:03Z",
+    "quote": {
+     "1": 1.52,
+     "2": 2.68
+    },
+    "p_fair_pct": {
+     "1": 64.24,
+     "2": 35.76
+    },
+    "quota_equa": {
+     "1": 1.557,
+     "2": 2.796
+    },
+    "margine_pct": 3.1
+   }
+  },
+  "25d8efdbfad95b30f2e8c67fd47f72fc": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-04T10:00:00Z",
+   "inizio_roma": "2026-11-04 11:00",
+   "casa": "Alexander Zverev",
+   "trasferta": "Lorenzo Musetti",
+   "mattino": {
+    "preso_utc": "2026-11-03T10:06:04Z",
+    "preso_roma": "2026-11-03 11:06",
+    "minuti_al_via": 1434,
+    "pinnacle_last_update": "2026-11-03T10:06:03Z",
+    "quote": {
+     "1": 1.41,
+     "2": 3.06
+    },
+    "p_fair_pct": {
+     "1": 69.12,
+     "2": 30.88
+    },
+    "quota_equa": {
+     "1": 1.447,
+     "2": 3.238
+    },
+    "margine_pct": 3.6
+   }
+  },
+  "bc5dffba531009c0a80d3facb9410062": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-04T10:00:00Z",
+   "inizio_roma": "2026-11-04 11:00",
+   "casa": "Ignacio Buse",
+   "trasferta": "Daniil Medvedev",
+   "mattino": {
+    "preso_utc": "2026-11-03T10:06:04Z",
+    "preso_roma": "2026-11-03 11:06",
+    "minuti_al_via": 1434,
+    "pinnacle_last_update": "2026-11-03T10:06:03Z",
+    "quote": {
+     "1": 5.93,
+     "2": 1.15
+    },
+    "p_fair_pct": {
+     "1": 14.95,
+     "2": 85.05
+    },
+    "quota_equa": {
+     "1": 6.687,
+     "2": 1.176
+    },
+    "margine_pct": 3.82
+   }
+  }
+ },
+ "aggiornato_utc": "2026-11-03T10:06:04Z"
+}
