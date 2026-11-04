@@ -4,38 +4,92 @@
  "metodo_devig": "shin",
  "note": "p_fair con devig Shin; chiusura = ultima quota presa entro 40 minuti dal via (approssimazione della chiusura)",
  "eventi": {
-  "1cd952bfa7bc99f45d2ced1b80209056": {
+  "4ce1d6b1ec3f3a58daf5d9c774afc3f6": {
    "competizione": "ATP Parigi",
    "sport_key": "tennis_atp_paris_masters",
-   "inizio_utc": "2026-11-04T10:00:00Z",
-   "inizio_roma": "2026-11-04 11:00",
-   "casa": "Arthur Fils",
-   "trasferta": "Tomas Machac",
+   "inizio_utc": "2026-11-04T11:10:00Z",
+   "inizio_roma": "2026-11-04 12:10",
+   "casa": "Luca Van Assche",
+   "trasferta": "Learner Tien",
+   "mattino": {
+    "preso_utc": "2026-11-04T10:46:34Z",
+    "preso_roma": "2026-11-04 11:46",
+    "minuti_al_via": 23,
+    "pinnacle_last_update": "2026-11-04T10:46:25Z",
+    "quote": {
+     "1": 2.58,
+     "2": 1.56
+    },
+    "p_fair_pct": {
+     "1": 37.33,
+     "2": 62.67
+    },
+    "quota_equa": {
+     "1": 2.679,
+     "2": 1.596
+    },
+    "margine_pct": 2.86
+   }
+  },
+  "bff9716e2c2e4b207744b20ff82a2241": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-04T11:30:00Z",
+   "inizio_roma": "2026-11-04 12:30",
+   "casa": "Tommy Paul",
+   "trasferta": "Daniel Merida Aguilar",
+   "mattino": {
+    "preso_utc": "2026-11-04T10:46:34Z",
+    "preso_roma": "2026-11-04 11:46",
+    "minuti_al_via": 43,
+    "pinnacle_last_update": "2026-11-04T10:46:25Z",
+    "quote": {
+     "1": 1.21,
+     "2": 4.91
+    },
+    "p_fair_pct": {
+     "1": 81.14,
+     "2": 18.86
+    },
+    "quota_equa": {
+     "1": 1.232,
+     "2": 5.302
+    },
+    "margine_pct": 3.01
+   }
+  },
+  "bc5dffba531009c0a80d3facb9410062": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-04T12:20:00Z",
+   "inizio_roma": "2026-11-04 13:20",
+   "casa": "Ignacio Buse",
+   "trasferta": "Daniil Medvedev",
    "mattino": {
     "preso_utc": "2026-11-03T10:06:04Z",
     "preso_roma": "2026-11-03 11:06",
     "minuti_al_via": 1434,
     "pinnacle_last_update": "2026-11-03T10:06:03Z",
     "quote": {
-     "1": 1.52,
-     "2": 2.68
+     "1": 5.93,
+     "2": 1.15
     },
     "p_fair_pct": {
-     "1": 64.24,
-     "2": 35.76
+     "1": 14.95,
+     "2": 85.05
     },
     "quota_equa": {
-     "1": 1.557,
-     "2": 2.796
+     "1": 6.687,
+     "2": 1.176
     },
-    "margine_pct": 3.1
+    "margine_pct": 3.82
    }
   },
   "25d8efdbfad95b30f2e8c67fd47f72fc": {
    "competizione": "ATP Parigi",
    "sport_key": "tennis_atp_paris_masters",
-   "inizio_utc": "2026-11-04T10:00:00Z",
-   "inizio_roma": "2026-11-04 11:00",
+   "inizio_utc": "2026-11-04T12:30:00Z",
+   "inizio_roma": "2026-11-04 13:30",
    "casa": "Alexander Zverev",
    "trasferta": "Lorenzo Musetti",
    "mattino": {
@@ -58,33 +112,522 @@
     "margine_pct": 3.6
    }
   },
-  "bc5dffba531009c0a80d3facb9410062": {
+  "9f0cefd1f030d8ad5ba4085132aff58d": {
    "competizione": "ATP Parigi",
    "sport_key": "tennis_atp_paris_masters",
-   "inizio_utc": "2026-11-04T10:00:00Z",
-   "inizio_roma": "2026-11-04 11:00",
-   "casa": "Ignacio Buse",
-   "trasferta": "Daniil Medvedev",
+   "inizio_utc": "2026-11-04T12:40:00Z",
+   "inizio_roma": "2026-11-04 13:40",
+   "casa": "Tomas Martin Etcheverry",
+   "trasferta": "Alex de Minaur",
+   "mattino": {
+    "preso_utc": "2026-11-04T10:46:34Z",
+    "preso_roma": "2026-11-04 11:46",
+    "minuti_al_via": 113,
+    "pinnacle_last_update": "2026-11-04T10:46:25Z",
+    "quote": {
+     "1": 5.41,
+     "2": 1.19
+    },
+    "p_fair_pct": {
+     "1": 17.23,
+     "2": 82.77
+    },
+    "quota_equa": {
+     "1": 5.805,
+     "2": 1.208
+    },
+    "margine_pct": 2.52
+   }
+  },
+  "1be19552d8710b4628e2747163b4cf78": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-04T13:40:00Z",
+   "inizio_roma": "2026-11-04 14:40",
+   "casa": "Novak Djokovic",
+   "trasferta": "Rinky Hijikata",
+   "mattino": {
+    "preso_utc": "2026-11-04T10:46:34Z",
+    "preso_roma": "2026-11-04 11:46",
+    "minuti_al_via": 173,
+    "pinnacle_last_update": "2026-11-04T10:46:25Z",
+    "quote": {
+     "1": 1.24,
+     "2": 4.45
+    },
+    "p_fair_pct": {
+     "1": 79.09,
+     "2": 20.91
+    },
+    "quota_equa": {
+     "1": 1.264,
+     "2": 4.782
+    },
+    "margine_pct": 3.12
+   }
+  },
+  "d9db521dae7522d7d24255286307307f": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-04T13:50:00Z",
+   "inizio_roma": "2026-11-04 14:50",
+   "casa": "Alex Molcan",
+   "trasferta": "Taylor Fritz",
+   "mattino": {
+    "preso_utc": "2026-11-04T10:46:34Z",
+    "preso_roma": "2026-11-04 11:46",
+    "minuti_al_via": 183,
+    "pinnacle_last_update": "2026-11-04T10:46:25Z",
+    "quote": {
+     "1": 4.41,
+     "2": 1.24
+    },
+    "p_fair_pct": {
+     "1": 21.02,
+     "2": 78.98
+    },
+    "quota_equa": {
+     "1": 4.758,
+     "2": 1.266
+    },
+    "margine_pct": 3.32
+   }
+  },
+  "b92f417b119f280893500cc87bd8714e": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-04T14:30:00Z",
+   "inizio_roma": "2026-11-04 15:30",
+   "casa": "Nuno Borges",
+   "trasferta": "Karen Khachanov",
+   "mattino": {
+    "preso_utc": "2026-11-04T10:46:34Z",
+    "preso_roma": "2026-11-04 11:46",
+    "minuti_al_via": 223,
+    "pinnacle_last_update": "2026-11-04T10:46:25Z",
+    "quote": {
+     "1": 2.78,
+     "2": 1.48
+    },
+    "p_fair_pct": {
+     "1": 34.2,
+     "2": 65.8
+    },
+    "quota_equa": {
+     "1": 2.924,
+     "2": 1.52
+    },
+    "margine_pct": 3.54
+   }
+  },
+  "83e3278f7f08fc8e5f9d88ec513d0aeb": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-04T15:00:00Z",
+   "inizio_roma": "2026-11-04 16:00",
+   "casa": "Thiago Agustin Tirante",
+   "trasferta": "Jan-Lennard Struff",
+   "mattino": {
+    "preso_utc": "2026-11-04T10:46:34Z",
+    "preso_roma": "2026-11-04 11:46",
+    "minuti_al_via": 253,
+    "pinnacle_last_update": "2026-11-04T10:46:25Z",
+    "quote": {
+     "1": 2.93,
+     "2": 1.44
+    },
+    "p_fair_pct": {
+     "1": 32.34,
+     "2": 67.66
+    },
+    "quota_equa": {
+     "1": 3.092,
+     "2": 1.478
+    },
+    "margine_pct": 3.57
+   }
+  },
+  "29ebc4d234c1c6e86ebea07ab9174818": {
+   "competizione": "Europa League",
+   "sport_key": "soccer_uefa_europa_league",
+   "inizio_utc": "2026-11-04T15:30:00Z",
+   "inizio_roma": "2026-11-04 16:30",
+   "casa": "Rennes",
+   "trasferta": "Olympiakos Piraeus",
+   "mattino": {
+    "preso_utc": "2026-11-04T10:46:34Z",
+    "preso_roma": "2026-11-04 11:46",
+    "minuti_al_via": 283,
+    "pinnacle_last_update": "2026-11-04T10:46:13Z",
+    "quote": {
+     "1": 2.26,
+     "X": 3.6,
+     "2": 3.22
+    },
+    "p_fair_pct": {
+     "1": 43.15,
+     "X": 26.8,
+     "2": 30.05
+    },
+    "quota_equa": {
+     "1": 2.318,
+     "X": 3.731,
+     "2": 3.327
+    },
+    "margine_pct": 3.08
+   }
+  },
+  "9c047eea4b968d8a8c3f35fd16ce9e6d": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-04T15:40:00Z",
+   "inizio_roma": "2026-11-04 16:40",
+   "casa": "Matteo Berrettini",
+   "trasferta": "Ugo Humbert",
+   "mattino": {
+    "preso_utc": "2026-11-04T10:46:34Z",
+    "preso_roma": "2026-11-04 11:46",
+    "minuti_al_via": 293,
+    "pinnacle_last_update": "2026-11-04T10:46:25Z",
+    "quote": {
+     "1": 1.96,
+     "2": 1.91
+    },
+    "p_fair_pct": {
+     "1": 49.33,
+     "2": 50.67
+    },
+    "quota_equa": {
+     "1": 2.027,
+     "2": 1.974
+    },
+    "margine_pct": 3.38
+   }
+  },
+  "e901dbcdd6e2255fb24d84032b9d437a": {
+   "competizione": "Champions League",
+   "sport_key": "soccer_uefa_champs_league",
+   "inizio_utc": "2026-11-04T17:45:00Z",
+   "inizio_roma": "2026-11-04 18:45",
+   "casa": "Fenerbahce",
+   "trasferta": "Liverpool",
+   "mattino": {
+    "preso_utc": "2026-11-04T10:46:34Z",
+    "preso_roma": "2026-11-04 11:46",
+    "minuti_al_via": 418,
+    "pinnacle_last_update": "2026-11-04T10:46:15Z",
+    "quote": {
+     "1": 6.41,
+     "X": 5.25,
+     "2": 1.45
+    },
+    "p_fair_pct": {
+     "1": 14.57,
+     "X": 17.98,
+     "2": 67.46
+    },
+    "quota_equa": {
+     "1": 6.865,
+     "X": 5.562,
+     "2": 1.482
+    },
+    "margine_pct": 3.61
+   }
+  },
+  "f43ef699c987e112e115f7035114854e": {
+   "competizione": "Champions League",
+   "sport_key": "soccer_uefa_champs_league",
+   "inizio_utc": "2026-11-04T17:45:00Z",
+   "inizio_roma": "2026-11-04 18:45",
+   "casa": "AEK Athens",
+   "trasferta": "Real Madrid",
+   "mattino": {
+    "preso_utc": "2026-11-04T10:46:34Z",
+    "preso_roma": "2026-11-04 11:46",
+    "minuti_al_via": 418,
+    "pinnacle_last_update": "2026-11-04T10:46:15Z",
+    "quote": {
+     "1": 11.5,
+     "X": 7.27,
+     "2": 1.23
+    },
+    "p_fair_pct": {
+     "1": 7.69,
+     "X": 12.69,
+     "2": 79.62
+    },
+    "quota_equa": {
+     "1": 13.001,
+     "X": 7.882,
+     "2": 1.256
+    },
+    "margine_pct": 3.75
+   }
+  },
+  "e9c7e8bc7876cbb19446a417d0447cf0": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-04T18:00:00Z",
+   "inizio_roma": "2026-11-04 19:00",
+   "casa": "Alex Michelsen",
+   "trasferta": "Carlos Alcaraz",
+   "mattino": {
+    "preso_utc": "2026-11-04T10:46:34Z",
+    "preso_roma": "2026-11-04 11:46",
+    "minuti_al_via": 433,
+    "pinnacle_last_update": "2026-11-04T10:46:25Z",
+    "quote": {
+     "1": 5.68,
+     "2": 1.16
+    },
+    "p_fair_pct": {
+     "1": 15.7,
+     "2": 84.3
+    },
+    "quota_equa": {
+     "1": 6.37,
+     "2": 1.186
+    },
+    "margine_pct": 3.81
+   }
+  },
+  "1cd952bfa7bc99f45d2ced1b80209056": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-04T19:30:00Z",
+   "inizio_roma": "2026-11-04 20:30",
+   "casa": "Arthur Fils",
+   "trasferta": "Tomas Machac",
    "mattino": {
     "preso_utc": "2026-11-03T10:06:04Z",
     "preso_roma": "2026-11-03 11:06",
     "minuti_al_via": 1434,
     "pinnacle_last_update": "2026-11-03T10:06:03Z",
     "quote": {
-     "1": 5.93,
-     "2": 1.15
+     "1": 1.52,
+     "2": 2.68
     },
     "p_fair_pct": {
-     "1": 14.95,
-     "2": 85.05
+     "1": 64.24,
+     "2": 35.76
     },
     "quota_equa": {
-     "1": 6.687,
-     "2": 1.176
+     "1": 1.557,
+     "2": 2.796
     },
-    "margine_pct": 3.82
+    "margine_pct": 3.1
+   }
+  },
+  "013cecbf40f5b4530342632a80f35b00": {
+   "competizione": "Champions League",
+   "sport_key": "soccer_uefa_champs_league",
+   "inizio_utc": "2026-11-04T20:00:00Z",
+   "inizio_roma": "2026-11-04 21:00",
+   "casa": "RC Lens",
+   "trasferta": "Como",
+   "mattino": {
+    "preso_utc": "2026-11-04T10:46:34Z",
+    "preso_roma": "2026-11-04 11:46",
+    "minuti_al_via": 553,
+    "pinnacle_last_update": "2026-11-04T10:46:15Z",
+    "quote": {
+     "1": 3.76,
+     "X": 3.91,
+     "2": 1.96
+    },
+    "p_fair_pct": {
+     "1": 25.59,
+     "X": 24.58,
+     "2": 49.83
+    },
+    "quota_equa": {
+     "1": 3.907,
+     "X": 4.068,
+     "2": 2.007
+    },
+    "margine_pct": 3.19
+   }
+  },
+  "449d718632202f0e5997d2e4b7273483": {
+   "competizione": "Champions League",
+   "sport_key": "soccer_uefa_champs_league",
+   "inizio_utc": "2026-11-04T20:00:00Z",
+   "inizio_roma": "2026-11-04 21:00",
+   "casa": "PSV Eindhoven",
+   "trasferta": "Club Brugge",
+   "mattino": {
+    "preso_utc": "2026-11-04T10:46:34Z",
+    "preso_roma": "2026-11-04 11:46",
+    "minuti_al_via": 553,
+    "pinnacle_last_update": "2026-11-04T10:46:15Z",
+    "quote": {
+     "1": 1.92,
+     "X": 4.4,
+     "2": 3.54
+    },
+    "p_fair_pct": {
+     "1": 50.93,
+     "X": 21.8,
+     "2": 27.27
+    },
+    "quota_equa": {
+     "1": 1.963,
+     "X": 4.588,
+     "2": 3.666
+    },
+    "margine_pct": 3.06
+   }
+  },
+  "6277e639c064e641265fcb98a0e200b9": {
+   "competizione": "Champions League",
+   "sport_key": "soccer_uefa_champs_league",
+   "inizio_utc": "2026-11-04T20:00:00Z",
+   "inizio_roma": "2026-11-04 21:00",
+   "casa": "Viking FK",
+   "trasferta": "Sabah FK",
+   "mattino": {
+    "preso_utc": "2026-11-04T10:46:34Z",
+    "preso_roma": "2026-11-04 11:46",
+    "minuti_al_via": 553,
+    "pinnacle_last_update": "2026-11-04T10:46:15Z",
+    "quote": {
+     "1": 1.41,
+     "X": 5.49,
+     "2": 7.03
+    },
+    "p_fair_pct": {
+     "1": 69.5,
+     "X": 17.23,
+     "2": 13.27
+    },
+    "quota_equa": {
+     "1": 1.439,
+     "X": 5.805,
+     "2": 7.534
+    },
+    "margine_pct": 3.36
+   }
+  },
+  "6d386ed81fabf67aa19fbd442c0d8c60": {
+   "competizione": "Champions League",
+   "sport_key": "soccer_uefa_champs_league",
+   "inizio_utc": "2026-11-04T20:00:00Z",
+   "inizio_roma": "2026-11-04 21:00",
+   "casa": "Borussia Dortmund",
+   "trasferta": "Real Betis",
+   "mattino": {
+    "preso_utc": "2026-11-04T10:46:34Z",
+    "preso_roma": "2026-11-04 11:46",
+    "minuti_al_via": 553,
+    "pinnacle_last_update": "2026-11-04T10:46:15Z",
+    "quote": {
+     "1": 1.71,
+     "X": 4.25,
+     "2": 4.7
+    },
+    "p_fair_pct": {
+     "1": 57.19,
+     "X": 22.52,
+     "2": 20.29
+    },
+    "quota_equa": {
+     "1": 1.749,
+     "X": 4.44,
+     "2": 4.929
+    },
+    "margine_pct": 3.29
+   }
+  },
+  "a5910ae3b314876faea7f5c03b8aeaad": {
+   "competizione": "Champions League",
+   "sport_key": "soccer_uefa_champs_league",
+   "inizio_utc": "2026-11-04T20:00:00Z",
+   "inizio_roma": "2026-11-04 21:00",
+   "casa": "Slavia Praha",
+   "trasferta": "Arsenal",
+   "mattino": {
+    "preso_utc": "2026-11-04T10:46:34Z",
+    "preso_roma": "2026-11-04 11:46",
+    "minuti_al_via": 553,
+    "pinnacle_last_update": "2026-11-04T10:46:15Z",
+    "quote": {
+     "1": 12.72,
+     "X": 6.33,
+     "2": 1.25
+    },
+    "p_fair_pct": {
+     "1": 6.89,
+     "X": 14.73,
+     "2": 78.37
+    },
+    "quota_equa": {
+     "1": 14.505,
+     "X": 6.787,
+     "2": 1.276
+    },
+    "margine_pct": 3.66
+   }
+  },
+  "ba82ee37f64a66a30d85f8b90082ec2f": {
+   "competizione": "Champions League",
+   "sport_key": "soccer_uefa_champs_league",
+   "inizio_utc": "2026-11-04T20:00:00Z",
+   "inizio_roma": "2026-11-04 21:00",
+   "casa": "Porto",
+   "trasferta": "Napoli",
+   "mattino": {
+    "preso_utc": "2026-11-04T10:46:34Z",
+    "preso_roma": "2026-11-04 11:46",
+    "minuti_al_via": 553,
+    "pinnacle_last_update": "2026-11-04T10:46:15Z",
+    "quote": {
+     "1": 1.82,
+     "X": 3.92,
+     "2": 4.39
+    },
+    "p_fair_pct": {
+     "1": 53.7,
+     "X": 24.5,
+     "2": 21.79
+    },
+    "quota_equa": {
+     "1": 1.862,
+     "X": 4.081,
+     "2": 4.588
+    },
+    "margine_pct": 3.23
+   }
+  },
+  "df7d2d81b9e2f3f11c6aeddaee6b7085": {
+   "competizione": "Champions League",
+   "sport_key": "soccer_uefa_champs_league",
+   "inizio_utc": "2026-11-04T20:00:00Z",
+   "inizio_roma": "2026-11-04 21:00",
+   "casa": "RB Leipzig",
+   "trasferta": "Manchester City",
+   "mattino": {
+    "preso_utc": "2026-11-04T10:46:34Z",
+    "preso_roma": "2026-11-04 11:46",
+    "minuti_al_via": 553,
+    "pinnacle_last_update": "2026-11-04T10:46:15Z",
+    "quote": {
+     "1": 5.25,
+     "X": 4.86,
+     "2": 1.57
+    },
+    "p_fair_pct": {
+     "1": 18.07,
+     "X": 19.58,
+     "2": 62.35
+    },
+    "quota_equa": {
+     "1": 5.535,
+     "X": 5.107,
+     "2": 1.604
+    },
+    "margine_pct": 3.32
    }
   }
  },
- "aggiornato_utc": "2026-11-03T10:06:04Z"
+ "aggiornato_utc": "2026-11-04T10:46:34Z"
 }

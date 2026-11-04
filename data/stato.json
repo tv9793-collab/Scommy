@@ -1,11 +1,12 @@
 {
- "crediti_letti_utc": "2026-11-03T10:06:04Z",
- "crediti_residui": 482,
- "crediti_usati_mese": 18,
- "mattino_fatto": "2026-11-03",
+ "crediti_letti_utc": "2026-11-04T10:46:34Z",
+ "crediti_residui": 479,
+ "crediti_usati_mese": 21,
+ "mattino_fatto": "2026-11-04",
  "ultime_note": [
-  "2026-11-03T10:06:04Z mattino soccer_uefa_champs_league: 9 eventi",
-  "2026-11-03T10:06:04Z mattino tennis_atp_paris_masters: 7 eventi"
+  "2026-11-04T10:46:34Z mattino soccer_uefa_champs_league: 9 eventi",
+  "2026-11-04T10:46:34Z mattino soccer_uefa_europa_league: 1 eventi",
+  "2026-11-04T10:46:34Z mattino tennis_atp_paris_masters: 9 eventi"
  ],
- "ultimo_run_utc": "2026-11-04T03:00:00Z"
+ "ultimo_run_utc": "2026-11-04T10:00:00Z"
 }
