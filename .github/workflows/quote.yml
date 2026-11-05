@@ -2,17 +2,21 @@ name: Quote Pinnacle
 
 on:
   schedule:
-    # Ogni 20 minuti, lontano dall'inizio dell'ora: GitHub avverte che i
-    # workflow pianificati possono subire ritardi o essere scartati con
-    # carico alto, soprattutto al minuto 0.
+    # Riserva: GitHub esegue gli schedule in modo irregolare (nella prima
+    # settimana circa ogni 7-8 ore invece di ogni 20 minuti). Basta per la
+    # quota del mattino; le chiusure arrivano dall'avvio esterno qui sotto.
     - cron: "7,27,47 * * * *"
   workflow_dispatch:
+    # Avvio esterno (cron-job.org, ogni 15 minuti nelle fasce di gioco) e
+    # avvio manuale. Il default e' "auto": un avvio senza parametri esegue
+    # il ciclo normale (mattino se non ancora fatto + chiusure) e non spende
+    # crediti per istantanee manuali.
     inputs:
       modo:
-        description: "mattino = istantanea manuale delle prossime 26 ore; chiusura = solo chiusure; auto = ciclo normale"
+        description: "auto = ciclo normale; mattino = istantanea manuale delle prossime 26 ore (salvata come 'manuale'); chiusura = solo chiusure"
         type: choice
-        options: [mattino, chiusura, auto]
-        default: mattino
+        options: [auto, mattino, chiusura]
+        default: auto
 
 permissions:
   contents: write
