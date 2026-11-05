@@ -1,0 +1,1275 @@
+{
+ "data": "2026-11-05",
+ "fonte": "The Odds API v4, bookmaker pinnacle, mercato h2h (1X2 calcio, testa a testa tennis/basket)",
+ "metodo_devig": "shin",
+ "note": "p_fair con devig Shin; chiusura = ultima quota presa entro 40 minuti dal via (approssimazione della chiusura)",
+ "eventi": {
+  "4111a4ac0ae11935311b655ebadd040b": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-05T10:00:00Z",
+   "inizio_roma": "2026-11-05 11:00",
+   "casa": "Tommy Paul",
+   "trasferta": "Quentin Halys",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 210,
+    "pinnacle_last_update": "2026-11-05T06:30:08Z",
+    "quote": {
+     "1": 1.32,
+     "2": 3.7
+    },
+    "p_fair_pct": {
+     "1": 74.37,
+     "2": 25.63
+    },
+    "quota_equa": {
+     "1": 1.345,
+     "2": 3.901
+    },
+    "margine_pct": 2.78
+   }
+  },
+  "8a2e76c34cf0bce53c2afc75d9f2793e": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-05T11:10:00Z",
+   "inizio_roma": "2026-11-05 12:10",
+   "casa": "Ben Shelton",
+   "trasferta": "Arthur Rinderknech",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 280,
+    "pinnacle_last_update": "2026-11-05T06:30:08Z",
+    "quote": {
+     "1": 1.34,
+     "2": 3.52
+    },
+    "p_fair_pct": {
+     "1": 73.11,
+     "2": 26.89
+    },
+    "quota_equa": {
+     "1": 1.368,
+     "2": 3.719
+    },
+    "margine_pct": 3.04
+   }
+  },
+  "8962e5108426884c7237a80948c77cfb": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-05T12:20:00Z",
+   "inizio_roma": "2026-11-05 13:20",
+   "casa": "Lorenzo Musetti",
+   "trasferta": "Luca Van Assche",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 350,
+    "pinnacle_last_update": "2026-11-05T06:30:08Z",
+    "quote": {
+     "1": 1.34,
+     "2": 3.53
+    },
+    "p_fair_pct": {
+     "1": 73.15,
+     "2": 26.85
+    },
+    "quota_equa": {
+     "1": 1.367,
+     "2": 3.724
+    },
+    "margine_pct": 2.96
+   }
+  },
+  "ce54c1892701e4d3d4713f621a47cc00": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-05T13:00:00Z",
+   "inizio_roma": "2026-11-05 14:00",
+   "casa": "Rinky Hijikata",
+   "trasferta": "Tomas Martin Etcheverry",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 390,
+    "pinnacle_last_update": "2026-11-05T06:30:08Z",
+    "quote": {
+     "1": 2.14,
+     "2": 1.78
+    },
+    "p_fair_pct": {
+     "1": 45.27,
+     "2": 54.73
+    },
+    "quota_equa": {
+     "1": 2.209,
+     "2": 1.827
+    },
+    "margine_pct": 2.91
+   }
+  },
+  "235263f6f3bbd21f2327b39e61407934": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-05T14:10:00Z",
+   "inizio_roma": "2026-11-05 15:10",
+   "casa": "Nuno Borges",
+   "trasferta": "Ignacio Buse",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 460,
+    "pinnacle_last_update": "2026-11-05T06:30:08Z",
+    "quote": {
+     "1": 1.65,
+     "2": 2.38
+    },
+    "p_fair_pct": {
+     "1": 59.29,
+     "2": 40.71
+    },
+    "quota_equa": {
+     "1": 1.686,
+     "2": 2.457
+    },
+    "margine_pct": 2.62
+   }
+  },
+  "47d9edba7490e876194504362c877fe3": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-05T15:20:00Z",
+   "inizio_roma": "2026-11-05 16:20",
+   "casa": "Jan-Lennard Struff",
+   "trasferta": "Casper Ruud",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 530,
+    "pinnacle_last_update": "2026-11-05T06:30:08Z",
+    "quote": {
+     "1": 2.61,
+     "2": 1.55
+    },
+    "p_fair_pct": {
+     "1": 36.9,
+     "2": 63.1
+    },
+    "quota_equa": {
+     "1": 2.71,
+     "2": 1.585
+    },
+    "margine_pct": 2.83
+   }
+  },
+  "02228f9f6863e25c9538d6062932e155": {
+   "competizione": "Europa League",
+   "sport_key": "soccer_uefa_europa_league",
+   "inizio_utc": "2026-11-05T17:45:00Z",
+   "inizio_roma": "2026-11-05 18:45",
+   "casa": "NEC Nijmegen",
+   "trasferta": "Omonoia FC",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 675,
+    "pinnacle_last_update": "2026-11-05T06:29:37Z",
+    "quote": {
+     "1": 1.8,
+     "X": 4.06,
+     "2": 4.32
+    },
+    "p_fair_pct": {
+     "1": 54.27,
+     "X": 23.6,
+     "2": 22.13
+    },
+    "quota_equa": {
+     "1": 1.843,
+     "X": 4.237,
+     "2": 4.519
+    },
+    "margine_pct": 3.33
+   }
+  },
+  "1c56e398a31a6f7cf176c463baf65f38": {
+   "competizione": "Conference League",
+   "sport_key": "soccer_uefa_europa_conference_league",
+   "inizio_utc": "2026-11-05T17:45:00Z",
+   "inizio_roma": "2026-11-05 18:45",
+   "casa": "FC Thun",
+   "trasferta": "Hearts",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 675,
+    "pinnacle_last_update": "2026-11-05T06:30:05Z",
+    "quote": {
+     "1": 2.32,
+     "X": 3.7,
+     "2": 2.99
+    },
+    "p_fair_pct": {
+     "1": 41.84,
+     "X": 25.9,
+     "2": 32.26
+    },
+    "quota_equa": {
+     "1": 2.39,
+     "X": 3.861,
+     "2": 3.1
+    },
+    "margine_pct": 3.58
+   }
+  },
+  "2347e0e7725940f6a14d5a80601390a5": {
+   "competizione": "Europa League",
+   "sport_key": "soccer_uefa_europa_league",
+   "inizio_utc": "2026-11-05T17:45:00Z",
+   "inizio_roma": "2026-11-05 18:45",
+   "casa": "Crystal Palace",
+   "trasferta": "TSG Hoffenheim",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 675,
+    "pinnacle_last_update": "2026-11-05T06:29:37Z",
+    "quote": {
+     "1": 1.89,
+     "X": 4.11,
+     "2": 3.85
+    },
+    "p_fair_pct": {
+     "1": 51.69,
+     "X": 23.34,
+     "2": 24.97
+    },
+    "quota_equa": {
+     "1": 1.935,
+     "X": 4.285,
+     "2": 4.005
+    },
+    "margine_pct": 3.21
+   }
+  },
+  "3493023efb0aadbdffe37e74e528177c": {
+   "competizione": "Europa League",
+   "sport_key": "soccer_uefa_europa_league",
+   "inizio_utc": "2026-11-05T17:45:00Z",
+   "inizio_roma": "2026-11-05 18:45",
+   "casa": "PFC Levski Sofia",
+   "trasferta": "Jagiellonia Białystok",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 675,
+    "pinnacle_last_update": "2026-11-05T06:29:37Z",
+    "quote": {
+     "1": 2.05,
+     "X": 3.56,
+     "2": 3.82
+    },
+    "p_fair_pct": {
+     "1": 47.66,
+     "X": 27.12,
+     "2": 25.22
+    },
+    "quota_equa": {
+     "1": 2.098,
+     "X": 3.687,
+     "2": 3.965
+    },
+    "margine_pct": 3.05
+   }
+  },
+  "3d5f9e4353cbdaa543391b958b9cd9fa": {
+   "competizione": "Conference League",
+   "sport_key": "soccer_uefa_europa_conference_league",
+   "inizio_utc": "2026-11-05T17:45:00Z",
+   "inizio_roma": "2026-11-05 18:45",
+   "casa": "Mjällby AIF",
+   "trasferta": "FK Borac Banja Luka",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 675,
+    "pinnacle_last_update": "2026-11-05T06:30:05Z",
+    "quote": {
+     "1": 2.26,
+     "X": 3.4,
+     "2": 3.34
+    },
+    "p_fair_pct": {
+     "1": 42.96,
+     "X": 28.26,
+     "2": 28.78
+    },
+    "quota_equa": {
+     "1": 2.328,
+     "X": 3.539,
+     "2": 3.475
+    },
+    "margine_pct": 3.6
+   }
+  },
+  "55cee2f9278cbabb8d9516f48a61561d": {
+   "competizione": "Conference League",
+   "sport_key": "soccer_uefa_europa_conference_league",
+   "inizio_utc": "2026-11-05T17:45:00Z",
+   "inizio_roma": "2026-11-05 18:45",
+   "casa": "Lincoln Red Imps FC",
+   "trasferta": "Hajduk Split",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 675,
+    "pinnacle_last_update": "2026-11-05T06:30:05Z",
+    "quote": {
+     "1": 8.46,
+     "X": 5.13,
+     "2": 1.37
+    },
+    "p_fair_pct": {
+     "1": 10.64,
+     "X": 18.21,
+     "2": 71.15
+    },
+    "quota_equa": {
+     "1": 9.403,
+     "X": 5.491,
+     "2": 1.405
+    },
+    "margine_pct": 4.31
+   }
+  },
+  "6d5c68c79565ce4d215e25592e18ce5e": {
+   "competizione": "Conference League",
+   "sport_key": "soccer_uefa_europa_conference_league",
+   "inizio_utc": "2026-11-05T17:45:00Z",
+   "inizio_roma": "2026-11-05 18:45",
+   "casa": "FC Midtjylland",
+   "trasferta": "Ajax",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 675,
+    "pinnacle_last_update": "2026-11-05T06:30:05Z",
+    "quote": {
+     "1": 2.64,
+     "X": 3.97,
+     "2": 2.47
+    },
+    "p_fair_pct": {
+     "1": 36.66,
+     "X": 24.09,
+     "2": 39.25
+    },
+    "quota_equa": {
+     "1": 2.727,
+     "X": 4.152,
+     "2": 2.548
+    },
+    "margine_pct": 3.55
+   }
+  },
+  "9604c5b1c465435911e038db95ab2a7b": {
+   "competizione": "Europa League",
+   "sport_key": "soccer_uefa_europa_league",
+   "inizio_utc": "2026-11-05T17:45:00Z",
+   "inizio_roma": "2026-11-05 18:45",
+   "casa": "Anderlecht",
+   "trasferta": "Salzburg",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 675,
+    "pinnacle_last_update": "2026-11-05T06:29:37Z",
+    "quote": {
+     "1": 2.01,
+     "X": 3.86,
+     "2": 3.64
+    },
+    "p_fair_pct": {
+     "1": 48.59,
+     "X": 24.93,
+     "2": 26.48
+    },
+    "quota_equa": {
+     "1": 2.058,
+     "X": 4.011,
+     "2": 3.776
+    },
+    "margine_pct": 3.13
+   }
+  },
+  "b92f06bcd9b50df5151c4f94196e856f": {
+   "competizione": "Conference League",
+   "sport_key": "soccer_uefa_europa_conference_league",
+   "inizio_utc": "2026-11-05T17:45:00Z",
+   "inizio_roma": "2026-11-05 18:45",
+   "casa": "KuPS Kuopio",
+   "trasferta": "Gent",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 675,
+    "pinnacle_last_update": "2026-11-05T06:30:05Z",
+    "quote": {
+     "1": 5.0,
+     "X": 4.15,
+     "2": 1.67
+    },
+    "p_fair_pct": {
+     "1": 18.82,
+     "X": 22.87,
+     "2": 58.31
+    },
+    "quota_equa": {
+     "1": 5.314,
+     "X": 4.372,
+     "2": 1.715
+    },
+    "margine_pct": 3.98
+   }
+  },
+  "c50815d0a3cbc7dfe6b9f3a737ce4836": {
+   "competizione": "Europa League",
+   "sport_key": "soccer_uefa_europa_league",
+   "inizio_utc": "2026-11-05T17:45:00Z",
+   "inizio_roma": "2026-11-05 18:45",
+   "casa": "Lillestrom",
+   "trasferta": "Viktoria Plzeň",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 675,
+    "pinnacle_last_update": "2026-11-05T06:29:37Z",
+    "quote": {
+     "1": 3.14,
+     "X": 3.87,
+     "2": 2.2
+    },
+    "p_fair_pct": {
+     "1": 30.82,
+     "X": 24.86,
+     "2": 44.32
+    },
+    "quota_equa": {
+     "1": 3.245,
+     "X": 4.023,
+     "2": 2.256
+    },
+    "margine_pct": 3.14
+   }
+  },
+  "cb7170b1b0e68a09be62b7a0fcb8d268": {
+   "competizione": "Europa League",
+   "sport_key": "soccer_uefa_europa_league",
+   "inizio_utc": "2026-11-05T17:45:00Z",
+   "inizio_roma": "2026-11-05 18:45",
+   "casa": "AC Milan",
+   "trasferta": "Ferencváros TC",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 675,
+    "pinnacle_last_update": "2026-11-05T06:29:37Z",
+    "quote": {
+     "1": 1.36,
+     "X": 5.52,
+     "2": 8.41
+    },
+    "p_fair_pct": {
+     "1": 72.01,
+     "X": 17.07,
+     "2": 10.91
+    },
+    "quota_equa": {
+     "1": 1.389,
+     "X": 5.857,
+     "2": 9.163
+    },
+    "margine_pct": 3.54
+   }
+  },
+  "d437cbfcee6b57ec58d464e6b459c56e": {
+   "competizione": "Europa League",
+   "sport_key": "soccer_uefa_europa_league",
+   "inizio_utc": "2026-11-05T17:45:00Z",
+   "inizio_roma": "2026-11-05 18:45",
+   "casa": "Sparta Prague",
+   "trasferta": "Bournemouth",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 675,
+    "pinnacle_last_update": "2026-11-05T06:29:37Z",
+    "quote": {
+     "1": 6.32,
+     "X": 4.7,
+     "2": 1.51
+    },
+    "p_fair_pct": {
+     "1": 14.87,
+     "X": 20.27,
+     "2": 64.86
+    },
+    "quota_equa": {
+     "1": 6.725,
+     "X": 4.932,
+     "2": 1.542
+    },
+    "margine_pct": 3.32
+   }
+  },
+  "d6ef4964addd663baed90f8f19fda1d3": {
+   "competizione": "Europa League",
+   "sport_key": "soccer_uefa_europa_league",
+   "inizio_utc": "2026-11-05T17:45:00Z",
+   "inizio_roma": "2026-11-05 18:45",
+   "casa": "Real Sociedad",
+   "trasferta": "Lyon",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 675,
+    "pinnacle_last_update": "2026-11-05T06:29:37Z",
+    "quote": {
+     "1": 1.66,
+     "X": 4.4,
+     "2": 4.94
+    },
+    "p_fair_pct": {
+     "1": 58.97,
+     "X": 21.75,
+     "2": 19.29
+    },
+    "quota_equa": {
+     "1": 1.696,
+     "X": 4.598,
+     "2": 5.185
+    },
+    "margine_pct": 3.21
+   }
+  },
+  "dc1e2520503a3d74cb2b80eb20cb4432": {
+   "competizione": "Conference League",
+   "sport_key": "soccer_uefa_europa_conference_league",
+   "inizio_utc": "2026-11-05T17:45:00Z",
+   "inizio_roma": "2026-11-05 18:45",
+   "casa": "Red Star Belgrade",
+   "trasferta": "Inter Club d'Escaldes",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 675,
+    "pinnacle_last_update": "2026-11-05T06:30:05Z",
+    "quote": {
+     "1": 1.06,
+     "X": 14.41,
+     "2": 33.85
+    },
+    "p_fair_pct": {
+     "1": 92.31,
+     "X": 5.75,
+     "2": 1.94
+    },
+    "quota_equa": {
+     "1": 1.083,
+     "X": 17.392,
+     "2": 51.563
+    },
+    "margine_pct": 4.23
+   }
+  },
+  "dce9bc68a02a1588bbcf869175c77289": {
+   "competizione": "Conference League",
+   "sport_key": "soccer_uefa_europa_conference_league",
+   "inizio_utc": "2026-11-05T17:45:00Z",
+   "inizio_roma": "2026-11-05 18:45",
+   "casa": "Atalanta BC",
+   "trasferta": "FC Kairat",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 675,
+    "pinnacle_last_update": "2026-11-05T06:30:05Z",
+    "quote": {
+     "1": 1.15,
+     "X": 8.72,
+     "2": 17.95
+    },
+    "p_fair_pct": {
+     "1": 85.11,
+     "X": 10.34,
+     "2": 4.55
+    },
+    "quota_equa": {
+     "1": 1.175,
+     "X": 9.672,
+     "2": 21.988
+    },
+    "margine_pct": 4.0
+   }
+  },
+  "e2bb1ddf148879e8fc2aabaed0357eb9": {
+   "competizione": "Conference League",
+   "sport_key": "soccer_uefa_europa_conference_league",
+   "inizio_utc": "2026-11-05T17:45:00Z",
+   "inizio_roma": "2026-11-05 18:45",
+   "casa": "AGF Aarhus",
+   "trasferta": "SC Braga",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 675,
+    "pinnacle_last_update": "2026-11-05T06:30:05Z",
+    "quote": {
+     "1": 4.02,
+     "X": 3.5,
+     "2": 1.99
+    },
+    "p_fair_pct": {
+     "1": 23.73,
+     "X": 27.39,
+     "2": 48.88
+    },
+    "quota_equa": {
+     "1": 4.214,
+     "X": 3.651,
+     "2": 2.046
+    },
+    "margine_pct": 3.7
+   }
+  },
+  "e7d2a1b71b2d6c414e2ff85682e9ebd5": {
+   "competizione": "Conference League",
+   "sport_key": "soccer_uefa_europa_conference_league",
+   "inizio_utc": "2026-11-05T17:45:00Z",
+   "inizio_roma": "2026-11-05 18:45",
+   "casa": "Trabzonspor",
+   "trasferta": "SC Freiburg",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 675,
+    "pinnacle_last_update": "2026-11-05T06:30:05Z",
+    "quote": {
+     "1": 2.48,
+     "X": 3.65,
+     "2": 2.79
+    },
+    "p_fair_pct": {
+     "1": 39.08,
+     "X": 26.27,
+     "2": 34.64
+    },
+    "quota_equa": {
+     "1": 2.559,
+     "X": 3.806,
+     "2": 2.887
+    },
+    "margine_pct": 3.56
+   }
+  },
+  "1ef82c68f5ccf78aa0a6d031f750cc6e": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-05T18:00:00Z",
+   "inizio_roma": "2026-11-05 19:00",
+   "casa": "Matteo Berrettini",
+   "trasferta": "Carlos Alcaraz",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 690,
+    "pinnacle_last_update": "2026-11-05T06:30:08Z",
+    "quote": {
+     "1": 5.6,
+     "2": 1.18
+    },
+    "p_fair_pct": {
+     "1": 16.56,
+     "2": 83.44
+    },
+    "quota_equa": {
+     "1": 6.04,
+     "2": 1.198
+    },
+    "margine_pct": 2.6
+   }
+  },
+  "6a03e950601f142942705acfb764d107": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-05T19:30:00Z",
+   "inizio_roma": "2026-11-05 20:30",
+   "casa": "Arthur Fils",
+   "trasferta": "Taylor Fritz",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 780,
+    "pinnacle_last_update": "2026-11-05T06:30:08Z",
+    "quote": {
+     "1": 1.78,
+     "2": 2.15
+    },
+    "p_fair_pct": {
+     "1": 54.83,
+     "2": 45.17
+    },
+    "quota_equa": {
+     "1": 1.824,
+     "2": 2.214
+    },
+    "margine_pct": 2.69
+   }
+  },
+  "158d65d9ca4cd4baf93be0a4c2b9e83a": {
+   "competizione": "Conference League",
+   "sport_key": "soccer_uefa_europa_conference_league",
+   "inizio_utc": "2026-11-05T20:00:00Z",
+   "inizio_roma": "2026-11-05 21:00",
+   "casa": "FC Lugano",
+   "trasferta": "FK Kauno Žalgiris",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 810,
+    "pinnacle_last_update": "2026-11-05T06:30:05Z",
+    "quote": {
+     "1": 1.17,
+     "X": 8.06,
+     "2": 14.61
+    },
+    "p_fair_pct": {
+     "1": 83.31,
+     "X": 11.07,
+     "2": 5.62
+    },
+    "quota_equa": {
+     "1": 1.2,
+     "X": 9.034,
+     "2": 17.802
+    },
+    "margine_pct": 4.72
+   }
+  },
+  "2af127e906ae56f3543d283b85f7b54e": {
+   "competizione": "Europa League",
+   "sport_key": "soccer_uefa_europa_league",
+   "inizio_utc": "2026-11-05T20:00:00Z",
+   "inizio_roma": "2026-11-05 21:00",
+   "casa": "Hapoel Be'er Sheva",
+   "trasferta": "OFI Crete",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 810,
+    "pinnacle_last_update": "2026-11-05T06:29:37Z",
+    "quote": {
+     "1": 2.15,
+     "X": 3.58,
+     "2": 3.43
+    },
+    "p_fair_pct": {
+     "1": 45.21,
+     "X": 26.79,
+     "2": 28.0
+    },
+    "quota_equa": {
+     "1": 2.212,
+     "X": 3.732,
+     "2": 3.571
+    },
+    "margine_pct": 3.6
+   }
+  },
+  "35d4f8b2b7ec249fd22afd235c31ef2d": {
+   "competizione": "Conference League",
+   "sport_key": "soccer_uefa_europa_conference_league",
+   "inizio_utc": "2026-11-05T20:00:00Z",
+   "inizio_roma": "2026-11-05 21:00",
+   "casa": "AS Monaco",
+   "trasferta": "FC Nordsjaelland",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 810,
+    "pinnacle_last_update": "2026-11-05T06:30:05Z",
+    "quote": {
+     "1": 1.41,
+     "X": 5.16,
+     "2": 6.79
+    },
+    "p_fair_pct": {
+     "1": 68.81,
+     "X": 17.89,
+     "2": 13.3
+    },
+    "quota_equa": {
+     "1": 1.453,
+     "X": 5.59,
+     "2": 7.516
+    },
+    "margine_pct": 5.03
+   }
+  },
+  "402e102fa845ed84ab7e59b3b17f8c29": {
+   "competizione": "Europa League",
+   "sport_key": "soccer_uefa_europa_league",
+   "inizio_utc": "2026-11-05T20:00:00Z",
+   "inizio_roma": "2026-11-05 21:00",
+   "casa": "Torreense",
+   "trasferta": "FC Ararat-Armenia",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 810,
+    "pinnacle_last_update": "2026-11-05T06:29:37Z",
+    "quote": {
+     "1": 1.72,
+     "X": 3.97,
+     "2": 4.8
+    },
+    "p_fair_pct": {
+     "1": 56.51,
+     "X": 23.9,
+     "2": 19.59
+    },
+    "quota_equa": {
+     "1": 1.769,
+     "X": 4.185,
+     "2": 5.105
+    },
+    "margine_pct": 4.16
+   }
+  },
+  "5d2de41c72a26f06f5b1f85676a7df00": {
+   "competizione": "Conference League",
+   "sport_key": "soccer_uefa_europa_conference_league",
+   "inizio_utc": "2026-11-05T20:00:00Z",
+   "inizio_roma": "2026-11-05 21:00",
+   "casa": "FC Copenhagen",
+   "trasferta": "FC Iberia 1999",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 810,
+    "pinnacle_last_update": "2026-11-05T06:30:05Z",
+    "quote": {
+     "1": 1.17,
+     "X": 7.19,
+     "2": 17.55
+    },
+    "p_fair_pct": {
+     "1": 83.15,
+     "X": 12.43,
+     "2": 4.41
+    },
+    "quota_equa": {
+     "1": 1.203,
+     "X": 8.042,
+     "2": 22.659
+    },
+    "margine_pct": 5.08
+   }
+  },
+  "5ecf6578ba030a1e99abaa3200319e37": {
+   "competizione": "Europa League",
+   "sport_key": "soccer_uefa_europa_league",
+   "inizio_utc": "2026-11-05T20:00:00Z",
+   "inizio_roma": "2026-11-05 21:00",
+   "casa": "Celtic",
+   "trasferta": "Besiktas JK",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 810,
+    "pinnacle_last_update": "2026-11-05T06:29:37Z",
+    "quote": {
+     "1": 3.06,
+     "X": 3.98,
+     "2": 2.18
+    },
+    "p_fair_pct": {
+     "1": 31.47,
+     "X": 23.99,
+     "2": 44.54
+    },
+    "quota_equa": {
+     "1": 3.178,
+     "X": 4.169,
+     "2": 2.245
+    },
+    "margine_pct": 3.68
+   }
+  },
+  "5f12be0b4bcb21b30f6f0cd3326c14ba": {
+   "competizione": "Conference League",
+   "sport_key": "soccer_uefa_europa_conference_league",
+   "inizio_utc": "2026-11-05T20:00:00Z",
+   "inizio_roma": "2026-11-05 21:00",
+   "casa": "Getafe",
+   "trasferta": "Brighton and Hove Albion",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 810,
+    "pinnacle_last_update": "2026-11-05T06:30:05Z",
+    "quote": {
+     "1": 6.17,
+     "X": 4.03,
+     "2": 1.57
+    },
+    "p_fair_pct": {
+     "1": 14.86,
+     "X": 23.35,
+     "2": 61.79
+    },
+    "quota_equa": {
+     "1": 6.731,
+     "X": 4.282,
+     "2": 1.618
+    },
+    "margine_pct": 4.72
+   }
+  },
+  "6dad8d4dd99ba6f5dae0b3abdf8f669b": {
+   "competizione": "Europa League",
+   "sport_key": "soccer_uefa_europa_league",
+   "inizio_utc": "2026-11-05T20:00:00Z",
+   "inizio_roma": "2026-11-05 21:00",
+   "casa": "Sunderland",
+   "trasferta": "Dinamo Zagreb",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 810,
+    "pinnacle_last_update": "2026-11-05T06:29:37Z",
+    "quote": {
+     "1": 1.45,
+     "X": 4.88,
+     "2": 6.88
+    },
+    "p_fair_pct": {
+     "1": 67.3,
+     "X": 19.3,
+     "2": 13.41
+    },
+    "quota_equa": {
+     "1": 1.486,
+     "X": 5.182,
+     "2": 7.46
+    },
+    "margine_pct": 3.99
+   }
+  },
+  "84b68e09ecbe93fdbce759cd822322a2": {
+   "competizione": "Europa League",
+   "sport_key": "soccer_uefa_europa_league",
+   "inizio_utc": "2026-11-05T20:00:00Z",
+   "inizio_roma": "2026-11-05 21:00",
+   "casa": "SK Sturm Graz",
+   "trasferta": "NK Celje",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 810,
+    "pinnacle_last_update": "2026-11-05T06:29:37Z",
+    "quote": {
+     "1": 1.52,
+     "X": 4.72,
+     "2": 5.9
+    },
+    "p_fair_pct": {
+     "1": 64.18,
+     "X": 20.01,
+     "2": 15.81
+    },
+    "quota_equa": {
+     "1": 1.558,
+     "X": 4.999,
+     "2": 6.324
+    },
+    "margine_pct": 3.93
+   }
+  },
+  "8a2c155e7fe5e67981b44e12c0c6eba6": {
+   "competizione": "Conference League",
+   "sport_key": "soccer_uefa_europa_conference_league",
+   "inizio_utc": "2026-11-05T20:00:00Z",
+   "inizio_roma": "2026-11-05 21:00",
+   "casa": "Panathinaikos FC",
+   "trasferta": "PFC CSKA Sofia",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 810,
+    "pinnacle_last_update": "2026-11-05T06:30:05Z",
+    "quote": {
+     "1": 1.44,
+     "X": 4.92,
+     "2": 6.66
+    },
+    "p_fair_pct": {
+     "1": 67.45,
+     "X": 18.9,
+     "2": 13.66
+    },
+    "quota_equa": {
+     "1": 1.483,
+     "X": 5.292,
+     "2": 7.322
+    },
+    "margine_pct": 4.78
+   }
+  },
+  "91f5f46805156c8d245a9bb89f59969a": {
+   "competizione": "Conference League",
+   "sport_key": "soccer_uefa_europa_conference_league",
+   "inizio_utc": "2026-11-05T20:00:00Z",
+   "inizio_roma": "2026-11-05 21:00",
+   "casa": "FC Twente Enschede",
+   "trasferta": "Pafos FC",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 810,
+    "pinnacle_last_update": "2026-11-05T06:30:05Z",
+    "quote": {
+     "1": 1.31,
+     "X": 5.76,
+     "2": 8.41
+    },
+    "p_fair_pct": {
+     "1": 73.92,
+     "X": 15.73,
+     "2": 10.36
+    },
+    "quota_equa": {
+     "1": 1.353,
+     "X": 6.358,
+     "2": 9.656
+    },
+    "margine_pct": 5.59
+   }
+  },
+  "a3b02e19f5a52fe43adf2ece08319ee4": {
+   "competizione": "Conference League",
+   "sport_key": "soccer_uefa_europa_conference_league",
+   "inizio_utc": "2026-11-05T20:00:00Z",
+   "inizio_roma": "2026-11-05 21:00",
+   "casa": "Sint Truiden",
+   "trasferta": "SK Brann",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 810,
+    "pinnacle_last_update": "2026-11-05T06:30:05Z",
+    "quote": {
+     "1": 1.69,
+     "X": 4.21,
+     "2": 4.64
+    },
+    "p_fair_pct": {
+     "1": 57.41,
+     "X": 22.38,
+     "2": 20.21
+    },
+    "quota_equa": {
+     "1": 1.742,
+     "X": 4.468,
+     "2": 4.949
+    },
+    "margine_pct": 4.48
+   }
+  },
+  "ae868659024756b45f047362d4ed0ee4": {
+   "competizione": "Conference League",
+   "sport_key": "soccer_uefa_europa_conference_league",
+   "inizio_utc": "2026-11-05T20:00:00Z",
+   "inizio_roma": "2026-11-05 21:00",
+   "casa": "Riga FC",
+   "trasferta": "FK Jablonec",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 810,
+    "pinnacle_last_update": "2026-11-05T06:30:05Z",
+    "quote": {
+     "1": 2.42,
+     "X": 3.52,
+     "2": 2.91
+    },
+    "p_fair_pct": {
+     "1": 39.89,
+     "X": 27.11,
+     "2": 33.0
+    },
+    "quota_equa": {
+     "1": 2.507,
+     "X": 3.689,
+     "2": 3.03
+    },
+    "margine_pct": 4.1
+   }
+  },
+  "b828d43ba5fa1c8cdd2e34aabea9d0ce": {
+   "competizione": "Europa League",
+   "sport_key": "soccer_uefa_europa_league",
+   "inizio_utc": "2026-11-05T20:00:00Z",
+   "inizio_roma": "2026-11-05 21:00",
+   "casa": "Celta Vigo",
+   "trasferta": "Union Saint-Gilloise",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 810,
+    "pinnacle_last_update": "2026-11-05T06:29:37Z",
+    "quote": {
+     "1": 2.32,
+     "X": 3.52,
+     "2": 3.12
+    },
+    "p_fair_pct": {
+     "1": 41.84,
+     "X": 27.28,
+     "2": 30.88
+    },
+    "quota_equa": {
+     "1": 2.39,
+     "X": 3.666,
+     "2": 3.238
+    },
+    "margine_pct": 3.56
+   }
+  },
+  "bc4a4cc34a2219d9564b7b0c17ba2934": {
+   "competizione": "Europa League",
+   "sport_key": "soccer_uefa_europa_league",
+   "inizio_utc": "2026-11-05T20:00:00Z",
+   "inizio_roma": "2026-11-05 21:00",
+   "casa": "Benfica",
+   "trasferta": "Lech Poznań",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 810,
+    "pinnacle_last_update": "2026-11-05T06:29:37Z",
+    "quote": {
+     "1": 1.17,
+     "X": 8.15,
+     "2": 16.45
+    },
+    "p_fair_pct": {
+     "1": 83.72,
+     "X": 11.19,
+     "2": 5.09
+    },
+    "quota_equa": {
+     "1": 1.194,
+     "X": 8.939,
+     "2": 19.637
+    },
+    "margine_pct": 3.82
+   }
+  },
+  "c91f4c9744f6ca502b7986a564e858df": {
+   "competizione": "Europa League",
+   "sport_key": "soccer_uefa_europa_league",
+   "inizio_utc": "2026-11-05T20:00:00Z",
+   "inizio_roma": "2026-11-05 21:00",
+   "casa": "AZ Alkmaar",
+   "trasferta": "Juventus",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 810,
+    "pinnacle_last_update": "2026-11-05T06:29:37Z",
+    "quote": {
+     "1": 3.64,
+     "X": 3.76,
+     "2": 2.01
+    },
+    "p_fair_pct": {
+     "1": 26.27,
+     "X": 25.4,
+     "2": 48.34
+    },
+    "quota_equa": {
+     "1": 3.807,
+     "X": 3.937,
+     "2": 2.069
+    },
+    "margine_pct": 3.82
+   }
+  },
+  "e1c3625feeebcd65317e17a4e9a38c4f": {
+   "competizione": "Europa League",
+   "sport_key": "soccer_uefa_europa_league",
+   "inizio_utc": "2026-11-05T20:00:00Z",
+   "inizio_roma": "2026-11-05 21:00",
+   "casa": "Bayer Leverkusen",
+   "trasferta": "Marseille",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 810,
+    "pinnacle_last_update": "2026-11-05T06:29:37Z",
+    "quote": {
+     "1": 1.32,
+     "X": 6.17,
+     "2": 8.61
+    },
+    "p_fair_pct": {
+     "1": 74.2,
+     "X": 15.17,
+     "2": 10.63
+    },
+    "quota_equa": {
+     "1": 1.348,
+     "X": 6.592,
+     "2": 9.41
+    },
+    "margine_pct": 3.58
+   }
+  },
+  "fdfe43b1709a68218ab42934f7355032": {
+   "competizione": "Conference League",
+   "sport_key": "soccer_uefa_europa_conference_league",
+   "inizio_utc": "2026-11-05T20:00:00Z",
+   "inizio_roma": "2026-11-05 21:00",
+   "casa": "Universitatea Craiova",
+   "trasferta": "KF Egnatia",
+   "mattino": {
+    "preso_utc": "2026-11-05T06:30:09Z",
+    "preso_roma": "2026-11-05 07:30",
+    "minuti_al_via": 810,
+    "pinnacle_last_update": "2026-11-05T06:30:05Z",
+    "quote": {
+     "1": 1.43,
+     "X": 4.57,
+     "2": 7.63
+    },
+    "p_fair_pct": {
+     "1": 67.87,
+     "X": 20.39,
+     "2": 11.74
+    },
+    "quota_equa": {
+     "1": 1.473,
+     "X": 4.904,
+     "2": 8.519
+    },
+    "margine_pct": 4.92
+   }
+  }
+ },
+ "aggiornato_utc": "2026-11-05T06:30:09Z"
+}
