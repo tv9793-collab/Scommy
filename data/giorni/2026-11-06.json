@@ -1,0 +1,267 @@
+{
+ "data": "2026-11-06",
+ "fonte": "The Odds API v4, bookmaker pinnacle, mercato h2h (1X2 calcio, testa a testa tennis/basket)",
+ "metodo_devig": "shin",
+ "note": "p_fair con devig Shin; chiusura = ultima quota presa entro 40 minuti dal via (approssimazione della chiusura)",
+ "eventi": {
+  "10a66a309af482f75813cc0d9ce0bdd1": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-06T13:00:00Z",
+   "inizio_roma": "2026-11-06 14:00",
+   "casa": "Ben Shelton",
+   "trasferta": "Tommy Paul",
+   "mattino": {
+    "preso_utc": "2026-11-06T08:31:00Z",
+    "preso_roma": "2026-11-06 09:31",
+    "minuti_al_via": 269,
+    "pinnacle_last_update": "2026-11-06T08:30:56Z",
+    "quote": {
+     "1": 2.08,
+     "2": 1.83
+    },
+    "p_fair_pct": {
+     "1": 46.72,
+     "2": 53.28
+    },
+    "quota_equa": {
+     "1": 2.141,
+     "2": 1.877
+    },
+    "margine_pct": 2.72
+   }
+  },
+  "f1676b13a42184d83dee9e84e1b17aa5": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-06T14:10:00Z",
+   "inizio_roma": "2026-11-06 15:10",
+   "casa": "Luca Van Assche",
+   "trasferta": "Rinky Hijikata",
+   "mattino": {
+    "preso_utc": "2026-11-06T08:31:00Z",
+    "preso_roma": "2026-11-06 09:31",
+    "minuti_al_via": 339,
+    "pinnacle_last_update": "2026-11-06T08:30:56Z",
+    "quote": {
+     "1": 1.59,
+     "2": 2.49
+    },
+    "p_fair_pct": {
+     "1": 61.37,
+     "2": 38.63
+    },
+    "quota_equa": {
+     "1": 1.63,
+     "2": 2.588
+    },
+    "margine_pct": 3.05
+   }
+  },
+  "e4e0781ebc80c47d216dd73609a3c8e0": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-06T18:00:00Z",
+   "inizio_roma": "2026-11-06 19:00",
+   "casa": "Taylor Fritz",
+   "trasferta": "Carlos Alcaraz",
+   "mattino": {
+    "preso_utc": "2026-11-06T08:31:00Z",
+    "preso_roma": "2026-11-06 09:31",
+    "minuti_al_via": 569,
+    "pinnacle_last_update": "2026-11-06T08:30:56Z",
+    "quote": {
+     "1": 3.48,
+     "2": 1.35
+    },
+    "p_fair_pct": {
+     "1": 27.33,
+     "2": 72.67
+    },
+    "quota_equa": {
+     "1": 3.659,
+     "2": 1.376
+    },
+    "margine_pct": 2.81
+   }
+  },
+  "0adc47c275819823d018232033a6de7f": {
+   "competizione": "ATP Parigi",
+   "sport_key": "tennis_atp_paris_masters",
+   "inizio_utc": "2026-11-06T19:30:00Z",
+   "inizio_roma": "2026-11-06 20:30",
+   "casa": "Casper Ruud",
+   "trasferta": "Nuno Borges",
+   "mattino": {
+    "preso_utc": "2026-11-06T08:31:00Z",
+    "preso_roma": "2026-11-06 09:31",
+    "minuti_al_via": 659,
+    "pinnacle_last_update": "2026-11-06T08:30:56Z",
+    "quote": {
+     "1": 1.48,
+     "2": 2.82
+    },
+    "p_fair_pct": {
+     "1": 66.05,
+     "2": 33.95
+    },
+    "quota_equa": {
+     "1": 1.514,
+     "2": 2.946
+    },
+    "margine_pct": 3.03
+   }
+  },
+  "295076c39e49863cb54db085ac3cd340": {
+   "competizione": "Bundesliga",
+   "sport_key": "soccer_germany_bundesliga",
+   "inizio_utc": "2026-11-06T19:30:00Z",
+   "inizio_roma": "2026-11-06 20:30",
+   "casa": "Hamburger SV",
+   "trasferta": "Borussia Monchengladbach",
+   "mattino": {
+    "preso_utc": "2026-11-06T08:31:00Z",
+    "preso_roma": "2026-11-06 09:31",
+    "minuti_al_via": 659,
+    "pinnacle_last_update": "2026-11-06T08:30:41Z",
+    "quote": {
+     "1": 2.39,
+     "X": 3.62,
+     "2": 2.98
+    },
+    "p_fair_pct": {
+     "1": 40.78,
+     "X": 26.67,
+     "2": 32.56
+    },
+    "quota_equa": {
+     "1": 2.452,
+     "X": 3.75,
+     "2": 3.072
+    },
+    "margine_pct": 3.02
+   }
+  },
+  "5e7d141f719835de18877ed95bedcb32": {
+   "competizione": "Ligue 1",
+   "sport_key": "soccer_france_ligue_one",
+   "inizio_utc": "2026-11-06T19:45:00Z",
+   "inizio_roma": "2026-11-06 20:45",
+   "casa": "Toulouse",
+   "trasferta": "Strasbourg",
+   "mattino": {
+    "preso_utc": "2026-11-06T08:31:00Z",
+    "preso_roma": "2026-11-06 09:31",
+    "minuti_al_via": 674,
+    "pinnacle_last_update": "2026-11-06T08:30:45Z",
+    "quote": {
+     "1": 2.32,
+     "X": 3.68,
+     "2": 3.05
+    },
+    "p_fair_pct": {
+     "1": 42.02,
+     "X": 26.21,
+     "2": 31.78
+    },
+    "quota_equa": {
+     "1": 2.38,
+     "X": 3.816,
+     "2": 3.147
+    },
+    "margine_pct": 3.06
+   }
+  },
+  "fa069801a5c9b49143447a1a1d173fd1": {
+   "competizione": "Serie A",
+   "sport_key": "soccer_italy_serie_a",
+   "inizio_utc": "2026-11-06T19:45:00Z",
+   "inizio_roma": "2026-11-06 20:45",
+   "casa": "Venezia",
+   "trasferta": "Udinese",
+   "mattino": {
+    "preso_utc": "2026-11-06T08:31:00Z",
+    "preso_roma": "2026-11-06 09:31",
+    "minuti_al_via": 674,
+    "pinnacle_last_update": "2026-11-06T08:30:45Z",
+    "quote": {
+     "1": 2.34,
+     "X": 3.47,
+     "2": 3.18
+    },
+    "p_fair_pct": {
+     "1": 41.67,
+     "X": 27.86,
+     "2": 30.47
+    },
+    "quota_equa": {
+     "1": 2.4,
+     "X": 3.589,
+     "2": 3.282
+    },
+    "margine_pct": 3.0
+   }
+  },
+  "586bec023ee8ac2f0645d963bd2c9d25": {
+   "competizione": "Premier League",
+   "sport_key": "soccer_epl",
+   "inizio_utc": "2026-11-06T20:00:00Z",
+   "inizio_roma": "2026-11-06 21:00",
+   "casa": "Everton",
+   "trasferta": "Coventry City",
+   "mattino": {
+    "preso_utc": "2026-11-06T08:31:00Z",
+    "preso_roma": "2026-11-06 09:31",
+    "minuti_al_via": 689,
+    "pinnacle_last_update": "2026-11-06T08:30:43Z",
+    "quote": {
+     "1": 1.69,
+     "X": 4.13,
+     "2": 4.97
+    },
+    "p_fair_pct": {
+     "1": 57.79,
+     "X": 23.13,
+     "2": 19.08
+    },
+    "quota_equa": {
+     "1": 1.73,
+     "X": 4.323,
+     "2": 5.242
+    },
+    "margine_pct": 3.51
+   }
+  },
+  "9dd0014685fd62d9b2890d7c33a8c9ab": {
+   "competizione": "La Liga",
+   "sport_key": "soccer_spain_la_liga",
+   "inizio_utc": "2026-11-06T20:00:00Z",
+   "inizio_roma": "2026-11-06 21:00",
+   "casa": "Sevilla",
+   "trasferta": "Alavés",
+   "mattino": {
+    "preso_utc": "2026-11-06T08:31:00Z",
+    "preso_roma": "2026-11-06 09:31",
+    "minuti_al_via": 689,
+    "pinnacle_last_update": "2026-11-06T08:30:25Z",
+    "quote": {
+     "1": 1.86,
+     "X": 3.57,
+     "2": 4.66
+    },
+    "p_fair_pct": {
+     "1": 52.53,
+     "X": 26.98,
+     "2": 20.49
+    },
+    "quota_equa": {
+     "1": 1.904,
+     "X": 3.706,
+     "2": 4.881
+    },
+    "margine_pct": 3.23
+   }
+  }
+ },
+ "aggiornato_utc": "2026-11-06T08:31:00Z"
+}
