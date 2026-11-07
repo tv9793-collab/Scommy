@@ -91,36 +91,6 @@
     "margine_pct": 2.9
    }
   },
-  "0d53a5dbd9d4f4716e923b97e92dfb0d": {
-   "competizione": "Serie A",
-   "sport_key": "soccer_italy_serie_a",
-   "inizio_utc": "2026-11-07T14:00:00Z",
-   "inizio_roma": "2026-11-07 15:00",
-   "casa": "Torino",
-   "trasferta": "Lecce",
-   "mattino": {
-    "preso_utc": "2026-11-07T07:23:10Z",
-    "preso_roma": "2026-11-07 08:23",
-    "minuti_al_via": 397,
-    "pinnacle_last_update": "2026-11-07T07:23:06Z",
-    "quote": {
-     "1": 1.85,
-     "X": 3.65,
-     "2": 4.62
-    },
-    "p_fair_pct": {
-     "1": 52.87,
-     "X": 26.42,
-     "2": 20.71
-    },
-    "quota_equa": {
-     "1": 1.891,
-     "X": 3.785,
-     "2": 4.828
-    },
-    "margine_pct": 3.1
-   }
-  },
   "52b256088d29b4abb82e0c63ea9852fe": {
    "competizione": "Serie A",
    "sport_key": "soccer_italy_serie_a",
@@ -151,6 +121,58 @@
     "margine_pct": 3.05
    }
   },
+  "0d53a5dbd9d4f4716e923b97e92dfb0d": {
+   "competizione": "Serie A",
+   "sport_key": "soccer_italy_serie_a",
+   "inizio_utc": "2026-11-07T14:20:00Z",
+   "inizio_roma": "2026-11-07 15:20",
+   "casa": "Torino",
+   "trasferta": "Lecce",
+   "mattino": {
+    "preso_utc": "2026-11-07T07:23:10Z",
+    "preso_roma": "2026-11-07 08:23",
+    "minuti_al_via": 397,
+    "pinnacle_last_update": "2026-11-07T07:23:06Z",
+    "quote": {
+     "1": 1.85,
+     "X": 3.65,
+     "2": 4.62
+    },
+    "p_fair_pct": {
+     "1": 52.87,
+     "X": 26.42,
+     "2": 20.71
+    },
+    "quota_equa": {
+     "1": 1.891,
+     "X": 3.785,
+     "2": 4.828
+    },
+    "margine_pct": 3.1
+   },
+   "chiusura": {
+    "preso_utc": "2026-11-07T14:14:59Z",
+    "preso_roma": "2026-11-07 15:14",
+    "minuti_al_via": 5,
+    "pinnacle_last_update": "2026-11-07T14:14:52Z",
+    "quote": {
+     "1": 1.75,
+     "X": 3.45,
+     "2": 5.24
+    },
+    "p_fair_pct": {
+     "1": 55.12,
+     "X": 27.32,
+     "2": 17.56
+    },
+    "quota_equa": {
+     "1": 1.814,
+     "X": 3.66,
+     "2": 5.696
+    },
+    "margine_pct": 5.21
+   }
+  },
   "3ef62ef56758041178c5280225fe5db7": {
    "competizione": "Bundesliga",
    "sport_key": "soccer_germany_bundesliga",
@@ -179,6 +201,28 @@
      "2": 8.916
     },
     "margine_pct": 3.42
+   },
+   "chiusura": {
+    "preso_utc": "2026-11-07T14:14:59Z",
+    "preso_roma": "2026-11-07 15:14",
+    "minuti_al_via": 15,
+    "pinnacle_last_update": "2026-11-07T14:14:45Z",
+    "quote": {
+     "1": 1.32,
+     "X": 6.14,
+     "2": 9.37
+    },
+    "p_fair_pct": {
+     "1": 74.57,
+     "X": 15.5,
+     "2": 9.93
+    },
+    "quota_equa": {
+     "1": 1.341,
+     "X": 6.452,
+     "2": 10.073
+    },
+    "margine_pct": 2.72
    }
   },
   "4ca4c7a2a1c15e9121f9a7eaa7f42ddb": {
@@ -209,6 +253,28 @@
      "2": 2.388
     },
     "margine_pct": 2.94
+   },
+   "chiusura": {
+    "preso_utc": "2026-11-07T14:14:59Z",
+    "preso_roma": "2026-11-07 15:14",
+    "minuti_al_via": 15,
+    "pinnacle_last_update": "2026-11-07T14:14:46Z",
+    "quote": {
+     "1": 2.98,
+     "X": 3.91,
+     "2": 2.3
+    },
+    "p_fair_pct": {
+     "1": 32.69,
+     "X": 24.76,
+     "2": 42.55
+    },
+    "quota_equa": {
+     "1": 3.059,
+     "X": 4.039,
+     "2": 2.35
+    },
+    "margine_pct": 2.61
    }
   },
   "cdb5f9dd39e79db69659c76cd96d0bbe": {
@@ -239,6 +305,28 @@
      "2": 6.477
     },
     "margine_pct": 3.59
+   },
+   "chiusura": {
+    "preso_utc": "2026-11-07T14:14:59Z",
+    "preso_roma": "2026-11-07 15:14",
+    "minuti_al_via": 15,
+    "pinnacle_last_update": "2026-11-07T14:14:45Z",
+    "quote": {
+     "1": 1.43,
+     "X": 5.65,
+     "2": 6.5
+    },
+    "p_fair_pct": {
+     "1": 68.66,
+     "X": 16.82,
+     "2": 14.52
+    },
+    "quota_equa": {
+     "1": 1.456,
+     "X": 5.946,
+     "2": 6.886
+    },
+    "margine_pct": 3.01
    }
   },
   "fe97f5adf397dd6b0a8a9e0a5272f307": {
@@ -269,6 +357,28 @@
      "2": 1.32
     },
     "margine_pct": 4.06
+   },
+   "chiusura": {
+    "preso_utc": "2026-11-07T14:14:59Z",
+    "preso_roma": "2026-11-07 15:14",
+    "minuti_al_via": 15,
+    "pinnacle_last_update": "2026-11-07T14:14:45Z",
+    "quote": {
+     "1": 10.0,
+     "X": 6.95,
+     "2": 1.27
+    },
+    "p_fair_pct": {
+     "1": 9.15,
+     "X": 13.5,
+     "2": 77.36
+    },
+    "quota_equa": {
+     "1": 10.93,
+     "X": 7.41,
+     "2": 1.293
+    },
+    "margine_pct": 3.13
    }
   },
   "3903e98a54db0f2cc23095407fe9dad8": {
@@ -629,5 +739,5 @@
    }
   }
  },
- "aggiornato_utc": "2026-11-07T07:23:10Z"
+ "aggiornato_utc": "2026-11-07T14:14:59Z"
 }
