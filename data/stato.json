@@ -1,20 +1,12 @@
 {
- "crediti_letti_utc": "2026-11-08T08:53:08Z",
- "crediti_residui": 457,
- "crediti_usati_mese": 43,
+ "crediti_letti_utc": "2026-11-08T15:54:44Z",
+ "crediti_residui": 454,
+ "crediti_usati_mese": 46,
  "mattino_fatto": "2026-11-08",
  "ultime_note": [
-  "2026-11-08T08:53:08Z mattino soccer_epl: 5 eventi",
-  "2026-11-08T08:53:08Z mattino soccer_france_ligue_one: 6 eventi",
-  "2026-11-08T08:53:08Z mattino soccer_germany_bundesliga: 3 eventi",
-  "2026-11-08T08:53:08Z mattino soccer_italy_serie_a: 5 eventi",
-  "2026-11-08T08:53:08Z mattino soccer_spain_la_liga: 5 eventi",
-  "2026-11-08T08:53:08Z eventi soccer_uefa_europa_league: HTTP 429 EXCEEDED_FREQ_LIMIT",
-  "2026-11-08T08:53:08Z eventi tennis_atp_paris_masters: HTTP 429 EXCEEDED_FREQ_LIMIT",
-  "2026-11-08T08:53:08Z eventi tennis_atp_us_open: HTTP 429 EXCEEDED_FREQ_LIMIT",
-  "2026-11-08T08:53:08Z eventi tennis_atp_wimbledon: HTTP 429 EXCEEDED_FREQ_LIMIT",
-  "2026-11-08T08:53:08Z eventi tennis_wta_french_open: HTTP 429 EXCEEDED_FREQ_LIMIT",
-  "2026-11-08T08:53:08Z eventi tennis_wta_italian_open: HTTP 429 EXCEEDED_FREQ_LIMIT"
+  "2026-11-08T15:54:44Z chiusura soccer_epl: 1 eventi",
+  "2026-11-08T15:54:44Z chiusura soccer_france_ligue_one: 4 eventi",
+  "2026-11-08T15:54:44Z chiusura soccer_germany_bundesliga: 1 eventi"
  ],
- "ultimo_run_utc": "2026-11-08T08:00:00Z"
+ "ultimo_run_utc": "2026-11-08T15:00:00Z"
 }
