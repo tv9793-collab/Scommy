@@ -1,11 +1,20 @@
 {
- "crediti_letti_utc": "2026-11-07T14:14:59Z",
- "crediti_residui": 462,
- "crediti_usati_mese": 38,
- "mattino_fatto": "2026-11-07",
+ "crediti_letti_utc": "2026-11-08T08:53:08Z",
+ "crediti_residui": 457,
+ "crediti_usati_mese": 43,
+ "mattino_fatto": "2026-11-08",
  "ultime_note": [
-  "2026-11-07T14:14:59Z chiusura soccer_germany_bundesliga: 4 eventi",
-  "2026-11-07T14:14:59Z chiusura soccer_italy_serie_a: 1 eventi"
+  "2026-11-08T08:53:08Z mattino soccer_epl: 5 eventi",
+  "2026-11-08T08:53:08Z mattino soccer_france_ligue_one: 6 eventi",
+  "2026-11-08T08:53:08Z mattino soccer_germany_bundesliga: 3 eventi",
+  "2026-11-08T08:53:08Z mattino soccer_italy_serie_a: 5 eventi",
+  "2026-11-08T08:53:08Z mattino soccer_spain_la_liga: 5 eventi",
+  "2026-11-08T08:53:08Z eventi soccer_uefa_europa_league: HTTP 429 EXCEEDED_FREQ_LIMIT",
+  "2026-11-08T08:53:08Z eventi tennis_atp_paris_masters: HTTP 429 EXCEEDED_FREQ_LIMIT",
+  "2026-11-08T08:53:08Z eventi tennis_atp_us_open: HTTP 429 EXCEEDED_FREQ_LIMIT",
+  "2026-11-08T08:53:08Z eventi tennis_atp_wimbledon: HTTP 429 EXCEEDED_FREQ_LIMIT",
+  "2026-11-08T08:53:08Z eventi tennis_wta_french_open: HTTP 429 EXCEEDED_FREQ_LIMIT",
+  "2026-11-08T08:53:08Z eventi tennis_wta_italian_open: HTTP 429 EXCEEDED_FREQ_LIMIT"
  ],
- "ultimo_run_utc": "2026-11-08T01:00:00Z"
+ "ultimo_run_utc": "2026-11-08T08:00:00Z"
 }
