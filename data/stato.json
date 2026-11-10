@@ -2,11 +2,12 @@
  "crediti_letti_utc": "2026-11-08T15:54:44Z",
  "crediti_residui": 454,
  "crediti_usati_mese": 46,
- "mattino_fatto": "2026-11-09",
+ "mattino_fatto": "2026-11-10",
  "ultime_note": [
-  "2026-11-08T15:54:44Z chiusura soccer_epl: 1 eventi",
-  "2026-11-08T15:54:44Z chiusura soccer_france_ligue_one: 4 eventi",
-  "2026-11-08T15:54:44Z chiusura soccer_germany_bundesliga: 1 eventi"
+  "2026-11-10T07:32:31Z eventi tennis_atp_aus_open_singles: HTTP 429 EXCEEDED_FREQ_LIMIT",
+  "2026-11-10T07:32:31Z eventi tennis_atp_miami_open: HTTP 429 EXCEEDED_FREQ_LIMIT",
+  "2026-11-10T07:32:31Z eventi tennis_wta_french_open: HTTP 429 EXCEEDED_FREQ_LIMIT",
+  "2026-11-10T07:32:31Z eventi tennis_wta_italian_open: HTTP 429 EXCEEDED_FREQ_LIMIT"
  ],
- "ultimo_run_utc": "2026-11-10T00:00:00Z"
+ "ultimo_run_utc": "2026-11-10T07:00:00Z"
 }
