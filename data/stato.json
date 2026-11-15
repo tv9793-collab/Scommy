@@ -2,12 +2,22 @@
  "crediti_letti_utc": "2026-11-08T15:54:44Z",
  "crediti_residui": 454,
  "crediti_usati_mese": 46,
- "mattino_fatto": "2026-11-14",
+ "mattino_fatto": "2026-11-15",
  "ultime_note": [
-  "2026-11-10T07:32:31Z eventi tennis_atp_aus_open_singles: HTTP 429 EXCEEDED_FREQ_LIMIT",
-  "2026-11-10T07:32:31Z eventi tennis_atp_miami_open: HTTP 429 EXCEEDED_FREQ_LIMIT",
-  "2026-11-10T07:32:31Z eventi tennis_wta_french_open: HTTP 429 EXCEEDED_FREQ_LIMIT",
-  "2026-11-10T07:32:31Z eventi tennis_wta_italian_open: HTTP 429 EXCEEDED_FREQ_LIMIT"
+  "2026-11-15T06:52:20Z eventi chiusura soccer_uefa_europa_league: HTTP 429 EXCEEDED_FREQ_LIMIT",
+  "2026-11-15T06:52:20Z eventi tennis_atp_canadian_open: HTTP 429 EXCEEDED_FREQ_LIMIT",
+  "2026-11-15T06:52:20Z eventi tennis_atp_cincinnati_open: HTTP 429 EXCEEDED_FREQ_LIMIT",
+  "2026-11-15T06:52:20Z eventi tennis_atp_indian_wells: HTTP 429 EXCEEDED_FREQ_LIMIT",
+  "2026-11-15T06:52:20Z eventi tennis_atp_madrid_open: HTTP 429 EXCEEDED_FREQ_LIMIT",
+  "2026-11-15T06:52:20Z eventi tennis_atp_miami_open: HTTP 429 EXCEEDED_FREQ_LIMIT",
+  "2026-11-15T06:52:20Z eventi tennis_atp_shanghai_masters: HTTP 429 EXCEEDED_FREQ_LIMIT",
+  "2026-11-15T06:52:20Z eventi tennis_wta_china_open: HTTP 429 EXCEEDED_FREQ_LIMIT",
+  "2026-11-15T06:52:20Z eventi tennis_wta_cincinnati_open: HTTP 429 EXCEEDED_FREQ_LIMIT",
+  "2026-11-15T06:52:20Z eventi tennis_wta_dubai: HTTP 429 EXCEEDED_FREQ_LIMIT",
+  "2026-11-15T06:52:20Z eventi tennis_wta_french_open: HTTP 429 EXCEEDED_FREQ_LIMIT",
+  "2026-11-15T06:52:20Z eventi tennis_wta_indian_wells: HTTP 429 EXCEEDED_FREQ_LIMIT",
+  "2026-11-15T06:52:20Z eventi tennis_wta_madrid_open: HTTP 429 EXCEEDED_FREQ_LIMIT",
+  "2026-11-15T06:52:20Z eventi tennis_wta_miami_open: HTTP 429 EXCEEDED_FREQ_LIMIT"
  ],
- "ultimo_run_utc": "2026-11-15T00:00:00Z"
+ "ultimo_run_utc": "2026-11-15T06:00:00Z"
 }
