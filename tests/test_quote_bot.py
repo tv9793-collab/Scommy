@@ -212,3 +212,57 @@ class TestCiclo(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class ClientRisposte(qb.ClientOddsApi):
+    """Client con risposte HTTP predefinite e orologio finto (nessuna attesa reale)."""
+
+    def __init__(self, risposte):
+        self.attese = []
+        self.adesso = 0.0
+        super().__init__("finta", dormi=self._dormi_finto, orologio=lambda: self.adesso)
+        self.risposte = list(risposte)
+        self.n_richieste = 0
+
+    def _dormi_finto(self, secondi):
+        self.attese.append(round(secondi, 3))
+        self.adesso += secondi
+
+    def _richiesta(self, percorso, parametri):
+        self.n_richieste += 1
+        return self.risposte.pop(0)
+
+
+class TestLimiteFrequenza(unittest.TestCase):
+    def test_429_ripetuto_poi_ok(self):
+        client = ClientRisposte([(429, {"error_code": "EXCEEDED_FREQ_LIMIT"}), (200, [])])
+        self.assertEqual(client._get("/sports/x/events", {}), (200, []))
+        self.assertEqual(client.n_richieste, 2)
+        self.assertEqual(client.tentativi_429, 1)
+        self.assertIn(2.0, client.attese)
+
+    def test_429_persistente_si_arrende(self):
+        risposte = [(429, {"error_code": "EXCEEDED_FREQ_LIMIT"})] * 4
+        client = ClientRisposte(risposte)
+        stato, _ = client._get("/sports/x/events", {})
+        self.assertEqual(stato, 429)
+        self.assertEqual(client.n_richieste, 4)
+
+    def test_pausa_tra_chiamate(self):
+        client = ClientRisposte([(200, []), (200, [])])
+        client._get("/a", {})
+        client._get("/b", {})
+        self.assertEqual(client.attese, [qb.ClientOddsApi.PAUSA_TRA_CHIAMATE])
+
+    def test_crediti_finiti_non_ripetuto(self):
+        client = ClientRisposte([(429, {"error_code": "OUT_OF_USAGE_CREDITS"})])
+        stato, _ = client._get("/a", {})
+        self.assertEqual((stato, client.n_richieste), (429, 1))
+
+    def test_nota_nello_stato(self):
+        with tempfile.TemporaryDirectory() as cartella:
+            client = ClientFinto({"soccer_italy_serie_a": []})
+            client.tentativi_429 = 2
+            adesso = datetime(2026, 11, 18, 10, 0, tzinfo=timezone.utc)
+            esito = qb.esegui(client, Path(cartella), adesso, competizioni={"soccer_italy_serie_a": qb.COMPETIZIONI["soccer_italy_serie_a"]})
+            self.assertTrue(any("HTTP 429" in r for r in esito["log"]))

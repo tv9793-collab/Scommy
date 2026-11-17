@@ -50,6 +50,9 @@ Lettura da Claude in chat:
 - Chiusura: partite che iniziano entro 40 minuti e non hanno ancora la
   chiusura. Solo calcio (e basket quando acceso): l'orario dei match di
   tennis dopo il primo su un campo è stimato.
+- Limite di frequenza (HTTP 429 `EXCEEDED_FREQ_LIMIT`): almeno 0.5 s tra
+  due chiamate e fino a 3 nuovi tentativi (attese 2, 5, 10 s). I nuovi
+  tentativi sono riportati in `ultime_note` di `data/stato.json`.
 - Guardia crediti: sotto 60 residui solo calcio, sotto 15 solo chiusure
   calcio. Errori di chiave o crediti esauriti fanno fallire il run (email
   di GitHub).

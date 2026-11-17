@@ -36,6 +36,7 @@ import json
 import math
 import os
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -123,13 +124,42 @@ class ErroreChiave(Exception):
 # ---------------------------------------------------------------------------
 
 class ClientOddsApi:
-    def __init__(self, api_key: str, timeout: int = 30):
+    # Limite di frequenza (documentazione ufficiale, "API Error Codes",
+    # EXCEEDED_FREQ_LIMIT = HTTP 429): distanziare le chiamate e ripetere
+    # dopo qualche secondo. Un ciclo fa fino a ~70 chiamate /events una
+    # dietro l'altra: senza pausa alcune venivano rifiutate con 429 e la
+    # competizione restava senza dati per quel giro.
+    PAUSA_TRA_CHIAMATE = 0.5      # secondi minimi tra due chiamate
+    ATTESE_429 = (2.0, 5.0, 10.0) # attese prima di ogni nuovo tentativo dopo un 429
+
+    def __init__(self, api_key: str, timeout: int = 30, dormi=None, orologio=None):
         self.api_key = api_key
         self.timeout = timeout
         self.crediti_residui: int | None = None
         self.crediti_usati: int | None = None
+        self.tentativi_429 = 0
+        self._dormi = dormi or time.sleep
+        self._orologio = orologio or time.monotonic
+        self._ultima_chiamata: float | None = None
 
     def _get(self, percorso: str, parametri: dict) -> tuple[int, object]:
+        """Chiamata con pausa minima tra richieste e nuovi tentativi sui 429."""
+        for tentativo in range(len(self.ATTESE_429) + 1):
+            if self._ultima_chiamata is not None:
+                trascorso = self._orologio() - self._ultima_chiamata
+                if trascorso < self.PAUSA_TRA_CHIAMATE:
+                    self._dormi(self.PAUSA_TRA_CHIAMATE - trascorso)
+            stato_http, corpo = self._richiesta(percorso, parametri)
+            self._ultima_chiamata = self._orologio()
+            codice = corpo.get("error_code") if isinstance(corpo, dict) else None
+            limite = stato_http == 429 and codice in {None, "EXCEEDED_FREQ_LIMIT"}
+            if not limite or tentativo == len(self.ATTESE_429):
+                return stato_http, corpo
+            self.tentativi_429 += 1
+            self._dormi(self.ATTESE_429[tentativo])
+        return stato_http, corpo  # non raggiunto
+
+    def _richiesta(self, percorso: str, parametri: dict) -> tuple[int, object]:
         parametri = dict(parametri, apiKey=self.api_key)
         url = f"{API_BASE}{percorso}?{urllib.parse.urlencode(parametri)}"
         richiesta = urllib.request.Request(url, headers={"User-Agent": "quote-bot/1.0"})
@@ -493,6 +523,8 @@ def esegui(client: ClientOddsApi, cartella: Path, adesso: datetime, modo: str = 
         stato["crediti_letti_utc"] = iso(adesso)
     if client.crediti_usati is not None and client.crediti_usati != stato.get("crediti_usati_mese"):
         stato["crediti_usati_mese"] = client.crediti_usati
+    if client.tentativi_429:
+        log.append(f"limite di frequenza: {client.tentativi_429} nuovi tentativi dopo HTTP 429")
     if log:
         stato["ultime_note"] = [f"{iso(adesso)} {riga}" for riga in log][-20:]
     scrivi_stato(cartella, stato)
