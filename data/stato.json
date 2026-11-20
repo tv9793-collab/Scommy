@@ -1,10 +1,13 @@
 {
- "crediti_letti_utc": "2026-11-08T15:54:44Z",
- "crediti_residui": 454,
- "crediti_usati_mese": 46,
- "mattino_fatto": "2026-11-19",
+ "crediti_letti_utc": "2026-11-20T11:21:42Z",
+ "crediti_residui": 450,
+ "crediti_usati_mese": 50,
+ "mattino_fatto": "2026-11-20",
  "ultime_note": [
-  "2026-11-17T08:11:11Z eventi tennis_wta_wimbledon: HTTP 429 EXCEEDED_FREQ_LIMIT"
+  "2026-11-20T11:21:42Z mattino soccer_epl: 1 eventi",
+  "2026-11-20T11:21:42Z mattino soccer_france_ligue_one: 1 eventi",
+  "2026-11-20T11:21:42Z mattino soccer_germany_bundesliga: 1 eventi",
+  "2026-11-20T11:21:42Z mattino soccer_spain_la_liga: 2 eventi"
  ],
- "ultimo_run_utc": "2026-11-20T02:00:00Z"
+ "ultimo_run_utc": "2026-11-20T11:00:00Z"
 }

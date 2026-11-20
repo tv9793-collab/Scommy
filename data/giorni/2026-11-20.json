@@ -1,0 +1,99 @@
+{
+ "data": "2026-11-20",
+ "fonte": "The Odds API v4, bookmaker pinnacle, mercato h2h (1X2 calcio, testa a testa tennis/basket)",
+ "metodo_devig": "shin",
+ "note": "p_fair con devig Shin; chiusura = ultima quota presa entro 40 minuti dal via (approssimazione della chiusura)",
+ "eventi": {
+  "cae480fb1195f0032554a268cb80eb44": {
+   "competizione": "Bundesliga",
+   "sport_key": "soccer_germany_bundesliga",
+   "inizio_utc": "2026-11-20T19:30:00Z",
+   "inizio_roma": "2026-11-20 20:30",
+   "casa": "Bayern Munich",
+   "trasferta": "1. FC Köln",
+   "mattino": {
+    "preso_utc": "2026-11-20T11:21:42Z",
+    "preso_roma": "2026-11-20 12:21",
+    "minuti_al_via": 488,
+    "pinnacle_last_update": "2026-11-20T11:21:46Z",
+    "quote": {
+     "1": 1.08,
+     "X": 14.36,
+     "2": 25.84
+    },
+    "p_fair_pct": {
+     "1": 90.96,
+     "X": 6.03,
+     "2": 3.01
+    },
+    "quota_equa": {
+     "1": 1.099,
+     "X": 16.586,
+     "2": 33.235
+    },
+    "margine_pct": 3.43
+   }
+  },
+  "5dcc9d2b0da87770a4f49e924275be39": {
+   "competizione": "Ligue 1",
+   "sport_key": "soccer_france_ligue_one",
+   "inizio_utc": "2026-11-20T19:45:00Z",
+   "inizio_roma": "2026-11-20 20:45",
+   "casa": "Troyes",
+   "trasferta": "Le Havre",
+   "mattino": {
+    "preso_utc": "2026-11-20T11:21:42Z",
+    "preso_roma": "2026-11-20 12:21",
+    "minuti_al_via": 503,
+    "pinnacle_last_update": "2026-11-20T11:21:15Z",
+    "quote": {
+     "1": 2.24,
+     "X": 3.44,
+     "2": 3.48
+    },
+    "p_fair_pct": {
+     "1": 43.76,
+     "X": 28.28,
+     "2": 27.95
+    },
+    "quota_equa": {
+     "1": 2.285,
+     "X": 3.536,
+     "2": 3.578
+    },
+    "margine_pct": 2.45
+   }
+  },
+  "dcee36f9b8a9989972b6d4ddde76c4c7": {
+   "competizione": "La Liga",
+   "sport_key": "soccer_spain_la_liga",
+   "inizio_utc": "2026-11-20T20:00:00Z",
+   "inizio_roma": "2026-11-20 21:00",
+   "casa": "Athletic Bilbao",
+   "trasferta": "Espanyol",
+   "mattino": {
+    "preso_utc": "2026-11-20T11:21:42Z",
+    "preso_roma": "2026-11-20 12:21",
+    "minuti_al_via": 518,
+    "pinnacle_last_update": "2026-11-20T11:21:49Z",
+    "quote": {
+     "1": 1.51,
+     "X": 4.55,
+     "2": 6.75
+    },
+    "p_fair_pct": {
+     "1": 64.98,
+     "X": 21.06,
+     "2": 13.96
+    },
+    "quota_equa": {
+     "1": 1.539,
+     "X": 4.748,
+     "2": 7.165
+    },
+    "margine_pct": 3.02
+   }
+  }
+ },
+ "aggiornato_utc": "2026-11-20T11:21:42Z"
+}
