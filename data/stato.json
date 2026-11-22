@@ -1,14 +1,10 @@
 {
- "crediti_letti_utc": "2026-11-22T08:51:52Z",
- "crediti_residui": 438,
- "crediti_usati_mese": 62,
+ "crediti_letti_utc": "2026-11-22T17:03:23Z",
+ "crediti_residui": 437,
+ "crediti_usati_mese": 63,
  "mattino_fatto": "2026-11-22",
  "ultime_note": [
-  "2026-11-22T08:51:52Z mattino soccer_epl: 2 eventi",
-  "2026-11-22T08:51:52Z mattino soccer_france_ligue_one: 3 eventi",
-  "2026-11-22T08:51:52Z mattino soccer_germany_bundesliga: 2 eventi",
-  "2026-11-22T08:51:52Z mattino soccer_italy_serie_a: 5 eventi",
-  "2026-11-22T08:51:52Z mattino soccer_spain_la_liga: 4 eventi"
+  "2026-11-22T17:03:23Z chiusura soccer_spain_la_liga: 1 eventi"
  ],
- "ultimo_run_utc": "2026-11-22T08:00:00Z"
+ "ultimo_run_utc": "2026-11-22T17:00:00Z"
 }
