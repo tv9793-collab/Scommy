@@ -1,0 +1,99 @@
+{
+ "data": "2026-11-23",
+ "fonte": "The Odds API v4, bookmaker pinnacle, mercato h2h (1X2 calcio, testa a testa tennis/basket)",
+ "metodo_devig": "shin",
+ "note": "p_fair con devig Shin; chiusura = ultima quota presa entro 40 minuti dal via (approssimazione della chiusura)",
+ "eventi": {
+  "99776445d5a5f4ed008f9a6d6a1495b7": {
+   "competizione": "Serie A",
+   "sport_key": "soccer_italy_serie_a",
+   "inizio_utc": "2026-11-23T19:45:00Z",
+   "inizio_roma": "2026-11-23 20:45",
+   "casa": "Monza",
+   "trasferta": "Fiorentina",
+   "mattino": {
+    "preso_utc": "2026-11-23T12:14:09Z",
+    "preso_roma": "2026-11-23 13:14",
+    "minuti_al_via": 451,
+    "pinnacle_last_update": "2026-11-23T12:13:59Z",
+    "quote": {
+     "1": 3.84,
+     "X": 3.88,
+     "2": 1.97
+    },
+    "p_fair_pct": {
+     "1": 25.23,
+     "X": 24.97,
+     "2": 49.8
+    },
+    "quota_equa": {
+     "1": 3.963,
+     "X": 4.005,
+     "2": 2.008
+    },
+    "margine_pct": 2.58
+   }
+  },
+  "aa77e2a08a1a003b0bbb62a5f8e8ae42": {
+   "competizione": "Premier League",
+   "sport_key": "soccer_epl",
+   "inizio_utc": "2026-11-23T20:00:00Z",
+   "inizio_roma": "2026-11-23 21:00",
+   "casa": "Brentford",
+   "trasferta": "Everton",
+   "mattino": {
+    "preso_utc": "2026-11-23T12:14:09Z",
+    "preso_roma": "2026-11-23 13:14",
+    "minuti_al_via": 466,
+    "pinnacle_last_update": "2026-11-23T12:13:35Z",
+    "quote": {
+     "1": 2.25,
+     "X": 3.58,
+     "2": 3.32
+    },
+    "p_fair_pct": {
+     "1": 43.55,
+     "X": 27.14,
+     "2": 29.31
+    },
+    "quota_equa": {
+     "1": 2.296,
+     "X": 3.685,
+     "2": 3.411
+    },
+    "margine_pct": 2.5
+   }
+  },
+  "afae1c9d986e4ab2200dc9bd44b6b6c4": {
+   "competizione": "La Liga",
+   "sport_key": "soccer_spain_la_liga",
+   "inizio_utc": "2026-11-23T20:00:00Z",
+   "inizio_roma": "2026-11-23 21:00",
+   "casa": "Levante",
+   "trasferta": "Elche CF",
+   "mattino": {
+    "preso_utc": "2026-11-23T12:14:09Z",
+    "preso_roma": "2026-11-23 13:14",
+    "minuti_al_via": 466,
+    "pinnacle_last_update": "2026-11-23T12:14:13Z",
+    "quote": {
+     "1": 2.2,
+     "X": 3.64,
+     "2": 3.39
+    },
+    "p_fair_pct": {
+     "1": 44.58,
+     "X": 26.7,
+     "2": 28.72
+    },
+    "quota_equa": {
+     "1": 2.243,
+     "X": 3.745,
+     "2": 3.482
+    },
+    "margine_pct": 2.43
+   }
+  }
+ },
+ "aggiornato_utc": "2026-11-23T12:14:09Z"
+}
