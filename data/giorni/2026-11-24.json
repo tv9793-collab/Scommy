@@ -1,0 +1,279 @@
+{
+ "data": "2026-11-24",
+ "fonte": "The Odds API v4, bookmaker pinnacle, mercato h2h (1X2 calcio, testa a testa tennis/basket)",
+ "metodo_devig": "shin",
+ "note": "p_fair con devig Shin; chiusura = ultima quota presa entro 40 minuti dal via (approssimazione della chiusura)",
+ "eventi": {
+  "50b80f3ebd38bf63663b11ae0afc575b": {
+   "competizione": "Champions League",
+   "sport_key": "soccer_uefa_champs_league",
+   "inizio_utc": "2026-11-24T17:45:00Z",
+   "inizio_roma": "2026-11-24 18:45",
+   "casa": "Bodø/Glimt",
+   "trasferta": "LASK",
+   "mattino": {
+    "preso_utc": "2026-11-24T10:08:52Z",
+    "preso_roma": "2026-11-24 11:08",
+    "minuti_al_via": 456,
+    "pinnacle_last_update": "2026-11-24T10:08:47Z",
+    "quote": {
+     "1": 1.44,
+     "X": 5.46,
+     "2": 6.04
+    },
+    "p_fair_pct": {
+     "1": 67.64,
+     "X": 17.05,
+     "2": 15.31
+    },
+    "quota_equa": {
+     "1": 1.478,
+     "X": 5.866,
+     "2": 6.531
+    },
+    "margine_pct": 4.32
+   }
+  },
+  "e422af92d1fc06c0a330838c1c2f2e08": {
+   "competizione": "Champions League",
+   "sport_key": "soccer_uefa_champs_league",
+   "inizio_utc": "2026-11-24T17:45:00Z",
+   "inizio_roma": "2026-11-24 18:45",
+   "casa": "Galatasaray",
+   "trasferta": "Aston Villa",
+   "mattino": {
+    "preso_utc": "2026-11-24T10:08:52Z",
+    "preso_roma": "2026-11-24 11:08",
+    "minuti_al_via": 456,
+    "pinnacle_last_update": "2026-11-24T10:08:47Z",
+    "quote": {
+     "1": 3.14,
+     "X": 3.97,
+     "2": 2.2
+    },
+    "p_fair_pct": {
+     "1": 31.03,
+     "X": 24.41,
+     "2": 44.55
+    },
+    "quota_equa": {
+     "1": 3.223,
+     "X": 4.096,
+     "2": 2.244
+    },
+    "margine_pct": 2.49
+   }
+  },
+  "3fb5e4a792cf34a0459efcb79a11a785": {
+   "competizione": "Champions League",
+   "sport_key": "soccer_uefa_champs_league",
+   "inizio_utc": "2026-11-24T20:00:00Z",
+   "inizio_roma": "2026-11-24 21:00",
+   "casa": "Real Madrid",
+   "trasferta": "PSV Eindhoven",
+   "mattino": {
+    "preso_utc": "2026-11-24T10:08:52Z",
+    "preso_roma": "2026-11-24 11:08",
+    "minuti_al_via": 591,
+    "pinnacle_last_update": "2026-11-24T10:08:47Z",
+    "quote": {
+     "1": 1.15,
+     "X": 9.66,
+     "2": 15.55
+    },
+    "p_fair_pct": {
+     "1": 85.23,
+     "X": 9.31,
+     "2": 5.46
+    },
+    "quota_equa": {
+     "1": 1.173,
+     "X": 10.736,
+     "2": 18.33
+    },
+    "margine_pct": 3.74
+   }
+  },
+  "8e93849b4c1ccbf1c207836d5c470150": {
+   "competizione": "Champions League",
+   "sport_key": "soccer_uefa_champs_league",
+   "inizio_utc": "2026-11-24T20:00:00Z",
+   "inizio_roma": "2026-11-24 21:00",
+   "casa": "ŠK Slovan Bratislava",
+   "trasferta": "Real Betis",
+   "mattino": {
+    "preso_utc": "2026-11-24T10:08:52Z",
+    "preso_roma": "2026-11-24 11:08",
+    "minuti_al_via": 591,
+    "pinnacle_last_update": "2026-11-24T10:08:48Z",
+    "quote": {
+     "1": 10.0,
+     "X": 6.39,
+     "2": 1.27
+    },
+    "p_fair_pct": {
+     "1": 8.81,
+     "X": 14.38,
+     "2": 76.81
+    },
+    "quota_equa": {
+     "1": 11.347,
+     "X": 6.953,
+     "2": 1.302
+    },
+    "margine_pct": 4.39
+   }
+  },
+  "9a2ebad454db4ab3d53b89e96c79847a": {
+   "competizione": "Champions League",
+   "sport_key": "soccer_uefa_champs_league",
+   "inizio_utc": "2026-11-24T20:00:00Z",
+   "inizio_roma": "2026-11-24 21:00",
+   "casa": "Feyenoord",
+   "trasferta": "Porto",
+   "mattino": {
+    "preso_utc": "2026-11-24T10:08:52Z",
+    "preso_roma": "2026-11-24 11:08",
+    "minuti_al_via": 591,
+    "pinnacle_last_update": "2026-11-24T10:08:48Z",
+    "quote": {
+     "1": 3.26,
+     "X": 3.76,
+     "2": 2.21
+    },
+    "p_fair_pct": {
+     "1": 29.86,
+     "X": 25.8,
+     "2": 44.34
+    },
+    "quota_equa": {
+     "1": 3.349,
+     "X": 3.875,
+     "2": 2.255
+    },
+    "margine_pct": 2.52
+   }
+  },
+  "aea973c122c91837c15e066c757c747f": {
+   "competizione": "Champions League",
+   "sport_key": "soccer_uefa_champs_league",
+   "inizio_utc": "2026-11-24T20:00:00Z",
+   "inizio_roma": "2026-11-24 21:00",
+   "casa": "RB Leipzig",
+   "trasferta": "RC Lens",
+   "mattino": {
+    "preso_utc": "2026-11-24T10:08:52Z",
+    "preso_roma": "2026-11-24 11:08",
+    "minuti_al_via": 591,
+    "pinnacle_last_update": "2026-11-24T10:08:47Z",
+    "quote": {
+     "1": 1.37,
+     "X": 5.74,
+     "2": 7.39
+    },
+    "p_fair_pct": {
+     "1": 71.31,
+     "X": 16.27,
+     "2": 12.42
+    },
+    "quota_equa": {
+     "1": 1.402,
+     "X": 6.147,
+     "2": 8.049
+    },
+    "margine_pct": 3.95
+   }
+  },
+  "aee4e3c225603397ab52de3d066b566b": {
+   "competizione": "Champions League",
+   "sport_key": "soccer_uefa_champs_league",
+   "inizio_utc": "2026-11-24T20:00:00Z",
+   "inizio_roma": "2026-11-24 21:00",
+   "casa": "Arsenal",
+   "trasferta": "Borussia Dortmund",
+   "mattino": {
+    "preso_utc": "2026-11-24T10:08:52Z",
+    "preso_roma": "2026-11-24 11:08",
+    "minuti_al_via": 591,
+    "pinnacle_last_update": "2026-11-24T10:08:47Z",
+    "quote": {
+     "1": 1.46,
+     "X": 4.68,
+     "2": 6.95
+    },
+    "p_fair_pct": {
+     "1": 66.73,
+     "X": 20.09,
+     "2": 13.19
+    },
+    "quota_equa": {
+     "1": 1.499,
+     "X": 4.979,
+     "2": 7.582
+    },
+    "margine_pct": 4.25
+   }
+  },
+  "b9f00a4d399ec661e733857c9d5fb2dc": {
+   "competizione": "Champions League",
+   "sport_key": "soccer_uefa_champs_league",
+   "inizio_utc": "2026-11-24T20:00:00Z",
+   "inizio_roma": "2026-11-24 21:00",
+   "casa": "Manchester City",
+   "trasferta": "Napoli",
+   "mattino": {
+    "preso_utc": "2026-11-24T10:08:52Z",
+    "preso_roma": "2026-11-24 11:08",
+    "minuti_al_via": 591,
+    "pinnacle_last_update": "2026-11-24T10:08:47Z",
+    "quote": {
+     "1": 1.3,
+     "X": 6.29,
+     "2": 9.01
+    },
+    "p_fair_pct": {
+     "1": 75.21,
+     "X": 14.77,
+     "2": 10.02
+    },
+    "quota_equa": {
+     "1": 1.33,
+     "X": 6.773,
+     "2": 9.976
+    },
+    "margine_pct": 3.92
+   }
+  },
+  "ba719e378ac366262013bdb51a06aa6f": {
+   "competizione": "Champions League",
+   "sport_key": "soccer_uefa_champs_league",
+   "inizio_utc": "2026-11-24T20:00:00Z",
+   "inizio_roma": "2026-11-24 21:00",
+   "casa": "Como",
+   "trasferta": "AEK Athens",
+   "mattino": {
+    "preso_utc": "2026-11-24T10:08:52Z",
+    "preso_roma": "2026-11-24 11:08",
+    "minuti_al_via": 591,
+    "pinnacle_last_update": "2026-11-24T10:08:48Z",
+    "quote": {
+     "1": 1.27,
+     "X": 6.66,
+     "2": 9.89
+    },
+    "p_fair_pct": {
+     "1": 77.03,
+     "X": 13.9,
+     "2": 9.06
+    },
+    "quota_equa": {
+     "1": 1.298,
+     "X": 7.192,
+     "2": 11.036
+    },
+    "margine_pct": 3.87
+   }
+  }
+ },
+ "aggiornato_utc": "2026-11-24T10:08:52Z"
+}
