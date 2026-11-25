@@ -1,10 +1,11 @@
 {
- "crediti_letti_utc": "2026-11-24T10:08:52Z",
- "crediti_residui": 433,
- "crediti_usati_mese": 67,
- "mattino_fatto": "2026-11-24",
+ "crediti_letti_utc": "2026-11-25T13:35:42Z",
+ "crediti_residui": 431,
+ "crediti_usati_mese": 69,
+ "mattino_fatto": "2026-11-25",
  "ultime_note": [
-  "2026-11-24T10:08:52Z mattino soccer_uefa_champs_league: 9 eventi"
+  "2026-11-25T13:35:42Z mattino soccer_uefa_champs_league: 1 eventi",
+  "2026-11-25T13:35:42Z mattino soccer_uefa_europa_conference_league: 0 eventi"
  ],
- "ultimo_run_utc": "2026-11-25T03:00:00Z"
+ "ultimo_run_utc": "2026-11-25T13:00:00Z"
 }

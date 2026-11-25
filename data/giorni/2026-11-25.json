@@ -1,0 +1,39 @@
+{
+ "data": "2026-11-25",
+ "fonte": "The Odds API v4, bookmaker pinnacle, mercato h2h (1X2 calcio, testa a testa tennis/basket)",
+ "metodo_devig": "shin",
+ "note": "p_fair con devig Shin; chiusura = ultima quota presa entro 40 minuti dal via (approssimazione della chiusura)",
+ "eventi": {
+  "b1af6789fe6db7aab18a2945ce56f035": {
+   "competizione": "Champions League",
+   "sport_key": "soccer_uefa_champs_league",
+   "inizio_utc": "2026-11-25T20:00:00Z",
+   "inizio_roma": "2026-11-25 21:00",
+   "casa": "Atlético Madrid",
+   "trasferta": "Viking FK",
+   "mattino": {
+    "preso_utc": "2026-11-25T13:35:42Z",
+    "preso_roma": "2026-11-25 14:35",
+    "minuti_al_via": 384,
+    "pinnacle_last_update": "2026-11-25T13:35:46Z",
+    "quote": {
+     "1": 1.11,
+     "X": 10.93,
+     "2": 19.55
+    },
+    "p_fair_pct": {
+     "1": 88.05,
+     "X": 7.94,
+     "2": 4.01
+    },
+    "quota_equa": {
+     "1": 1.136,
+     "X": 12.591,
+     "2": 24.955
+    },
+    "margine_pct": 4.35
+   }
+  }
+ },
+ "aggiornato_utc": "2026-11-25T13:35:42Z"
+}
