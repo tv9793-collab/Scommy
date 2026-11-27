@@ -1,0 +1,159 @@
+{
+ "data": "2026-11-27",
+ "fonte": "The Odds API v4, bookmaker pinnacle, mercato h2h (1X2 calcio, testa a testa tennis/basket)",
+ "metodo_devig": "shin",
+ "note": "p_fair con devig Shin; chiusura = ultima quota presa entro 40 minuti dal via (approssimazione della chiusura)",
+ "eventi": {
+  "698f4a7967ead89e10205a68ceb4bda4": {
+   "competizione": "Bundesliga",
+   "sport_key": "soccer_germany_bundesliga",
+   "inizio_utc": "2026-11-27T19:30:00Z",
+   "inizio_roma": "2026-11-27 20:30",
+   "casa": "Werder Bremen",
+   "trasferta": "Borussia Monchengladbach",
+   "mattino": {
+    "preso_utc": "2026-11-27T15:25:28Z",
+    "preso_roma": "2026-11-27 16:25",
+    "minuti_al_via": 245,
+    "pinnacle_last_update": "2026-11-27T15:25:16Z",
+    "quote": {
+     "1": 1.7,
+     "X": 4.36,
+     "2": 4.7
+    },
+    "p_fair_pct": {
+     "1": 57.63,
+     "X": 22.01,
+     "2": 20.36
+    },
+    "quota_equa": {
+     "1": 1.735,
+     "X": 4.544,
+     "2": 4.911
+    },
+    "margine_pct": 3.04
+   }
+  },
+  "02ff879cf54f6d1fec2664efee0431db": {
+   "competizione": "Ligue 1",
+   "sport_key": "soccer_france_ligue_one",
+   "inizio_utc": "2026-11-27T19:45:00Z",
+   "inizio_roma": "2026-11-27 20:45",
+   "casa": "Brest",
+   "trasferta": "Paris FC",
+   "mattino": {
+    "preso_utc": "2026-11-27T15:25:28Z",
+    "preso_roma": "2026-11-27 16:25",
+    "minuti_al_via": 260,
+    "pinnacle_last_update": "2026-11-27T15:25:01Z",
+    "quote": {
+     "1": 3.67,
+     "X": 3.43,
+     "2": 2.17
+    },
+    "p_fair_pct": {
+     "1": 26.46,
+     "X": 28.36,
+     "2": 45.18
+    },
+    "quota_equa": {
+     "1": 3.779,
+     "X": 3.526,
+     "2": 2.213
+    },
+    "margine_pct": 2.49
+   }
+  },
+  "e9a663f13e7503c0ac20a54804338b60": {
+   "competizione": "Serie A",
+   "sport_key": "soccer_italy_serie_a",
+   "inizio_utc": "2026-11-27T19:45:00Z",
+   "inizio_roma": "2026-11-27 20:45",
+   "casa": "Venezia",
+   "trasferta": "Bologna",
+   "mattino": {
+    "preso_utc": "2026-11-27T15:25:28Z",
+    "preso_roma": "2026-11-27 16:25",
+    "minuti_al_via": 260,
+    "pinnacle_last_update": "2026-11-27T15:25:26Z",
+    "quote": {
+     "1": 3.2,
+     "X": 3.24,
+     "2": 2.48
+    },
+    "p_fair_pct": {
+     "1": 30.46,
+     "X": 30.07,
+     "2": 39.47
+    },
+    "quota_equa": {
+     "1": 3.284,
+     "X": 3.325,
+     "2": 2.533
+    },
+    "margine_pct": 2.44
+   }
+  },
+  "40d95e660c301c2d8a5a7a6317017b65": {
+   "competizione": "Premier League",
+   "sport_key": "soccer_epl",
+   "inizio_utc": "2026-11-27T20:00:00Z",
+   "inizio_roma": "2026-11-27 21:00",
+   "casa": "Nottingham Forest",
+   "trasferta": "Chelsea",
+   "mattino": {
+    "preso_utc": "2026-11-27T15:25:28Z",
+    "preso_roma": "2026-11-27 16:25",
+    "minuti_al_via": 275,
+    "pinnacle_last_update": "2026-11-27T15:25:09Z",
+    "quote": {
+     "1": 2.45,
+     "X": 3.42,
+     "2": 3.09
+    },
+    "p_fair_pct": {
+     "1": 39.97,
+     "X": 28.46,
+     "2": 31.57
+    },
+    "quota_equa": {
+     "1": 2.502,
+     "X": 3.513,
+     "2": 3.168
+    },
+    "margine_pct": 2.42
+   }
+  },
+  "80c92a163a81b69fef76530221e2edd0": {
+   "competizione": "La Liga",
+   "sport_key": "soccer_spain_la_liga",
+   "inizio_utc": "2026-11-27T20:00:00Z",
+   "inizio_roma": "2026-11-27 21:00",
+   "casa": "Levante",
+   "trasferta": "Real Racing Club de Santander",
+   "mattino": {
+    "preso_utc": "2026-11-27T15:25:28Z",
+    "preso_roma": "2026-11-27 16:25",
+    "minuti_al_via": 275,
+    "pinnacle_last_update": "2026-11-27T15:25:13Z",
+    "quote": {
+     "1": 2.05,
+     "X": 4.05,
+     "2": 3.43
+    },
+    "p_fair_pct": {
+     "1": 47.81,
+     "X": 23.88,
+     "2": 28.31
+    },
+    "quota_equa": {
+     "1": 2.092,
+     "X": 4.188,
+     "2": 3.532
+    },
+    "margine_pct": 2.63
+   }
+  }
+ },
+ "aggiornato_utc": "2026-11-27T15:25:28Z"
+}
